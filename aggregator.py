@@ -571,16 +571,15 @@ def aggregate_news():
     print(f"Updated {DATA_FILE} and {DATA_JS_FILE} with {len(final_list)} articles.")
 
 def main():
-    # Run once immediately
-    aggregate_news()
-    
-    # Schedule
-    schedule.every(30).minutes.do(aggregate_news)
-    
-    print("Scheduler running. Press Ctrl+C to exit.")
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
+    # Run once immediately and EXIT.
+    # We do not use the while loop here because GitHub Actions triggers the script every 30 mins.
+    try:
+        aggregate_news()
+    except Exception as e:
+        print(f"Error in main execution: {e}")
+
+if __name__ == "__main__":
+    main()
 
 if __name__ == "__main__":
     main()
