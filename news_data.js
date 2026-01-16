@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.086922"
+    "timestamp": "2026-01-16T10:13:18.245804"
   },
   {
     "source": "ABP Majha",
@@ -13,15 +13,23 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-crime-navodaya-students-death-case-sparks-outrage-family-alleges-foul-play-women-take-to-the-streets-in-protest-1407317",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.086922"
+    "timestamp": "2026-01-16T10:13:18.245927"
   },
   {
     "source": "Lokmat",
-    "title": "लातूरमध्ये काँग्रेस-वंचित आघाडी आणि भाजपमध्ये चुरस, महापालिकेचा एका क्लिकवर निकाल",
-    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-a-close-contest-between-congress-vanchit-aghadi-and-bjp-know-the-ward-wise-results-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-yuti-aadhadi-electiona_2025121614697.jpg",
+    "title": "लातूरचा मोठा निकाल! पहिल्या महापौर स्मिता खानापुरे पराभूत, भाजपच्या प्रेरणा होनराव विजयी",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-first-mayor-smita-khanapure-defeated-by-bjp-spoke-person-prerna-honrao-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/prerna-honrao-latur-bjp-win_2026011625525.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.163581"
+    "timestamp": "2026-01-16T10:13:18.331234"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur Municipal Election Results 2026: काँग्रेस-वंचित आघाडीची 'गुडन्यूज'; लातूर मनपावर निर्विवाद वर्चस्व - Marathi News | Latur Municipal Corporation Results: A close contest between Congress-Vanchit Aghadi and BJP, know the ward-wise results | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-a-close-contest-between-congress-vanchit-aghadi-and-bjp-know-the-ward-wise-results-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-16T10:13:18.331366"
   },
   {
     "source": "Lokmat",
@@ -29,7 +37,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-four-of-congress-vanchit-alliance-wins-8-in-the-lead-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.163581"
+    "timestamp": "2026-01-16T10:13:18.331463"
   },
   {
     "source": "Lokmat",
@@ -37,7 +45,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-election-1822-percent-voting-in-the-first-four-hours-voters-enthusiasm-highest-in-ward-18-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.163581"
+    "timestamp": "2026-01-16T10:13:18.331559"
   },
   {
     "source": "Lokmat",
@@ -45,7 +53,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-jawahar-navodaya-vidyalaya-student-death-case-two-employees-in-custody-as-per-primary-evidence-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.163581"
+    "timestamp": "2026-01-16T10:13:18.331652"
   },
   {
     "source": "Lokmat",
@@ -53,7 +61,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/prisoners-can-contest-elections-but-do-they-have-the-right-to-vote-what-about-bailed-and-deported-accused-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.164172"
+    "timestamp": "2026-01-16T10:13:18.331743"
   },
   {
     "source": "Lokmat",
@@ -61,7 +69,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/three-innkeepers-in-latur-face-punishment-deported-along-with-latur-district-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.164172"
+    "timestamp": "2026-01-16T10:13:18.331828"
   },
   {
     "source": "Lokmat",
@@ -69,7 +77,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/sister-brother-rule-in-ausa-municipality-parveen-sheikh-as-mayor-and-dr-afsar-sheikh-as-deputy-mayor-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.164172"
+    "timestamp": "2026-01-16T10:13:18.331919"
   },
   {
     "source": "Lokmat",
@@ -77,95 +85,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/conflicting-cases-registered-in-latur-congress-bjp-candidates-exchange-accusations-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.164172"
-  },
-  {
-    "source": "Lokmat",
-    "title": "‘क्रॉस व्होटिंग’च्या भीतीने उमेदवारांची झोप उडाली; ‘पॅनल टू पॅनल’’ मतदानासाठी ‘फिल्डिंग’! - Marathi News | Candidates lose sleep over fear of 'cross voting'; 'fielding' for 'panel to panel' voting! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/candidates-lose-sleep-over-fear-of-cross-voting-fielding-for-panel-to-panel-voting-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-16T13:40:51.164172"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Tree Cutting permission",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Online Building Permission System",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Online Hoarding/Banner Permissions",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Festival Related Permissions",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Ongoing projects/works",
-    "link": "https://mclatur.org/#",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Register Your complaint",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Know Complaint escalation",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Tourism specific information",
-    "link": "https://mclatur.org/#",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Corporation Initiatives",
-    "link": "https://mclatur.org/corporation-initiatives/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Parliamentary Election-2024",
-    "link": "https://mclatur.org/parliamentary-election-2024/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-01-16T13:40:53.208646"
+    "timestamp": "2026-01-16T10:13:18.332006"
   },
   {
     "source": "Punyanagari E-Paper",
@@ -173,15 +93,55 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-16/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T13:40:53.208646"
+    "timestamp": "2026-01-16T10:13:20.201571"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar E-Paper (16-01-2026)",
-    "link": "https://www.latursamachar.com/view/933/latur-main",
-    "image": "https://www.latursamachar.com/assets/images/logo.png",
+    "title": "Latur Samachar - Page 1 (16-01-2026)",
+    "link": "https://www.latursamachar.com/view/935/latur-main/1",
+    "image": "https://www.latursamachar.com/media/2026-01/page-1-6799707.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T13:40:53.635608"
+    "timestamp": "2026-01-16T10:13:21.002397"
+  },
+  {
+    "source": "Latur Samachar",
+    "title": "Latur Samachar - Page 2 (16-01-2026)",
+    "link": "https://www.latursamachar.com/view/935/latur-main/2",
+    "image": "https://www.latursamachar.com/media/2026-01/page-2-6259874.jpg",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-16T10:13:21.002406"
+  },
+  {
+    "source": "Latur Samachar",
+    "title": "Latur Samachar - Page 3 (16-01-2026)",
+    "link": "https://www.latursamachar.com/view/935/latur-main/3",
+    "image": "https://www.latursamachar.com/media/2026-01/page-3-5527650.jpg",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-16T10:13:21.002409"
+  },
+  {
+    "source": "Latur Samachar",
+    "title": "Latur Samachar - Page 4 (16-01-2026)",
+    "link": "https://www.latursamachar.com/view/935/latur-main/4",
+    "image": "https://www.latursamachar.com/media/2026-01/page-4-7054418.jpg",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-16T10:13:21.002411"
+  },
+  {
+    "source": "Latur Samachar",
+    "title": "Latur Samachar - Page 5 (16-01-2026)",
+    "link": "https://www.latursamachar.com/view/935/latur-main/5",
+    "image": "https://www.latursamachar.com/media/2026-01/page-5-8113223.jpg",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-16T10:13:21.002412"
+  },
+  {
+    "source": "Latur Samachar",
+    "title": "Latur Samachar - Page 6 (16-01-2026)",
+    "link": "https://www.latursamachar.com/view/935/latur-main/6",
+    "image": "https://www.latursamachar.com/media/2026-01/page-6-9168953.jpg",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-16T10:13:21.002414"
   },
   {
     "source": "Dainik Ekmat",
@@ -189,14 +149,21 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/21568/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T13:40:55.791866"
+    "timestamp": "2026-01-16T10:13:22.327061"
   },
   {
     "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat - Latur Local (Page 3)",
+    "title": "Ekmat News Clip",
     "link": "https://epaper.dainikekmat.com/edition/21568/latur/page/3",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Local News",
-    "timestamp": "2026-01-16T13:40:55.791866"
+    "image": "https://epaper.dainikekmat.com/uploads/epaper/2026-01/6969395ccb00f.jpg",
+    "clip": {
+      "x": 1445.76,
+      "y": 2397.05,
+      "w": 522.08,
+      "h": 230.92,
+      "full_width": 2007.9999999999998
+    },
+    "time_str": "Short News",
+    "timestamp": "2026-01-16T10:13:22.811801"
   }
 ];
