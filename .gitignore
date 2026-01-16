@@ -1,0 +1,8 @@
+__pycache__/
+*.log
+*.tmp
+error.txt
+news.json
+# We keep news_data.js in the repo so there is initial data
+# But normally data files are ignored. 
+# For this specific "flat data" architecture, we MUST commit news_data.js

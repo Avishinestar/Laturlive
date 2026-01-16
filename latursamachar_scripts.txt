@@ -1,0 +1,1209 @@
+
+--- Script 2 ---
+            
+                window.OneSignal = window.OneSignal || [];
+                OneSignal.push(function() {
+                  OneSignal.init({
+                    appId: 'a01d0cfc-59aa-4c0f-8e03-9c3bd06c54e1',
+                    safari_web_id: "",
+                    notifyButton: {
+                      enable: true,
+                    },
+                  });
+                });        
+            
+--- Script 3 ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"NewsMediaOrganization","name":"Latur Samachar","email":"admin@example.com","url":"https:\/\/www.latursamachar.com\/","sameAs":["https:\/\/www.facebook.com\/profile.php?id=100070096821296&mibextid=ZbWKwL","https:\/\/x.com\/latursamachar?t=fIg9yMBuyPYdAn7-q3pqDA&s=09","https:\/\/youtube.com\/@latursamachar?si=CPQgeRh4-_TclV2b"],"@id":"https:\/\/www.latursamachar.com\/#organization"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","name":"Latur Samachar","url":"https:\/\/www.latursamachar.com\/","@id":"https:\/\/www.latursamachar.com\/"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","name":"LATUR EDITION","url":"\/category\/9\/latur-edition","@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main\/#epapercategory"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","name":"LATUR EDITION - 15 Jan 2026 - Page 1","url":"https:\/\/www.latursamachar.com\/view\/933\/latur-main","@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main"}}],"@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main\/#breadcrumb"},{"@type":"WebSite","url":"https:\/\/www.latursamachar.com\/","inLanguage":"en","publisher":{"@id":"https:\/\/www.latursamachar.com\/#organization"},"@id":"https:\/\/www.latursamachar.com\/#website"},{"@type":"WebPage","name":"LATUR EDITION - 15 Jan 2026 - Page 1","url":"https:\/\/www.latursamachar.com\/view\/933\/latur-main","inLanguage":"en","potentialAction":{"@type":"ReadAction","target":"https:\/\/www.latursamachar.com\/view\/933\/latur-main"},"publisher":{"@id":"https:\/\/www.latursamachar.com\/#organization"},"breadcrumb":{"@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main\/#breadcrumb"},"isPartOf":{"@id":"https:\/\/www.latursamachar.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main\/#image"},"@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main\/#webpage"},{"@type":"ImageObject","caption":"LATUR EDITION - 15 Jan 2026 - Page 1","url":"https:\/\/www.latursamachar.com\/view\/933\/latur-main","contentUrl":"https:\/\/www.latursamachar.com\/media\/2026-01\/page-1-9265451.jpg","@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main\/#image"},{"@type":"CollectionPage","url":"https:\/\/www.latursamachar.com\/view\/933\/latur-main","name":"LATUR EDITION - 15 Jan 2026 - Page 1","isPartOf":{"@id":"https:\/\/www.latursamachar.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main\/#breadcrumb"},"inLanguage":"en","potentialAction":{"@type":"ReadAction","target":"https:\/\/www.latursamachar.com\/view\/933\/latur-main"},"@id":"https:\/\/www.latursamachar.com\/view\/933\/latur-main\/#webpage"}]}
+--- Script 4 ---
+
+            
+            
+         $(document).ready(function () {
+            $(".datepicker").datepicker({
+                dateFormat: "dd M yy",
+                changeYear: true,
+                changeMonth: true,
+                yearRange: '2010:2030'
+            });
+             
+            $(".timepicker").timepicker({
+                'timeFormat': 'H:m'
+            });    
+            
+            $(document).ajaxStart(function () {                    
+                $("#progress").show();
+            });
+            $(document).ajaxStop(function () {                     
+                $("#progress").hide();
+            }); 
+            
+
+            $(".ie-alert").hide();
+            if (isIE()){
+                $(".ie-alert").show();
+                $(".site-content, .site-header, .site-footer").css("opacity","0.4");
+            } 
+            
+            //if (/Safari/.test(navigator.userAgent) && (/Mac OS/.test(navigator.userAgent) || /(iPhone|iPad)/.test(navigator.userAgent))) {
+            //if(!isPrefetchSupported()){
+            if (/Safari/.test(navigator.userAgent) && (/Mac OS/.test(navigator.userAgent) || /(iPhone|iPad)/.test(navigator.userAgent))) {                         
+                         
+                $("link[rel=prefetch]").prop("rel","stylesheet");
+            }
+            
+            if(!!window.chrome == false){
+                              
+                $("link[rel=prefetch]").prop("rel","stylesheet");
+            } else { 
+                              
+            }
+            function isPrefetchSupported() {    
+                try {
+                    // Create a link element with rel="prefetch"
+                    var link = document.createElement('link');
+                    link.rel = 'prefetch';
+
+                    // Check if the browser retained the rel attribute
+                //  console.log("Prefetch Supported");
+                    return link.rel === 'prefetch';
+                    
+                } catch (e) {
+                    // An error occurred, so prefetch is not supported
+                //   console.log("Prefetch Not Supported");
+                    return false;
+                }
+            }
+       
+ 
+        });
+  
+        
+        
+        function isIE() {
+            ua = navigator.userAgent;
+            /* MSIE used to detect old browsers and Trident used to newer ones*/
+            var is_ie = ua.indexOf("MSIE ") > -1 || ua.indexOf("Trident/") > -1;
+
+            return is_ie; 
+          }
+        
+            function generatePlaceholder(parent){
+                $(parent+" input, "+parent+" textarea, "+parent+" select").each(function(){
+
+                    var id = $(this).attr("id");
+                    var label = $("label[for="+id+"]").html();
+                    $(this).prop("placeholder",label);
+                    $("label[for="+id+"]").hide();
+
+                });
+            }
+            $.ajaxSetup({
+                type: "post",
+                dataType: "json",
+                data: {"_csrf": yii.getCsrfToken()},
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    showError(textStatus, errorThrown);
+                } 
+                
+            });
+  
+        
+--- Script 6 ---
+
+$(document).ready(function(){
+$(".btnClip").removeClass("btn-primary");
+$(".btnClip").addClass("btn-info");
+
+$(".thumbbox").dialog({
+autoOpen:false,
+width:900,
+title: "Thumbnails",
+modal:true
+})
+
+$(".btnThumb .btn").on("click", (e) => {
+e.preventDefault();
+$(".thumbbox").dialog('open');
+})
+
+$(".thumbbox a").on("click",function(e){
+$(".thumbbox").dialog('close');
+});
+
+});
+
+--- Script 7 ---
+
+function resizeImage(){
+return;
+let url = $("#areamapper-img").prop("src");
+let newUrl = url.replace("/media/", "/media/600/");
+$("#areamapper-img, .page-image img").prop("src",newUrl);
+}
+$(document).on("afterPageChange",function(e){
+  console.log(e);
+//resizeImage();
+})
+
+$(document).ready(function(e){
+resizeImage();
+})
+
+
+
+
+
+//Here we are going to preload images for faster loading. 
+
+$(document).ready(function(){
+
+let imageTagList = [];
+$.each(EpaperData.pgModels, (n, pgModel) => { 
+   let imageTag = new Image();
+   imageTag.src = "/media/600/" + pgModel.attachment.f_folder + "/" + pgModel.attachment.f_filename;
+   imageTagList.push(imageTag); 
+});
+  
+$(document).on("afterPageChange",function(){
+return;
+    let state = currentState.getState(); 
+    $.each(imageTagList, (n, imageTag) => {
+        if (imageTag.src.indexOf(state.attachment.f_folder+"/"+state.attachment.f_filename) > -1) {
+            $(".page-image img, #areamapper-img").attr("src", imageTag.src);
+        }
+    });
+});
+
+});
+
+--- Script 8 ---
+
+$(document).ready(function(){
+
+$(".epaper-navigation .btn-pdfdownload").addClass("d-block d-md-none");
+$(".navbar-brand").after($(".epaper-navigation .btn-pdfdownload")) 
+
+$(".page-item.next .page-link i").prop("class","");
+$(".page-item.next .page-link i").addClass("fa-solid");
+$(".page-item.next .page-link i").addClass("fa-arrow-right");
+
+$(".page-item.prev .page-link i").prop("class","");
+$(".page-item.prev .page-link i").addClass("fa-solid");
+$(".page-item.prev .page-link i").addClass("fa-arrow-left");
+
+
+});
+
+$(document).on("afterPageChange",function(){
+
+$(".page-item.next .page-link i").prop("class","");
+$(".page-item.next .page-link i").addClass("fa-solid");
+$(".page-item.next .page-link i").addClass("fa-arrow-right");
+
+$(".page-item.prev .page-link i").prop("class","");
+$(".page-item.prev .page-link i").addClass("fa-solid");
+$(".page-item.prev .page-link i").addClass("fa-arrow-left");
+
+
+});
+
+--- Script 9 ---
+
+$(document).ready(function(){
+$(".top-calender .btn").removeClass("btn-primary"); $(".top-calender .btn").addClass("btn-secondary");
+
+});
+
+--- Script 10 ---
+
+    
+var Cropping = false;
+var Lightbox = false;
+        
+const EpaperData = {"edModel":{"ed_id":"933","ed_title":"Latur Main","ed_alias":"latur-main","ed_desc":"","ed_date":"2026-01-15","file_id":"7882","ed_created_on":"2026-01-15 09:34:02","ed_updated_on":"2026-01-15 09:45:28","ed_published_on":"2026-01-15 09:45:28","ed_created_by":"1","ed_updated_by":"1","ed_owned_by":"1","ed_status":"Public","featuredImage":{"pg_id":"5891","pg_title":"Page 1","pg_alias":"page-1","pg_desc":"","pg_order":"1","file_id":"7883","sp_id":"0","ed_id":"933","attachment":{"f_id":"7883","f_folder":"2026-01","f_filename":"page-1-9265451.jpg","f_size":"1558253.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]"}},"categories":[{"cat_id":"9","cat_title":"LATUR EDITION","cat_alias":"latur-edition","cat_desc":"","cat_pid":"0","file_id":"0"}],"url":"/view/933/latur-main","title":"Latur Main"},"spModels":[{"sp_alias":"","sp_id":"0","sp_title":"Home","title":"Latur Main","url":"/view/933/latur-main"}],"pgModels":{"1":{"pg_id":"5891","pg_title":"Page 1","pg_alias":"page-1","pg_desc":"","pg_order":"1","file_id":"7883","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7883","f_folder":"2026-01","f_filename":"page-1-9265451.jpg","f_size":"1558253.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23826","mp_title":"","mp_alias":"696868ae1c3de","mp_desc":"","mp_x":"925.7110","mp_y":"553.4930","mp_w":"1430.8640","mp_h":"981.3020","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23827","mp_title":"","mp_alias":"696868ae1c2f0","mp_desc":"","mp_x":"1198.8320","mp_y":"1539.6290","mp_w":"1152.9090","mp_h":"323.8780","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23828","mp_title":"","mp_alias":"696868ae1ca5e","mp_desc":"","mp_x":"55.5910","mp_y":"553.4930","mp_w":"867.7030","mp_h":"986.1360","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23829","mp_title":"","mp_alias":"696868ae1c1c4","mp_desc":"","mp_x":"60.4250","mp_y":"2088.2880","mp_w":"1128.7390","mp_h":"925.7110","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23830","mp_title":"","mp_alias":"696868ae1c7b7","mp_desc":"","mp_x":"1193.9980","mp_y":"1858.6730","mp_w":"1155.3260","mp_h":"1790.9970","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23831","mp_title":"","mp_alias":"696868ae1dadf","mp_desc":"","mp_x":"65.2590","mp_y":"3011.5820","mp_w":"1123.9050","mp_h":"640.5050","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23832","mp_title":"","mp_alias":"696868ae1cee5","mp_desc":"","mp_x":"58.0080","mp_y":"1539.6290","mp_w":"1131.1560","mp_h":"551.0760","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 1","url":"https://www.latursamachar.com/view/933/latur-main/1"},"2":{"pg_id":"5892","pg_title":"Page 2","pg_alias":"page-2","pg_desc":"","pg_order":"2","file_id":"7884","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7884","f_folder":"2026-01","f_filename":"page-2-1420125.jpg","f_size":"2200390.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23833","mp_title":"","mp_alias":"696868d37145c","mp_desc":"","mp_x":"633.2540","mp_y":"200.6110","mp_w":"1155.3260","mp_h":"1984.3570","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23834","mp_title":"","mp_alias":"696868d371555","mp_desc":"","mp_x":"1795.8310","mp_y":"205.4450","mp_w":"563.1610","mp_h":"3499.8160","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23835","mp_title":"","mp_alias":"696868d372973","mp_desc":"","mp_x":"640.5050","mp_y":"2184.9680","mp_w":"1150.4920","mp_h":"1522.7100","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23836","mp_title":"","mp_alias":"696868d3737c3","mp_desc":"","mp_x":"72.5100","mp_y":"348.0480","mp_w":"555.9100","mp_h":"3349.9620","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 2","url":"https://www.latursamachar.com/view/933/latur-main/2"},"3":{"pg_id":"5893","pg_title":"Page 3","pg_alias":"page-3","pg_desc":"","pg_order":"3","file_id":"7885","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7885","f_folder":"2026-01","f_filename":"page-3-6637758.jpg","f_size":"1934010.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23837","mp_title":"","mp_alias":"6968699fa8323","mp_desc":"","mp_x":"55.5910","mp_y":"195.7770","mp_w":"2317.9030","mp_h":"1285.8440","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23838","mp_title":"","mp_alias":"6968699faa5ab","mp_desc":"","mp_x":"1305.1800","mp_y":"2914.9020","mp_w":"1058.6460","mp_h":"783.1080","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23839","mp_title":"","mp_alias":"6968699faf219","mp_desc":"","mp_x":"742.0190","mp_y":"1481.6210","mp_w":"1624.2240","mp_h":"444.7280","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23840","mp_title":"","mp_alias":"6968699faebe2","mp_desc":"","mp_x":"744.4360","mp_y":"1926.3490","mp_w":"1619.3900","mp_h":"983.7190","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23841","mp_title":"","mp_alias":"6968699faf9c7","mp_desc":"","mp_x":"50.7570","mp_y":"1484.0380","mp_w":"696.0960","mp_h":"1438.1150","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23842","mp_title":"","mp_alias":"6968699fb1a5e","mp_desc":"","mp_x":"48.3400","mp_y":"2910.0680","mp_w":"1256.8400","mp_h":"797.6100","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 3","url":"https://www.latursamachar.com/view/933/latur-main/3"},"4":{"pg_id":"5894","pg_title":"Page 4","pg_alias":"page-4","pg_desc":"","pg_order":"4","file_id":"7886","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7886","f_folder":"2026-01","f_filename":"page-4-7404940.jpg","f_size":"1997992.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23843","mp_title":"","mp_alias":"696869d8d3d1e","mp_desc":"","mp_x":"1781.3290","mp_y":"3069.5900","mp_w":"577.6630","mp_h":"517.2380","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23844","mp_title":"","mp_alias":"696869d8edbb8","mp_desc":"","mp_x":"1786.1630","mp_y":"2356.5750","mp_w":"570.4120","mp_h":"710.5980","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23845","mp_title":"","mp_alias":"696869d91b2a7","mp_desc":"","mp_x":"1189.1640","mp_y":"2356.5750","mp_w":"584.9140","mp_h":"1227.8360","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23846","mp_title":"","mp_alias":"696869d91d9f4","mp_desc":"","mp_x":"60.4250","mp_y":"193.3600","mp_w":"1143.2410","mp_h":"1152.9090","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23847","mp_title":"","mp_alias":"696869d920a08","mp_desc":"","mp_x":"1206.0830","mp_y":"193.3600","mp_w":"1155.3260","mp_h":"2153.5470","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23848","mp_title":"","mp_alias":"696869d91eabf","mp_desc":"","mp_x":"874.9540","mp_y":"2499.1780","mp_w":"304.5420","mp_h":"1077.9820","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23849","mp_title":"","mp_alias":"696869d9224a7","mp_desc":"","mp_x":"355.2990","mp_y":"2351.7410","mp_w":"505.1530","mp_h":"1225.4190","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23850","mp_title":"","mp_alias":"696869d91f011","mp_desc":"","mp_x":"348.0480","mp_y":"1341.4350","mp_w":"855.6180","mp_h":"1007.8890","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 4","url":"https://www.latursamachar.com/view/933/latur-main/4"}},"pgModels_Grouped":[{"1":{"pg_id":"5891","pg_title":"Page 1","pg_alias":"page-1","pg_desc":"","pg_order":"1","file_id":"7883","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7883","f_folder":"2026-01","f_filename":"page-1-9265451.jpg","f_size":"1558253.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23826","mp_title":"","mp_alias":"696868ae1c3de","mp_desc":"","mp_x":"925.7110","mp_y":"553.4930","mp_w":"1430.8640","mp_h":"981.3020","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23827","mp_title":"","mp_alias":"696868ae1c2f0","mp_desc":"","mp_x":"1198.8320","mp_y":"1539.6290","mp_w":"1152.9090","mp_h":"323.8780","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23828","mp_title":"","mp_alias":"696868ae1ca5e","mp_desc":"","mp_x":"55.5910","mp_y":"553.4930","mp_w":"867.7030","mp_h":"986.1360","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23829","mp_title":"","mp_alias":"696868ae1c1c4","mp_desc":"","mp_x":"60.4250","mp_y":"2088.2880","mp_w":"1128.7390","mp_h":"925.7110","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23830","mp_title":"","mp_alias":"696868ae1c7b7","mp_desc":"","mp_x":"1193.9980","mp_y":"1858.6730","mp_w":"1155.3260","mp_h":"1790.9970","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23831","mp_title":"","mp_alias":"696868ae1dadf","mp_desc":"","mp_x":"65.2590","mp_y":"3011.5820","mp_w":"1123.9050","mp_h":"640.5050","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23832","mp_title":"","mp_alias":"696868ae1cee5","mp_desc":"","mp_x":"58.0080","mp_y":"1539.6290","mp_w":"1131.1560","mp_h":"551.0760","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 1","url":"https://www.latursamachar.com/view/933/latur-main/1"},"2":{"pg_id":"5892","pg_title":"Page 2","pg_alias":"page-2","pg_desc":"","pg_order":"2","file_id":"7884","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7884","f_folder":"2026-01","f_filename":"page-2-1420125.jpg","f_size":"2200390.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23833","mp_title":"","mp_alias":"696868d37145c","mp_desc":"","mp_x":"633.2540","mp_y":"200.6110","mp_w":"1155.3260","mp_h":"1984.3570","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23834","mp_title":"","mp_alias":"696868d371555","mp_desc":"","mp_x":"1795.8310","mp_y":"205.4450","mp_w":"563.1610","mp_h":"3499.8160","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23835","mp_title":"","mp_alias":"696868d372973","mp_desc":"","mp_x":"640.5050","mp_y":"2184.9680","mp_w":"1150.4920","mp_h":"1522.7100","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23836","mp_title":"","mp_alias":"696868d3737c3","mp_desc":"","mp_x":"72.5100","mp_y":"348.0480","mp_w":"555.9100","mp_h":"3349.9620","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 2","url":"https://www.latursamachar.com/view/933/latur-main/2"},"3":{"pg_id":"5893","pg_title":"Page 3","pg_alias":"page-3","pg_desc":"","pg_order":"3","file_id":"7885","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7885","f_folder":"2026-01","f_filename":"page-3-6637758.jpg","f_size":"1934010.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23837","mp_title":"","mp_alias":"6968699fa8323","mp_desc":"","mp_x":"55.5910","mp_y":"195.7770","mp_w":"2317.9030","mp_h":"1285.8440","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23838","mp_title":"","mp_alias":"6968699faa5ab","mp_desc":"","mp_x":"1305.1800","mp_y":"2914.9020","mp_w":"1058.6460","mp_h":"783.1080","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23839","mp_title":"","mp_alias":"6968699faf219","mp_desc":"","mp_x":"742.0190","mp_y":"1481.6210","mp_w":"1624.2240","mp_h":"444.7280","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23840","mp_title":"","mp_alias":"6968699faebe2","mp_desc":"","mp_x":"744.4360","mp_y":"1926.3490","mp_w":"1619.3900","mp_h":"983.7190","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23841","mp_title":"","mp_alias":"6968699faf9c7","mp_desc":"","mp_x":"50.7570","mp_y":"1484.0380","mp_w":"696.0960","mp_h":"1438.1150","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23842","mp_title":"","mp_alias":"6968699fb1a5e","mp_desc":"","mp_x":"48.3400","mp_y":"2910.0680","mp_w":"1256.8400","mp_h":"797.6100","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 3","url":"https://www.latursamachar.com/view/933/latur-main/3"},"4":{"pg_id":"5894","pg_title":"Page 4","pg_alias":"page-4","pg_desc":"","pg_order":"4","file_id":"7886","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7886","f_folder":"2026-01","f_filename":"page-4-7404940.jpg","f_size":"1997992.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23843","mp_title":"","mp_alias":"696869d8d3d1e","mp_desc":"","mp_x":"1781.3290","mp_y":"3069.5900","mp_w":"577.6630","mp_h":"517.2380","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23844","mp_title":"","mp_alias":"696869d8edbb8","mp_desc":"","mp_x":"1786.1630","mp_y":"2356.5750","mp_w":"570.4120","mp_h":"710.5980","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23845","mp_title":"","mp_alias":"696869d91b2a7","mp_desc":"","mp_x":"1189.1640","mp_y":"2356.5750","mp_w":"584.9140","mp_h":"1227.8360","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23846","mp_title":"","mp_alias":"696869d91d9f4","mp_desc":"","mp_x":"60.4250","mp_y":"193.3600","mp_w":"1143.2410","mp_h":"1152.9090","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23847","mp_title":"","mp_alias":"696869d920a08","mp_desc":"","mp_x":"1206.0830","mp_y":"193.3600","mp_w":"1155.3260","mp_h":"2153.5470","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23848","mp_title":"","mp_alias":"696869d91eabf","mp_desc":"","mp_x":"874.9540","mp_y":"2499.1780","mp_w":"304.5420","mp_h":"1077.9820","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23849","mp_title":"","mp_alias":"696869d9224a7","mp_desc":"","mp_x":"355.2990","mp_y":"2351.7410","mp_w":"505.1530","mp_h":"1225.4190","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23850","mp_title":"","mp_alias":"696869d91f011","mp_desc":"","mp_x":"348.0480","mp_y":"1341.4350","mp_w":"855.6180","mp_h":"1007.8890","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 4","url":"https://www.latursamachar.com/view/933/latur-main/4"}}],"pgModels_Current":{"1":{"pg_id":"5891","pg_title":"Page 1","pg_alias":"page-1","pg_desc":"","pg_order":"1","file_id":"7883","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7883","f_folder":"2026-01","f_filename":"page-1-9265451.jpg","f_size":"1558253.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23826","mp_title":"","mp_alias":"696868ae1c3de","mp_desc":"","mp_x":"925.7110","mp_y":"553.4930","mp_w":"1430.8640","mp_h":"981.3020","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23827","mp_title":"","mp_alias":"696868ae1c2f0","mp_desc":"","mp_x":"1198.8320","mp_y":"1539.6290","mp_w":"1152.9090","mp_h":"323.8780","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23828","mp_title":"","mp_alias":"696868ae1ca5e","mp_desc":"","mp_x":"55.5910","mp_y":"553.4930","mp_w":"867.7030","mp_h":"986.1360","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23829","mp_title":"","mp_alias":"696868ae1c1c4","mp_desc":"","mp_x":"60.4250","mp_y":"2088.2880","mp_w":"1128.7390","mp_h":"925.7110","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23830","mp_title":"","mp_alias":"696868ae1c7b7","mp_desc":"","mp_x":"1193.9980","mp_y":"1858.6730","mp_w":"1155.3260","mp_h":"1790.9970","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23831","mp_title":"","mp_alias":"696868ae1dadf","mp_desc":"","mp_x":"65.2590","mp_y":"3011.5820","mp_w":"1123.9050","mp_h":"640.5050","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23832","mp_title":"","mp_alias":"696868ae1cee5","mp_desc":"","mp_x":"58.0080","mp_y":"1539.6290","mp_w":"1131.1560","mp_h":"551.0760","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 1","url":"https://www.latursamachar.com/view/933/latur-main/1"},"2":{"pg_id":"5892","pg_title":"Page 2","pg_alias":"page-2","pg_desc":"","pg_order":"2","file_id":"7884","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7884","f_folder":"2026-01","f_filename":"page-2-1420125.jpg","f_size":"2200390.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23833","mp_title":"","mp_alias":"696868d37145c","mp_desc":"","mp_x":"633.2540","mp_y":"200.6110","mp_w":"1155.3260","mp_h":"1984.3570","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23834","mp_title":"","mp_alias":"696868d371555","mp_desc":"","mp_x":"1795.8310","mp_y":"205.4450","mp_w":"563.1610","mp_h":"3499.8160","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23835","mp_title":"","mp_alias":"696868d372973","mp_desc":"","mp_x":"640.5050","mp_y":"2184.9680","mp_w":"1150.4920","mp_h":"1522.7100","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null},{"mp_id":"23836","mp_title":"","mp_alias":"696868d3737c3","mp_desc":"","mp_x":"72.5100","mp_y":"348.0480","mp_w":"555.9100","mp_h":"3349.9620","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5892","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 2","url":"https://www.latursamachar.com/view/933/latur-main/2"},"3":{"pg_id":"5893","pg_title":"Page 3","pg_alias":"page-3","pg_desc":"","pg_order":"3","file_id":"7885","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7885","f_folder":"2026-01","f_filename":"page-3-6637758.jpg","f_size":"1934010.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23837","mp_title":"","mp_alias":"6968699fa8323","mp_desc":"","mp_x":"55.5910","mp_y":"195.7770","mp_w":"2317.9030","mp_h":"1285.8440","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23838","mp_title":"","mp_alias":"6968699faa5ab","mp_desc":"","mp_x":"1305.1800","mp_y":"2914.9020","mp_w":"1058.6460","mp_h":"783.1080","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23839","mp_title":"","mp_alias":"6968699faf219","mp_desc":"","mp_x":"742.0190","mp_y":"1481.6210","mp_w":"1624.2240","mp_h":"444.7280","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23840","mp_title":"","mp_alias":"6968699faebe2","mp_desc":"","mp_x":"744.4360","mp_y":"1926.3490","mp_w":"1619.3900","mp_h":"983.7190","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23841","mp_title":"","mp_alias":"6968699faf9c7","mp_desc":"","mp_x":"50.7570","mp_y":"1484.0380","mp_w":"696.0960","mp_h":"1438.1150","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null},{"mp_id":"23842","mp_title":"","mp_alias":"6968699fb1a5e","mp_desc":"","mp_x":"48.3400","mp_y":"2910.0680","mp_w":"1256.8400","mp_h":"797.6100","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5893","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 3","url":"https://www.latursamachar.com/view/933/latur-main/3"},"4":{"pg_id":"5894","pg_title":"Page 4","pg_alias":"page-4","pg_desc":"","pg_order":"4","file_id":"7886","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7886","f_folder":"2026-01","f_filename":"page-4-7404940.jpg","f_size":"1997992.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23843","mp_title":"","mp_alias":"696869d8d3d1e","mp_desc":"","mp_x":"1781.3290","mp_y":"3069.5900","mp_w":"577.6630","mp_h":"517.2380","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23844","mp_title":"","mp_alias":"696869d8edbb8","mp_desc":"","mp_x":"1786.1630","mp_y":"2356.5750","mp_w":"570.4120","mp_h":"710.5980","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23845","mp_title":"","mp_alias":"696869d91b2a7","mp_desc":"","mp_x":"1189.1640","mp_y":"2356.5750","mp_w":"584.9140","mp_h":"1227.8360","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23846","mp_title":"","mp_alias":"696869d91d9f4","mp_desc":"","mp_x":"60.4250","mp_y":"193.3600","mp_w":"1143.2410","mp_h":"1152.9090","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23847","mp_title":"","mp_alias":"696869d920a08","mp_desc":"","mp_x":"1206.0830","mp_y":"193.3600","mp_w":"1155.3260","mp_h":"2153.5470","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23848","mp_title":"","mp_alias":"696869d91eabf","mp_desc":"","mp_x":"874.9540","mp_y":"2499.1780","mp_w":"304.5420","mp_h":"1077.9820","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23849","mp_title":"","mp_alias":"696869d9224a7","mp_desc":"","mp_x":"355.2990","mp_y":"2351.7410","mp_w":"505.1530","mp_h":"1225.4190","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null},{"mp_id":"23850","mp_title":"","mp_alias":"696869d91f011","mp_desc":"","mp_x":"348.0480","mp_y":"1341.4350","mp_w":"855.6180","mp_h":"1007.8890","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5894","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 4","url":"https://www.latursamachar.com/view/933/latur-main/4"}},"pgModel":{"pg_id":"5891","pg_title":"Page 1","pg_alias":"page-1","pg_desc":"","pg_order":"1","file_id":"7883","sp_id":"0","ed_id":"933","supp":null,"attachment":{"f_id":"7883","f_folder":"2026-01","f_filename":"page-1-9265451.jpg","f_size":"1558253.00","f_version":"","f_parent":"0","f_extension":"jpg","f_width":"2417","f_height":"3798","f_metadata":"[]","info":{"img":{"width":2417,"height":3798,"type":"jpg"}}},"maps":[{"mp_id":"23826","mp_title":"","mp_alias":"696868ae1c3de","mp_desc":"","mp_x":"925.7110","mp_y":"553.4930","mp_w":"1430.8640","mp_h":"981.3020","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23827","mp_title":"","mp_alias":"696868ae1c2f0","mp_desc":"","mp_x":"1198.8320","mp_y":"1539.6290","mp_w":"1152.9090","mp_h":"323.8780","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23828","mp_title":"","mp_alias":"696868ae1ca5e","mp_desc":"","mp_x":"55.5910","mp_y":"553.4930","mp_w":"867.7030","mp_h":"986.1360","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23829","mp_title":"","mp_alias":"696868ae1c1c4","mp_desc":"","mp_x":"60.4250","mp_y":"2088.2880","mp_w":"1128.7390","mp_h":"925.7110","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23830","mp_title":"","mp_alias":"696868ae1c7b7","mp_desc":"","mp_x":"1193.9980","mp_y":"1858.6730","mp_w":"1155.3260","mp_h":"1790.9970","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23831","mp_title":"","mp_alias":"696868ae1dadf","mp_desc":"","mp_x":"65.2590","mp_y":"3011.5820","mp_w":"1123.9050","mp_h":"640.5050","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null},{"mp_id":"23832","mp_title":"","mp_alias":"696868ae1cee5","mp_desc":"","mp_x":"58.0080","mp_y":"1539.6290","mp_w":"1131.1560","mp_h":"551.0760","mp_ratio":"2.4170","mp_next_link":"0","mp_url":"","file_id":"0","pg_id":"5891","mp_viewcount":"0","attachment":null}],"title":"LATUR EDITION - 15 Jan 2026 - Page 1","url":"https://www.latursamachar.com/view/933/latur-main/1"}};
+
+ 
+// "use strict";
+
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+const currentState = createState(_objectSpread({}, EpaperData.pgModel));
+
+function render(template, data) {
+  template = template.split("&lt;").join("<").split("&gt;").join(">");
+  return ejs.render(template, data);
+}
+
+function getPageBySpId(sp_id) {
+  let pgModels = EpaperData.pgModels_Grouped[sp_id];
+
+  for (let [key, value] of Object.entries(pgModels)) {
+    return value;
+  }
+
+  return null;
+}
+
+function getPageByPgId(pg_id) {
+  let pgModels = EpaperData.pgModels;
+
+  for (let [key, value] of Object.entries(pgModels)) {
+    if (value.pg_id == pg_id) {
+      return value;
+    }
+  }
+}
+
+function getImageDimensions(path, callback) {
+  var img = new Image();
+
+  img.onload = function () {
+    callback({
+      width: img.width,
+      height: img.height
+    });
+  };
+
+  img.src = path;
+}
+
+window.addEventListener('popstate', function (e) {
+  currentState.setState(e.state);
+});
+let state = currentState.getState();
+window.history.replaceState(state, state.title, window.location.href);
+
+function setEpaperPageState(object_type, object_id) {
+  // Create a new event
+ 
+  var event = new CustomEvent('afterPageChange',{
+      object_type: object_type,
+      object_id: object_id
+  }); // Dispatch the event
+ 
+  
+
+
+  if (object_type == "sp_id") {
+    let pageObject = getPageBySpId(object_id);
+    currentState.setState(pageObject);
+    document.title = pageObject.title;
+    $(".heading").html("<span>" + pageObject.title + "</span>");
+    window.history.pushState(pageObject, pageObject.title, pageObject.url);
+    updateSocialSharingWidget(pageObject.title, pageObject.url);
+    document.dispatchEvent(event);
+  } else if (object_type == "pg_id") {
+    let pageObject = getPageByPgId(object_id);
+    currentState.setState(pageObject);
+    document.title = pageObject.title;
+    $(".heading").html("<span>" + pageObject.title + "</span>");
+    window.history.pushState(pageObject, pageObject.title, pageObject.url);
+    updateSocialSharingWidget(pageObject.title, pageObject.url);
+    document.dispatchEvent(event);
+  }
+  
+  /*
+ if(window.screen.width <= 768){
+    new Audio("/resources/3rdparty/flip.mp3").play();
+ }*/
+  
+  }
+ 
+//Here we are going to preload images for faster loading. We will take data from EpaperData.pgModels 
+/*let imageTagList = [];
+$.each(EpaperData.pgModels, (n, pgModel) => { 
+   let imageTag = new Image();
+   imageTag.src = "https://www.latursamachar.com/media/" + pgModel.attachment.f_folder + "/" + pgModel.attachment.f_filename;
+   imageTagList.push(imageTag); 
+});
+  
+$(document).on("afterPageChange",function(){
+    let state = currentState.getState(); 
+    $.each(imageTagList, (n, imageTag) => {
+        if (imageTag.src.indexOf(state.attachment.f_folder+"/"+state.attachment.f_filename) > -1) {
+            $(".page-image img, #areamapper-img").attr("src", imageTag.src);
+        }
+    });
+});*/
+
+
+ function updateSocialSharingWidget(text,url){
+    $(".shareit.facebook").prop("href","https://www.facebook.com/sharer/sharer.php?u="+url);
+    $(".shareit.twitter").prop("href","https://twitter.com/intent/tweet?text="+text+" "+url);
+    $(".shareit.wa1").prop("href","https://wa.me/?text="+url);
+    $(".shareit.wa2").prop("href","https://web.whatsapp.com/send?text="+url);
+    $(".shareit.linkedin").prop("href","https://www.linkedin.com/shareArticle?mini=true&url="+url+"&title="+text+" "+url);
+    $(".shareit.telegram").prop("href","https://t.me/share/url?url="+url+"&text="+text);
+    
+    $(".shareit.email").prop("href","mailto:?Subject="+text+"&body="+text+" "+url);
+}
+  
+    
+    
+--- Script 11 ---
+
+function render_p6969e8a1227b9(){ 
+    let current = 0;
+    let previous = 0;
+    let next = 0;
+    let pages = 0;
+    let maxcount = 5;
+    let state = currentState.getState();
+    let pageList = EpaperData.pgModels_Grouped[state.sp_id];
+    
+    $.each(pageList,function(){    
+        pages++;
+        if(this.pg_id == state.pg_id){
+            previous = pages-1;
+            current = pages;
+            next = pages+1; 
+        }
+    });
+   
+   if(previous < 1){
+        previous = 0;
+    }
+    if(next > pages){
+        next = 0;
+    }
+
+    let margin = Math.floor(maxcount/2);
+    let start = current - margin
+    if(start <= 0){
+        start = 1;
+    }
+    let end = current + margin;
+    if ( (start == 1) && (pages > maxcount) ) {
+        end = maxcount;
+    }
+    if(end>pages){
+        end = pages;
+    }
+    
+    $(".render_p6969e8a1227b9").html(render($(".template_p6969e8a1227b9").html(),{
+        EpaperData:EpaperData,
+        state:currentState.getState(),
+        pages:pages,
+        maxcount:maxcount,
+        start:start,
+        end:end,
+        pageList:pageList,
+        previous:previous,
+        next:next
+                
+    }));
+    
+    $(".render_p6969e8a1227b9 a").each(function(){
+            $(this).prop("href",$(this).data("href"));
+        }); 
+}
+
+render_p6969e8a1227b9();
+
+currentState.subscribe(function(){ 
+    render_p6969e8a1227b9();
+}); 
+ 
+$(document).on("click","[data-wid=w-5a0w] .epaper-paginationp6969e8a1227b9 a",function(e){
+    e.preventDefault();
+     
+    setEpaperPageState("pg_id",$(this).data("pgid"));
+    
+ }); 
+    
+
+--- Script 12 ---
+
+                    var array = ["2026-01-15","2026-01-14","2026-01-13","2026-01-12","2026-01-11","2026-01-10","2026-01-09","2026-01-08","2026-01-07","2026-01-06","2026-01-05","2026-01-04","2026-01-02","2026-01-01","2025-12-31","2025-12-30","2025-12-29","2025-12-27","2025-12-26","2025-12-25","2025-12-24","2025-12-23","2025-12-22","2025-12-20","2025-12-19","2025-12-18","2025-12-17","2025-12-16","2025-12-15","2025-12-13","2025-12-12","2025-12-11","2025-12-10","2025-12-09","2025-12-08","2025-12-06","2025-12-05","2025-12-04","2025-12-03","2025-12-02","2025-12-01","2025-11-29","2025-11-28","2025-11-27","2025-11-26","2025-11-25","2025-11-24","2025-11-22","2025-11-21","2025-11-20","2025-11-19","2025-11-18","2025-11-16","2025-11-15","2025-11-14","2025-11-13","2025-11-12","2025-11-11","2025-11-10","2025-11-08","2025-11-07","2025-11-06","2025-11-05","2025-11-04","2025-11-03","2025-11-01","2025-10-31","2025-10-30","2025-10-29","2025-10-28","2025-10-27","2025-10-26","2025-10-25","2025-10-23","2025-10-22","2025-10-21","2025-10-20","2025-10-19","2025-10-18","2025-10-17","2025-10-16","2025-10-15","2025-10-14","2025-10-13","2025-10-11","2025-10-10","2025-10-09","2025-10-08","2025-10-07","2025-10-06","2025-10-04","2025-10-02","2025-10-01","2025-09-30","2025-09-29","2025-09-27","2025-09-26","2025-09-25","2025-09-24","2025-09-23","2025-09-22","2025-09-20","2025-09-19","2025-09-18","2025-09-17","2025-09-16","2025-09-15","2025-09-13","2025-09-12","2025-09-11","2025-09-10","2025-09-09","2025-09-08","2025-09-06","2025-09-05","2025-09-04","2025-09-03","2025-09-02","2025-09-01","2025-08-30","2025-08-29","2025-08-28","2025-08-27","2025-08-26","2025-08-25","2025-08-23","2025-08-22","2025-08-21","2025-08-20","2025-08-19","2025-08-18","2025-08-16","2025-08-15","2025-08-14","2025-08-13","2025-08-12","2025-08-11","2025-08-09","2025-08-08","2025-08-07","2025-08-06","2025-08-05","2025-08-03","2025-08-02","2025-08-01","2025-07-31","2025-07-30","2025-07-29","2025-07-28","2025-07-26","2025-07-25","2025-07-24","2025-07-23","2025-07-22","2025-07-21","2025-07-19","2025-07-18","2025-07-17","2025-07-16","2025-07-15","2025-07-14","2025-07-12","2025-07-11","2025-07-10","2025-07-09","2025-07-08","2025-07-07","2025-07-05","2025-07-04","2025-07-03","2025-07-02","2025-07-01","2025-06-30","2025-06-28","2025-06-27","2025-06-26","2025-06-25","2025-06-24","2025-06-23","2025-06-21","2025-06-20","2025-06-19","2025-06-18","2025-06-17","2025-06-16","2025-06-14","2025-06-13","2025-06-12","2025-06-11","2025-06-03","2025-06-01","2025-05-31","2025-05-30","2025-05-29","2025-05-28","2025-05-27","2025-05-26","2025-05-24","2025-05-23","2025-05-22","2025-05-21","2025-05-20","2025-05-18","2025-05-17","2025-05-16","2025-05-15","2025-05-14","2025-05-13","2025-05-12","2025-05-10","2025-05-09","2025-05-08","2025-05-07","2025-05-06","2025-05-05","2025-05-03","2025-05-02","2025-05-01","2025-04-30","2025-04-29","2025-04-27","2025-04-26","2025-04-25","2025-04-24","2025-04-23","2025-04-22","2025-04-21","2025-04-19","2025-04-18","2025-04-17","2025-04-16","2025-04-15","2025-04-14","2025-04-12","2025-04-11","2025-04-10","2025-04-09","2025-04-08","2025-04-07","2025-04-05","2025-04-04","2025-04-03","2025-04-02","2025-04-01","2025-03-31","2025-03-29","2025-03-28","2025-03-27","2025-03-26","2025-03-25","2025-03-23","2025-03-22","2025-03-21","2025-03-20","2025-03-18","2025-03-17","2025-03-15","2025-03-14","2025-03-13","2025-03-12","2025-03-11","2025-03-10","2025-03-08","2025-03-07","2025-03-06","2025-03-05","2025-03-04","2025-03-03","2025-03-02","2025-03-01","2025-02-28","2025-02-27","2025-02-26","2025-02-25","2025-02-24","2025-02-22","2025-02-21","2025-02-20","2025-02-19","2025-02-18","2025-02-17","2025-02-15","2025-02-14","2025-02-13","2025-02-12","2025-02-11","2025-02-10","2025-02-08","2025-02-07","2025-02-06","2025-02-05","2025-02-04","2025-02-03","2025-02-01","2025-01-31","2025-01-30","2025-01-29"];
+                    $(".button-datepicker-c6969e8a1227eb").on("click",function(e){
+                        e.preventDefault();
+                        $(".button-datepicker-container-c6969e8a1227eb").datepicker("show");
+                    });
+                    $( ".button-datepicker-container-c6969e8a1227eb" ).datepicker({
+                        dateFormat: "dd M yy",
+                        currentText: "15 Jan 2026",
+                        changeMonth: true,
+                        changeYear: true,    
+                        minDate: "-20Y",
+                        maxDate: "Y",   
+                        beforeShowDay: function(date){
+                            var string = jQuery.datepicker.formatDate('yy-mm-dd', date);                        
+                            var oldDate = new Date();                         
+                            oldDate.setFullYear(oldDate.getFullYear()-2000);                                                  
+                            var thisDate = new Date(string);
+
+                            if(thisDate.getTime() <= oldDate.getTime()){
+                                return [ true ];
+                            } else {
+                              return [ array.indexOf(string) > -1 ];
+                            }
+                        },
+                        onSelect: function(dateText) {
+                            dateText = dateText.replace(" ","-").replace(" ","-");
+                            var url = "/archive/date/T_DATE?forcesingle=yes";
+                            url = url.replace("T_DATE",dateText);                            
+                            window.location = url;
+                        }
+                    });
+                
+--- Script 13 ---
+
+                    
+                    var CSp6969e8a123147 = {
+                      toUrlParams: function(obj){
+                            var str = "";
+                            for (var key in obj) {
+                                if (str != "") {
+                                    str += "&";
+                                }
+                                str += key + "=" + encodeURIComponent(obj[key]);
+                            }
+                            return str;
+                      },
+                      intialState:false,
+                      selection:{},                      
+                      init : function(){
+                        var thisobj = this;
+                        $(".btnCropp6969e8a123147").hide();
+                        $(".formSharep6969e8a123147").dialog({
+                            autoOpen:false,
+                            width:300,
+                            modal:true,  
+                            open:function(){
+                                Cropping = true;
+                            },
+                            close:function(){
+                                Cropping = false;
+                            }
+                        });
+                        $(".btnClipp6969e8a123147").on("click",function(){
+                              Cropping = true;
+                  
+                            thisobj.cropperStart();
+                        });
+                        $(document).on("click",".btnCropp6969e8a123147",function(){                       
+                       Cropping = false;
+                            thisobj.cropperEnd();
+                            $(".btnCancelCropp6969e8a123147").remove();
+                            $(".btnCropp6969e8a123147").remove();
+                        });
+                        $(document).on("click",".btnCancelCropp6969e8a123147",function(){
+                            Cropping = false;
+                            $(".btnCancelCropp6969e8a123147").remove();
+                            $(".btnCropp6969e8a123147").remove();
+                            
+                            var $image = $('.crop-image');
+                            $image.cropper('destroy');
+                            thisobj.initialState = false;                                         
+                            $("#maparea, .epaper-page-viewer").show();
+                            $(".crop-image").addClass("d-none");
+                            
+                        });
+                      },
+                      cropperStart: function(){
+                            var $image = $('.crop-image');
+                            if(this.initialState){
+                                $image.cropper('destroy');
+                                this.initialState = false;
+                                
+                                $(".btnCropp6969e8a123147").hide();
+                                $(".btnCancelCropp6969e8a123147").hide();
+                                
+                                $("#maparea, .epaper-page-viewer").show();
+                                
+                                $(".crop-image").addClass("d-none");
+                            } else {                     
+                                this.initialState = true;
+                                $(".btnCropp6969e8a123147").show();
+                                $(".btnCancelCropp6969e8a123147").show();
+                                
+                                $("#maparea, .epaper-page-viewer").hide();
+                                $(".crop-image").removeClass("d-none");
+                                
+                                /*var buttons = '<button type="button" style="position:absolute; margin-top:-30px; z-index:1000" class="btn btn-light btn-sm btnCrop btnCropp6969e8a123147">'+ 
+                                                        '<i class="fas fa-share-alt"></i> Share</button>'+ 
+                                                        '<button type="button" style="position:absolute; margin-top:-30px; margin-left:70px; z-index:1000" class="btn btn-danger btn-sm btnCancelCrop btnCancelCropp6969e8a123147">'+
+                                                        '<i class="fas fa-times"></i> Cancel</button>';*/
+                                                                var buttons =   '<button type="button" style="position:absolute; margin-top:-30px; z-index:1000" class="btn btn-light btn-sm btnCrop btnCropp6969e8a123147">'+ 
+                                                        '<i class="fas fa-share-alt"></i> <span>Share</span></button>'+ 
+                                                        '<button type="button" style="position:absolute; margin-top:-30px; margin-left:70px; z-index:1000" class="btn btn-danger btn-sm btnCancelCrop btnCancelCropp6969e8a123147">'+
+                                                        '<i class="fas fa-times"></i> <span>Cancel</span></button>';
+                                
+                                                                    
+                                $(".crop-image").before(buttons);
+                                
+                                var thisobj = this;
+                                let image_cropper = $image.cropper({
+                                    zoomable:false,
+                                    autoCropArea:0.4,
+                                    dragMode:'none',
+                                    crop: function(event) {
+                                        thisobj.selection = event.detail;  
+                                        
+                                        //The following lines stick the cropping buttons with box
+                                                                                    $(".btnCropp6969e8a123147, .btnCancelCropp6969e8a123147").css("transform",$(".cropper-crop-box").css("transform"));
+                                        
+                                        //This will make the crop box clickable and resizable even if the parent box has pointer-events:none;
+                                        let cropbox = image_cropper[0].cropper.cropBox; 
+                                        cropbox.style.pointerEvents = "auto";
+                                        //-------------------->
+                                        
+                                        //$(".cropper-crop-box .btnCrop, .cropper-crop-box .btnCancelCrop").remove();
+                                        //$(".cropper-crop-box").append($(".btnCropOuterp6969e8a123147").html());
+                                    }
+                                });     
+                                var cropper = $image.data('cropper');
+                            }
+                      },
+                      cropperEnd: function(){
+                            var data = this.selection;
+                            let state = currentState.getState();
+                            data.pg_id = state.pg_id;
+                            //data.pg_id = 5891;
+                            var thisobj = this;
+                            this.initialState = false;
+                            $.ajax({
+                                type:"post", dataType:"json", data:data,
+                                url:"/epaper/default/create-clip",
+                                success:function(r){
+                                    if(ajaxValidate(r)){
+                                        $(".share-clip-icons").html(thisobj.generateSocialIcons(r.data.url,state.title));
+                                        $(".formSharep6969e8a123147").dialog("open");
+                                        $(".formSharep6969e8a123147 [name=clip_url]").val(r.data.url);      
+                                        $(".formSharep6969e8a123147 img").prop("src","");   
+                                        $(".formSharep6969e8a123147 img").prop("src",r.data.img);         
+                                        
+                                        $(".formSharep6969e8a123147 a.download").prop("href",r.data.img+"?download");
+                                        
+                                        var $image = $('.crop-image');
+                                        $image.cropper('destroy');
+                                        this.initialState = false;
+                                        //$(".btnCropp6969e8a123147").hide();
+                                        $("#maparea, .epaper-page-viewer").show();
+                                        $(".crop-image").addClass("d-none");
+                                        window.dispatchEvent(new CustomEvent("onClipShareDialogOpens",{detail:r.data}));
+                                    }
+                                }
+                            })
+                      },
+                      generateSocialIcons: function(url,title){
+                        var social = {"facebook":"<a target='_blank' style='display:inline-block; background-color:#546CA3; padding:7px 15px 7px 15px; color:white' href='https:\/\/www.facebook.com\/sharer\/sharer.php?u={link}'><i class='fa-brands fa-facebook'><\/i><\/a>","twitter":"<a target='_blank' style='display:inline-block; background-color:#5BB0E3; padding:7px 15px 7px 15px; color:white' href='https:\/\/twitter.com\/intent\/tweet?text={title}+{link}'><i class='fa-brands fa-x-twitter'><\/i><\/a>","whatsapp":"<a style='display:inline-block; background-color:#6CBA5E; padding:7px 15px 7px 15px; color:white'  onclick='popupWindow('WA_TEMPLATE'); return false;' data-action='share\/whatsapp\/share' target='_blank'  href='WA_TEMPLATE'><i class='fa-brands fa-whatsapp'><\/i><\/a>","email":"<a style='display:inline-block; background-color:#E13894; padding:7px 15px 7px 15px; color:white' target='_blank' href='mailto:?Subject={title}&body={link}'><i class='fa-solid fa-envelope'><\/i><\/a><br \/>","link":"<a href='{link}' target='_blank' style='margin-top:5px; display:inline-block; font-size:16px; background-color:gray; padding:7px 10px 7px 10px;   color:white'><i class='fa-solid fa-up-right-from-square'><\/i> Open<\/a>","download":"<a href='#' class='download' target='_blank' style='margin-top:5px; display:inline-block; font-size:16px; background-color:#546CA3; padding:7px 10px 7px 10px;   color:white'><i class='fa-solid fa-download'><\/i> Download<\/a>"};
+                        var str = "";
+                  
+                        $.each(social,function(k,v){  
+                            if(k=="whatsapp"){
+                                if(isMobile.any()){
+                                    v = v.replace("WA_TEMPLATE","whatsapp://send?text={link}").replace("WA_TEMPLATE","whatsapp://send?text={link}");
+                                } else {
+                                    v = v.replace("WA_TEMPLATE","https://api.whatsapp.com/send?text={link}").replace("WA_TEMPLATE","https://api.whatsapp.com/send?text={link}");
+                                }
+                            }
+                                str += v.replace("{link}",url).replace("{link}",url).replace("{title}",title);                                                        
+                            
+                            
+                        })
+                        return str;
+                      }
+                    };
+                     CSp6969e8a123147.init();
+    
+                
+--- Script 14 ---
+
+
+
+    function render_TH6969e8a123478(){
+         
+        $(".render_TH6969e8a123478").html(render($(".template_TH6969e8a123478").html(),{
+            EpaperData:EpaperData,
+            state:currentState.getState()
+        }));
+        
+        $(".render_TH6969e8a123478 a").each(function(){
+            $(this).prop("href",$(this).data("href"));
+        });  
+        $(".render_TH6969e8a123478 img").each(function(){
+            $(this).prop("src",$(this).data("src"));
+        }); 
+    }
+
+    render_TH6969e8a123478();
+     
+    let previous_sp_id_TH6969e8a123478 = currentState.getState().sp_id;
+    
+    currentState.subscribe(function(){ 
+        if(currentState.getState().sp_id !== previous_sp_id_TH6969e8a123478){
+            render_TH6969e8a123478();
+            previous_sp_id_TH6969e8a123478 = currentState.getState().sp_id;
+        } else {
+            $(".epaper-thumb-image").removeClass("active");
+            $(".epaper-thumb-image[data-pgid="+currentState.getState().pg_id+"]").addClass("active");
+        }        
+    }); 
+
+    $(document).on("click","[data-wid=w-h34q] .epaper-thumb-navTH6969e8a123478 a",function(e){
+         e.preventDefault();
+         setEpaperPageState("pg_id",$(this).data("id"));         
+ 
+    });
+
+
+    
+--- Script 15 ---
+
+
+
+    function render_TH6969e8a12348f(){
+         
+        $(".render_TH6969e8a12348f").html(render($(".template_TH6969e8a12348f").html(),{
+            EpaperData:EpaperData,
+            state:currentState.getState()
+        }));
+        
+        $(".render_TH6969e8a12348f a").each(function(){
+            $(this).prop("href",$(this).data("href"));
+        });  
+        $(".render_TH6969e8a12348f img").each(function(){
+            $(this).prop("src",$(this).data("src"));
+        }); 
+    }
+
+    render_TH6969e8a12348f();
+     
+    let previous_sp_id_TH6969e8a12348f = currentState.getState().sp_id;
+    
+    currentState.subscribe(function(){ 
+        if(currentState.getState().sp_id !== previous_sp_id_TH6969e8a12348f){
+            render_TH6969e8a12348f();
+            previous_sp_id_TH6969e8a12348f = currentState.getState().sp_id;
+        } else {
+            $(".epaper-thumb-image").removeClass("active");
+            $(".epaper-thumb-image[data-pgid="+currentState.getState().pg_id+"]").addClass("active");
+        }        
+    }); 
+
+    $(document).on("click","[data-wid=w-ar74] .epaper-thumb-navTH6969e8a12348f a",function(e){
+         e.preventDefault();
+         setEpaperPageState("pg_id",$(this).data("id"));         
+ 
+    });
+
+
+    
+--- Script 16 ---
+
+
+--- Script 17 ---
+
+  
+     
+    
+    $("body").append($(".c-dialog_p6969e8a1234b6"));
+    $("body").on("click",function(){ 
+            $(".c-dialog").hide("medium");
+            $("#iframeDialog, .mask").hide(); 
+    })
+    
+    $(".c-dialog").on("click",function(e){
+        e.stopPropagation();
+        
+    });
+    $("#iframeDialog").on("click",function(e){
+        e.stopPropagation();
+        
+    });
+    
+    $(".btnCloseDialog").on("click",function(e){
+        e.preventDefault();
+        $("#iframeDialog iframe").prop("src","");
+        $("#iframeDialog, .mask").hide();
+    })
+   /* $("#iframeDialog").dialog({
+        open: function() {
+            $('.ui-widget-overlay').css('pointer-events', 'none')
+          },    
+        autoOpen:false, modal:true, width:900, height:600    });
+     */
+    $(".c-dialog-closebtn").on("click",function(e){
+        e.preventDefault();
+        Lightbox = false;
+        $('.c-dialog_p6969e8a1234b6').hide('medium'); 
+        return false;
+    });
+        
+    function render_p6969e8a1234b6(){
+        let state =  currentState.getState();        
+        let image_url = "https://www.latursamachar.com/media/"+state.attachment.f_folder+"/"+state.attachment.f_filename;
+       
+        let current = 0;
+        let previous = 0;
+        let next = 0;
+        let pages = 0;
+        let maxcount = 5;
+ 
+        let pageList = EpaperData.pgModels_Grouped[state.sp_id];
+
+        $.each(pageList,function(){    
+            pages++;
+            if(this.pg_id == state.pg_id){
+                previous = pages-1;
+                current = pages;
+                next = pages+1; 
+            }
+        });
+
+       if(previous < 1){
+            previous = 0;
+        }
+        if(next > pages){
+            next = 0;
+        }
+
+        let margin = Math.floor(maxcount/2);
+        let start = current - margin
+        if(start <= 0){
+            start = 1;
+        }
+        let end = current + margin;
+        if ( (start == 1) && (pages > maxcount) ) {
+            end = maxcount;
+        }
+        if(end>pages){
+            end = pages;
+        }
+       
+       
+        if(state.maps.length <= 0){
+            
+          //  console.log("Loading Started...");
+            $(".render_p6969e8a1234b6").html(render($(".template_normal_p6969e8a1234b6").html(),{
+                EpaperData:EpaperData,
+                state:currentState.getState(),
+                image_url:image_url,
+                
+                pages:pages,
+                maxcount:maxcount,
+                start:start,
+                end:end,
+                pageList:pageList,
+                previous:previous,
+                next:next
+            }));
+            
+            $(".render_p6969e8a1234b6 a").each(function(){
+                $(this).prop("href",$(this).data("href"));
+            });  
+            $(".render_p6969e8a1234b6 img").each(function(){
+                $(this).prop("src",$(this).data("src"));
+            }); 
+            
+            $("a.page-image").on("click",function(e){
+                e.preventDefault();
+                e.stopPropagation();
+                 
+                Lightbox = true;
+                $(".c-dialog_p6969e8a1234b6 img").prop("src",$(this).prop("href"));
+                $(".c-dialog_p6969e8a1234b6").show('medium');
+            });
+           // $("a.page-image").colorbox({rel:'epaper-page-viewer'});
+            //Render Lightbox Template
+        } else if(state.maps.length > 0){
+            //Render Area Map Template
+            
+            let maps = [];
+            for(i=0; i<state.maps.length; i++){
+                maps.push({
+                    x:state.maps[i].mp_x,
+                    y:state.maps[i].mp_y,
+                    w:state.maps[i].mp_w,
+                    h:state.maps[i].mp_h,
+                    ratio:1,
+                    id:state.maps[i].mp_id,
+                    url:state.maps[i].mp_url,
+                    alias:state.maps[i].mp_alias,
+                });
+            }   
+             
+            $(".render_p6969e8a1234b6").html(render($(".template_areamap_p6969e8a1234b6").html(),{
+                EpaperData:EpaperData,
+                state:currentState.getState(),
+                image_url:image_url,
+               
+                pages:pages,
+                maxcount:maxcount,
+                start:start,
+                end:end,
+                pageList:pageList,
+                previous:previous,
+                next:next
+                
+            }));
+            
+            $(".render_p6969e8a1234b6 a").each(function(){
+                $(this).prop("href",$(this).data("href"));
+            });  
+            $(".render_p6969e8a1234b6 img").each(function(){
+                $(this).prop("src",$(this).data("src"));
+            }); 
+             
+            let h = state.attachment.f_height;
+            if($.trim(state.attachment.f_height) == "" || state.attachment.f_height == 0 || state.attachment.f_height == "0"){
+                h =  state.attachment.info.img.height;                 
+            }
+
+            let w = state.attachment.f_width;
+            if($.trim(state.attachment.f_width) == "" || state.attachment.f_width == 0 || state.attachment.f_width == "0"){
+                w =  state.attachment.info.img.width;                 
+            }
+            
+            new AreaMapper(maps,$("#maparea")[0],{
+                name:"areamapper",
+                height:h,
+                width:w,
+                url:image_url,                   
+                alt:"",                   
+                class:"",
+            });
+               
+                $(".areamapper-maparea").on("click",function(e) {     
+                    e.preventDefault();  
+                    var id = $(this).data("id");
+                                          
+                    let state = currentState.getState();
+                    for(i=0; i<state.maps.length; i++){
+                        let map = state.maps[i]
+                        if(map.mp_id == id){
+                          //  console.log(map);
+                            var alias = map.mp_alias;
+                            var title = map.mp_title;
+                            var url = map.mp_url;
+                            
+                            if($.trim(url) == ""){
+                                e.preventDefault();
+                                var url = "/news/_ID_/_ALIAS_"
+                                url = url.replace("_ID_",id);
+                                url = url.replace("_ALIAS_",alias); 
+                                
+                                                                      
+                                     window.open(url,"_blank");
+                                     
+                                                                 
+                                
+                            } else {
+                               window.open(url,"_blank",'toolbar=0,menubar=0,location=0,status=0,scrollbars=1,resizable=1,left=100,top=100');
+                            }
+                            
+                        }
+                    } 
+                    return false;
+                });
+         
+                 
+ 
+        }  
+    }
+    render_p6969e8a1234b6();
+    
+    currentState.subscribe(function(){ 
+        render_p6969e8a1234b6();
+    }); 
+
+    $(document).on("click",".display-pagination .page-link",function(e){       
+       e.preventDefault();
+      
+       setEpaperPageState("pg_id",$(this).data("pgid"));
+    });
+     $("body").on("swipeleft", function () {   
+        if(window.screen.width <= 1024 & Cropping === false & Lightbox === false){
+        //if(window.screen.width <= 768 & Cropping === false & Lightbox === false){
+            var id = $(".display-pagination .page-item.next a").data("pgid");   
+            
+            setEpaperPageState("pg_id",id);    
+        }
+        
+        
+                    
+                });
+                $("body").on("swiperight", function () {
+                    if(window.screen.width <= 1024 & Cropping === false & Lightbox === false){
+                    //if(window.screen.width <= 768 & Cropping === false & Lightbox === false){
+
+                        var id = $(".display-pagination .page-item.prev a").data("pgid");                          
+                     
+                        setEpaperPageState("pg_id",id);
+                    }
+                }); 
+ 
+--- Script 18 ---
+
+function render_p6969e8a12359e(){ 
+    $(".render_p6969e8a12359e").html(render($(".template_p6969e8a12359e").html(),{
+        EpaperData:EpaperData,
+        state:currentState.getState()
+    }));
+}
+
+render_p6969e8a12359e();
+
+currentState.subscribe(function(){ 
+    render_p6969e8a12359e();
+}); 
+ 
+$(document).on("input","[data-wid=w-vf6d] [name=epaper-pager-p6969e8a12359e]",function(e){
+   
+    var value = $(this).val().toString().split("-");
+    let url = $("[value="+$(this).val().toString()+"]").data("url");    
+    let page_title = $("[value="+$(this).val().toString()+"]").data("page-title");
+    
+    //currentState.setState({ ...currentState, sp_id:value[0],    pg_id:value[1] });
+    setEpaperPageState("pg_id",value[1]);
+    window.history.pushState(  {pageTitle: page_title}  , page_title, url);
+ }); 
+    
+
+--- Script 19 ---
+
+                    var array = ["2026-01-15","2026-01-14","2026-01-13","2026-01-12","2026-01-11","2026-01-10","2026-01-09","2026-01-08","2026-01-07","2026-01-06","2026-01-05","2026-01-04","2026-01-02","2026-01-01","2025-12-31","2025-12-30","2025-12-29","2025-12-27","2025-12-26","2025-12-25","2025-12-24","2025-12-23","2025-12-22","2025-12-20","2025-12-19","2025-12-18","2025-12-17","2025-12-16","2025-12-15","2025-12-13","2025-12-12","2025-12-11","2025-12-10","2025-12-09","2025-12-08","2025-12-06","2025-12-05","2025-12-04","2025-12-03","2025-12-02","2025-12-01","2025-11-29","2025-11-28","2025-11-27","2025-11-26","2025-11-25","2025-11-24","2025-11-22","2025-11-21","2025-11-20","2025-11-19","2025-11-18","2025-11-16","2025-11-15","2025-11-14","2025-11-13","2025-11-12","2025-11-11","2025-11-10","2025-11-08","2025-11-07","2025-11-06","2025-11-05","2025-11-04","2025-11-03","2025-11-01","2025-10-31","2025-10-30","2025-10-29","2025-10-28","2025-10-27","2025-10-26","2025-10-25","2025-10-23","2025-10-22","2025-10-21","2025-10-20","2025-10-19","2025-10-18","2025-10-17","2025-10-16","2025-10-15","2025-10-14","2025-10-13","2025-10-11","2025-10-10","2025-10-09","2025-10-08","2025-10-07","2025-10-06","2025-10-04","2025-10-02","2025-10-01","2025-09-30","2025-09-29","2025-09-27","2025-09-26","2025-09-25","2025-09-24","2025-09-23","2025-09-22","2025-09-20","2025-09-19","2025-09-18","2025-09-17","2025-09-16","2025-09-15","2025-09-13","2025-09-12","2025-09-11","2025-09-10","2025-09-09","2025-09-08","2025-09-06","2025-09-05","2025-09-04","2025-09-03","2025-09-02","2025-09-01","2025-08-30","2025-08-29","2025-08-28","2025-08-27","2025-08-26","2025-08-25","2025-08-23","2025-08-22","2025-08-21","2025-08-20","2025-08-19","2025-08-18","2025-08-16","2025-08-15","2025-08-14","2025-08-13","2025-08-12","2025-08-11","2025-08-09","2025-08-08","2025-08-07","2025-08-06","2025-08-05","2025-08-03","2025-08-02","2025-08-01","2025-07-31","2025-07-30","2025-07-29","2025-07-28","2025-07-26","2025-07-25","2025-07-24","2025-07-23","2025-07-22","2025-07-21","2025-07-19","2025-07-18","2025-07-17","2025-07-16","2025-07-15","2025-07-14","2025-07-12","2025-07-11","2025-07-10","2025-07-09","2025-07-08","2025-07-07","2025-07-05","2025-07-04","2025-07-03","2025-07-02","2025-07-01","2025-06-30","2025-06-28","2025-06-27","2025-06-26","2025-06-25","2025-06-24","2025-06-23","2025-06-21","2025-06-20","2025-06-19","2025-06-18","2025-06-17","2025-06-16","2025-06-14","2025-06-13","2025-06-12","2025-06-11","2025-06-03","2025-06-01","2025-05-31","2025-05-30","2025-05-29","2025-05-28","2025-05-27","2025-05-26","2025-05-24","2025-05-23","2025-05-22","2025-05-21","2025-05-20","2025-05-18","2025-05-17","2025-05-16","2025-05-15","2025-05-14","2025-05-13","2025-05-12","2025-05-10","2025-05-09","2025-05-08","2025-05-07","2025-05-06","2025-05-05","2025-05-03","2025-05-02","2025-05-01","2025-04-30","2025-04-29","2025-04-27","2025-04-26","2025-04-25","2025-04-24","2025-04-23","2025-04-22","2025-04-21","2025-04-19","2025-04-18","2025-04-17","2025-04-16","2025-04-15","2025-04-14","2025-04-12","2025-04-11","2025-04-10","2025-04-09","2025-04-08","2025-04-07","2025-04-05","2025-04-04","2025-04-03","2025-04-02","2025-04-01","2025-03-31","2025-03-29","2025-03-28","2025-03-27","2025-03-26","2025-03-25","2025-03-23","2025-03-22","2025-03-21","2025-03-20","2025-03-18","2025-03-17","2025-03-15","2025-03-14","2025-03-13","2025-03-12","2025-03-11","2025-03-10","2025-03-08","2025-03-07","2025-03-06","2025-03-05","2025-03-04","2025-03-03","2025-03-02","2025-03-01","2025-02-28","2025-02-27","2025-02-26","2025-02-25","2025-02-24","2025-02-22","2025-02-21","2025-02-20","2025-02-19","2025-02-18","2025-02-17","2025-02-15","2025-02-14","2025-02-13","2025-02-12","2025-02-11","2025-02-10","2025-02-08","2025-02-07","2025-02-06","2025-02-05","2025-02-04","2025-02-03","2025-02-01","2025-01-31","2025-01-30","2025-01-29"];
+                    $(".button-datepicker-c6969e8a1235b8").on("click",function(e){
+                        e.preventDefault();
+                        $(".button-datepicker-container-c6969e8a1235b8").datepicker("show");
+                    });
+                    $( ".button-datepicker-container-c6969e8a1235b8" ).datepicker({
+                        dateFormat: "dd M yy",
+                        currentText: "15 Jan 2026",
+                        changeMonth: true,
+                        changeYear: true,    
+                        minDate: "-20Y",
+                        maxDate: "Y",   
+                        beforeShowDay: function(date){
+                            var string = jQuery.datepicker.formatDate('yy-mm-dd', date);                        
+                            var oldDate = new Date();                         
+                            oldDate.setFullYear(oldDate.getFullYear()-2000);                                                  
+                            var thisDate = new Date(string);
+
+                            if(thisDate.getTime() <= oldDate.getTime()){
+                                return [ true ];
+                            } else {
+                              return [ array.indexOf(string) > -1 ];
+                            }
+                        },
+                        onSelect: function(dateText) {
+                            dateText = dateText.replace(" ","-").replace(" ","-");
+                            var url = "/archive/date/T_DATE?forcesingle=yes";
+                            url = url.replace("T_DATE",dateText);                            
+                            window.location = url;
+                        }
+                    });
+                
+--- Script 20 ---
+
+                    
+                    var CSp6969e8a1235e7 = {
+                      toUrlParams: function(obj){
+                            var str = "";
+                            for (var key in obj) {
+                                if (str != "") {
+                                    str += "&";
+                                }
+                                str += key + "=" + encodeURIComponent(obj[key]);
+                            }
+                            return str;
+                      },
+                      intialState:false,
+                      selection:{},                      
+                      init : function(){
+                        var thisobj = this;
+                        $(".btnCropp6969e8a1235e7").hide();
+                        $(".formSharep6969e8a1235e7").dialog({
+                            autoOpen:false,
+                            width:300,
+                            modal:true,  
+                            open:function(){
+                                Cropping = true;
+                            },
+                            close:function(){
+                                Cropping = false;
+                            }
+                        });
+                        $(".btnClipp6969e8a1235e7").on("click",function(){
+                              Cropping = true;
+                  
+                            thisobj.cropperStart();
+                        });
+                        $(document).on("click",".btnCropp6969e8a1235e7",function(){                       
+                       Cropping = false;
+                            thisobj.cropperEnd();
+                            $(".btnCancelCropp6969e8a1235e7").remove();
+                            $(".btnCropp6969e8a1235e7").remove();
+                        });
+                        $(document).on("click",".btnCancelCropp6969e8a1235e7",function(){
+                            Cropping = false;
+                            $(".btnCancelCropp6969e8a1235e7").remove();
+                            $(".btnCropp6969e8a1235e7").remove();
+                            
+                            var $image = $('.crop-image');
+                            $image.cropper('destroy');
+                            thisobj.initialState = false;                                         
+                            $("#maparea, .epaper-page-viewer").show();
+                            $(".crop-image").addClass("d-none");
+                            
+                        });
+                      },
+                      cropperStart: function(){
+                            var $image = $('.crop-image');
+                            if(this.initialState){
+                                $image.cropper('destroy');
+                                this.initialState = false;
+                                
+                                $(".btnCropp6969e8a1235e7").hide();
+                                $(".btnCancelCropp6969e8a1235e7").hide();
+                                
+                                $("#maparea, .epaper-page-viewer").show();
+                                
+                                $(".crop-image").addClass("d-none");
+                            } else {                     
+                                this.initialState = true;
+                                $(".btnCropp6969e8a1235e7").show();
+                                $(".btnCancelCropp6969e8a1235e7").show();
+                                
+                                $("#maparea, .epaper-page-viewer").hide();
+                                $(".crop-image").removeClass("d-none");
+                                
+                                /*var buttons = '<button type="button" style="position:absolute; margin-top:-30px; z-index:1000" class="btn btn-light btn-sm btnCrop btnCropp6969e8a1235e7">'+ 
+                                                        '<i class="fas fa-share-alt"></i> Share</button>'+ 
+                                                        '<button type="button" style="position:absolute; margin-top:-30px; margin-left:70px; z-index:1000" class="btn btn-danger btn-sm btnCancelCrop btnCancelCropp6969e8a1235e7">'+
+                                                        '<i class="fas fa-times"></i> Cancel</button>';*/
+                                                                var buttons =   '<button type="button" style="position:absolute; margin-top:-30px; z-index:1000" class="btn btn-light btn-sm btnCrop btnCropp6969e8a1235e7">'+ 
+                                                        '<i class="fas fa-share-alt"></i> <span>Share</span></button>'+ 
+                                                        '<button type="button" style="position:absolute; margin-top:-30px; margin-left:70px; z-index:1000" class="btn btn-danger btn-sm btnCancelCrop btnCancelCropp6969e8a1235e7">'+
+                                                        '<i class="fas fa-times"></i> <span>Cancel</span></button>';
+                                
+                                                                    
+                                $(".crop-image").before(buttons);
+                                
+                                var thisobj = this;
+                                let image_cropper = $image.cropper({
+                                    zoomable:false,
+                                    autoCropArea:0.4,
+                                    dragMode:'none',
+                                    crop: function(event) {
+                                        thisobj.selection = event.detail;  
+                                        
+                                        //The following lines stick the cropping buttons with box
+                                                                                    $(".btnCropp6969e8a1235e7, .btnCancelCropp6969e8a1235e7").css("transform",$(".cropper-crop-box").css("transform"));
+                                        
+                                        //This will make the crop box clickable and resizable even if the parent box has pointer-events:none;
+                                        let cropbox = image_cropper[0].cropper.cropBox; 
+                                        cropbox.style.pointerEvents = "auto";
+                                        //-------------------->
+                                        
+                                        //$(".cropper-crop-box .btnCrop, .cropper-crop-box .btnCancelCrop").remove();
+                                        //$(".cropper-crop-box").append($(".btnCropOuterp6969e8a1235e7").html());
+                                    }
+                                });     
+                                var cropper = $image.data('cropper');
+                            }
+                      },
+                      cropperEnd: function(){
+                            var data = this.selection;
+                            let state = currentState.getState();
+                            data.pg_id = state.pg_id;
+                            //data.pg_id = 5891;
+                            var thisobj = this;
+                            this.initialState = false;
+                            $.ajax({
+                                type:"post", dataType:"json", data:data,
+                                url:"/epaper/default/create-clip",
+                                success:function(r){
+                                    if(ajaxValidate(r)){
+                                        $(".share-clip-icons").html(thisobj.generateSocialIcons(r.data.url,state.title));
+                                        $(".formSharep6969e8a1235e7").dialog("open");
+                                        $(".formSharep6969e8a1235e7 [name=clip_url]").val(r.data.url);      
+                                        $(".formSharep6969e8a1235e7 img").prop("src","");   
+                                        $(".formSharep6969e8a1235e7 img").prop("src",r.data.img);         
+                                        
+                                        $(".formSharep6969e8a1235e7 a.download").prop("href",r.data.img+"?download");
+                                        
+                                        var $image = $('.crop-image');
+                                        $image.cropper('destroy');
+                                        this.initialState = false;
+                                        //$(".btnCropp6969e8a1235e7").hide();
+                                        $("#maparea, .epaper-page-viewer").show();
+                                        $(".crop-image").addClass("d-none");
+                                        window.dispatchEvent(new CustomEvent("onClipShareDialogOpens",{detail:r.data}));
+                                    }
+                                }
+                            })
+                      },
+                      generateSocialIcons: function(url,title){
+                        var social = {"facebook":"<a target='_blank' style='display:inline-block; background-color:#546CA3; padding:7px 15px 7px 15px; color:white' href='https:\/\/www.facebook.com\/sharer\/sharer.php?u={link}'><i class='fa-brands fa-facebook'><\/i><\/a>","twitter":"<a target='_blank' style='display:inline-block; background-color:#5BB0E3; padding:7px 15px 7px 15px; color:white' href='https:\/\/twitter.com\/intent\/tweet?text={title}+{link}'><i class='fa-brands fa-x-twitter'><\/i><\/a>","whatsapp":"<a style='display:inline-block; background-color:#6CBA5E; padding:7px 15px 7px 15px; color:white'  onclick='popupWindow('WA_TEMPLATE'); return false;' data-action='share\/whatsapp\/share' target='_blank'  href='WA_TEMPLATE'><i class='fa-brands fa-whatsapp'><\/i><\/a>","email":"<a style='display:inline-block; background-color:#E13894; padding:7px 15px 7px 15px; color:white' target='_blank' href='mailto:?Subject={title}&body={link}'><i class='fa-solid fa-envelope'><\/i><\/a><br \/>","link":"<a href='{link}' target='_blank' style='margin-top:5px; display:inline-block; font-size:16px; background-color:gray; padding:7px 10px 7px 10px;   color:white'><i class='fa-solid fa-up-right-from-square'><\/i> Open<\/a>","download":"<a href='#' class='download' target='_blank' style='margin-top:5px; display:inline-block; font-size:16px; background-color:#546CA3; padding:7px 10px 7px 10px;   color:white'><i class='fa-solid fa-download'><\/i> Download<\/a>"};
+                        var str = "";
+                  
+                        $.each(social,function(k,v){  
+                            if(k=="whatsapp"){
+                                if(isMobile.any()){
+                                    v = v.replace("WA_TEMPLATE","whatsapp://send?text={link}").replace("WA_TEMPLATE","whatsapp://send?text={link}");
+                                } else {
+                                    v = v.replace("WA_TEMPLATE","https://api.whatsapp.com/send?text={link}").replace("WA_TEMPLATE","https://api.whatsapp.com/send?text={link}");
+                                }
+                            }
+                                str += v.replace("{link}",url).replace("{link}",url).replace("{title}",title);                                                        
+                            
+                            
+                        })
+                        return str;
+                      }
+                    };
+                     CSp6969e8a1235e7.init();
+    
+                
+--- Script 22 ---
+
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag(){dataLayer.push(arguments);}
+                        gtag('js', new Date());
+                        gtag('config', 'G-G8CKVPTQS1');
+                        document.addEventListener('afterPageChange', function () {   
+                                gtag('config', 'G-G8CKVPTQS1',  {'page_path': document.location.pathname}); 
+                        }, false);
+                        
+--- Script 24 ---
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-JGTGK7W09K');
+            document.addEventListener('afterPageChange', function () {   
+                gtag('config', 'G-JGTGK7W09K',  {'page_path': document.location.pathname}); 
+            }, false);
+            
+--- Script 26 ---
+
+                
+// Prevent closing from click inside dropdown
+$(document).on('click', '.dropdown-menu', function (e) {
+  e.stopPropagation();
+});
+
+// make it as accordion for smaller screens
+/*window.onresize = function() {
+    if ($(window).width() < 992) {
+        $('.dropdown-menu a').off('click','openSubmenu');
+        $('.dropdown-menu a').on('click','openSubmenu');        
+    }
+}; */
+$('.dropdown-item.dropdown-toggle').on('click',function(e){
+    e.preventDefault();
+    if($(this).next('.submenu').length){
+        $(this).next('.submenu').toggle();
+    }
+    $('.dropdown').on('hide.bs.dropdown', function () {
+        $(this).find('.submenu').hide();
+    })
+});        
+
+        
