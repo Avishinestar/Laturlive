@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.648893"
+    "timestamp": "2026-01-17T00:53:32.314365"
   },
   {
     "source": "ABP Majha",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-crime-navodaya-students-death-case-sparks-outrage-family-alleges-foul-play-women-take-to-the-streets-in-protest-1407317",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.649018"
+    "timestamp": "2026-01-17T00:53:32.314488"
   },
   {
     "source": "Lokmat",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-first-mayor-smita-khanapure-defeated-by-bjp-spoke-person-prerna-honrao-a-a320/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/prerna-honrao-latur-bjp-win_2026011625525.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.991957"
+    "timestamp": "2026-01-17T00:53:32.407754"
   },
   {
     "source": "Lokmat",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-a-close-contest-between-congress-vanchit-aghadi-and-bjp-know-the-ward-wise-results-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.992103"
+    "timestamp": "2026-01-17T00:53:32.407867"
   },
   {
     "source": "Lokmat",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-four-of-congress-vanchit-alliance-wins-8-in-the-lead-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.992220"
+    "timestamp": "2026-01-17T00:53:32.407966"
   },
   {
     "source": "Lokmat",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-election-1822-percent-voting-in-the-first-four-hours-voters-enthusiasm-highest-in-ward-18-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.992313"
+    "timestamp": "2026-01-17T00:53:32.408057"
   },
   {
     "source": "Lokmat",
@@ -53,7 +53,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-jawahar-navodaya-vidyalaya-student-death-case-two-employees-in-custody-as-per-primary-evidence-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.992400"
+    "timestamp": "2026-01-17T00:53:32.408144"
   },
   {
     "source": "Lokmat",
@@ -61,7 +61,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/prisoners-can-contest-elections-but-do-they-have-the-right-to-vote-what-about-bailed-and-deported-accused-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.992487"
+    "timestamp": "2026-01-17T00:53:32.408232"
   },
   {
     "source": "Lokmat",
@@ -69,7 +69,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/three-innkeepers-in-latur-face-punishment-deported-along-with-latur-district-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.992571"
+    "timestamp": "2026-01-17T00:53:32.408317"
   },
   {
     "source": "Lokmat",
@@ -77,7 +77,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/sister-brother-rule-in-ausa-municipality-parveen-sheikh-as-mayor-and-dr-afsar-sheikh-as-deputy-mayor-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.992685"
+    "timestamp": "2026-01-17T00:53:32.408404"
   },
   {
     "source": "Lokmat",
@@ -85,63 +85,63 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/conflicting-cases-registered-in-latur-congress-bjp-candidates-exchange-accusations-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:34.992777"
+    "timestamp": "2026-01-17T00:53:32.408489"
   },
   {
     "source": "Punyanagari E-Paper",
-    "title": "Punyanagari E-Paper (2026-01-16)",
-    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-16/page/1",
+    "title": "Punyanagari E-Paper (2026-01-17)",
+    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-17/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T23:39:36.455125"
+    "timestamp": "2026-01-17T00:53:34.040601"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 1 (16-01-2026)",
+    "title": "Latur Samachar - Page 1 (17-01-2026)",
     "link": "https://www.latursamachar.com/view/935/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-01/page-1-6799707.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T23:39:37.082929"
+    "timestamp": "2026-01-17T00:53:38.060346"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 2 (16-01-2026)",
+    "title": "Latur Samachar - Page 2 (17-01-2026)",
     "link": "https://www.latursamachar.com/view/935/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-01/page-2-6259874.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T23:39:37.082938"
+    "timestamp": "2026-01-17T00:53:38.060355"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 3 (16-01-2026)",
+    "title": "Latur Samachar - Page 3 (17-01-2026)",
     "link": "https://www.latursamachar.com/view/935/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-01/page-3-5527650.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T23:39:37.082940"
+    "timestamp": "2026-01-17T00:53:38.060357"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 4 (16-01-2026)",
+    "title": "Latur Samachar - Page 4 (17-01-2026)",
     "link": "https://www.latursamachar.com/view/935/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-01/page-4-7054418.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T23:39:37.082943"
+    "timestamp": "2026-01-17T00:53:38.060360"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 5 (16-01-2026)",
+    "title": "Latur Samachar - Page 5 (17-01-2026)",
     "link": "https://www.latursamachar.com/view/935/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-01/page-5-8113223.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T23:39:37.082944"
+    "timestamp": "2026-01-17T00:53:38.060362"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 6 (16-01-2026)",
+    "title": "Latur Samachar - Page 6 (17-01-2026)",
     "link": "https://www.latursamachar.com/view/935/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-01/page-6-9168953.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T23:39:37.082949"
+    "timestamp": "2026-01-17T00:53:38.060366"
   },
   {
     "source": "Dainik Ekmat",
@@ -149,7 +149,7 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/21577/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-16T23:39:38.572537"
+    "timestamp": "2026-01-17T00:53:39.393857"
   },
   {
     "source": "Dainik Ekmat",
@@ -164,7 +164,7 @@ window.newsData = [
       "full_width": 2007.9999999999993
     },
     "time_str": "Short News",
-    "timestamp": "2026-01-16T23:39:38.932719"
+    "timestamp": "2026-01-17T00:53:39.877894"
   },
   {
     "source": "Divya Marathi",
@@ -172,7 +172,7 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/mumbai/news/maharashtra-municipal-election-results-exit-polls-bjp-alliance-majority-136958345.html",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:39.146814"
+    "timestamp": "2026-01-17T00:53:40.136143"
   },
   {
     "source": "Divya Marathi",
@@ -180,7 +180,7 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/mumbai/news/latur-municipal-election-results-2026-congress-majority-vilasrao-deshmukh-factor-136961455.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/01/16/730-x-548-2026-01-16t172513750_1768565044.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:39.147133"
+    "timestamp": "2026-01-17T00:53:40.136436"
   },
   {
     "source": "Divya Marathi",
@@ -188,6 +188,6 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/aurangabad/osmanabad/news/latur-municipal-corporation-election-congress-vanchit-majority-136961442.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/01/16/copy-of-db-temp-cover-marathi-2026-01-16t173543613_1768565056.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-01-16T23:39:39.147251"
+    "timestamp": "2026-01-17T00:53:40.136561"
   }
 ];
