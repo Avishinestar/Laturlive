@@ -7,6 +7,7 @@ import datetime
 import dateparser
 import os
 import re
+import random
 
 # Application Constants
 DATA_FILE = "news_data.json"
@@ -515,7 +516,10 @@ def fetch_divya_marathi():
                 image = img_tag.get('src') if img_tag else None
                 if img_tag and img_tag.get('data-src'): image = img_tag.get('data-src')
 
-                print(f"Found Divya Marathi Article: {title}")
+                try:
+                    print(f"Found Divya Marathi Article: {title}")
+                except UnicodeEncodeError:
+                    print(f"Found Divya Marathi Article: {title.encode('utf-8', 'ignore').decode('utf-8')}")
                 news_items.append({
                     "source": "Divya Marathi",
                     "title": title,
@@ -533,6 +537,60 @@ def fetch_divya_marathi():
         print(f"Failed to fetch Divya Marathi: {e}")
     return news_items
 
+def fetch_sakal_latur():
+    print("Fetching Sakal (eSakal)...")
+    news_items = []
+    try:
+        url = "https://www.esakal.com/marathwada/latur-news"
+        response = requests.get(url, headers=HEADERS, timeout=15)
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        seen_links = set()
+        links = soup.find_all('a', href=True)
+        
+        for a in links:
+            if len(news_items) >= MAX_ITEMS_PER_SOURCE: break
+            
+            href = a['href']
+            # Sakal Latur links usually contain /marathwada/latur-news/
+            if '/marathwada/latur-news/' in href and href.strip('/') != '/marathwada/latur-news' and href not in seen_links:
+                seen_links.add(href)
+                
+                title = clean_text(a.get_text())
+                if len(title) < 15:
+                    h = a.find(['h1','h2','h3','h4','h5','h6'])
+                    if h: title = clean_text(h.get_text())
+                
+                if len(title) < 15: continue
+                
+                if not href.startswith('http'): href = "https://www.esakal.com" + href
+                
+                image = None
+                img = a.find('img')
+                if img: image = img.get('src') or img.get('data-src')
+                
+                if not image:
+                    parent = a.find_parent('div')
+                    if parent:
+                        img = parent.find('img')
+                        if img: image = img.get('src') or img.get('data-src')
+
+                if image and ('icon' in image or 'logo' in image):
+                    image = None
+
+                news_items.append({
+                    "source": "Sakal",
+                    "title": title,
+                    "link": href,
+                    "image": image,
+                    "time_str": "Recent",
+                    "timestamp": datetime.datetime.now().isoformat()
+                })
+
+    except Exception as e:
+        print(f"Failed to fetch Sakal: {e}")
+    return news_items
+
 def aggregate_news():
     print(f"\n--- Starting Aggregation at {datetime.datetime.now()} ---")
     all_news = []
@@ -545,6 +603,7 @@ def aggregate_news():
     all_news.extend(fetch_latursamachar())
     all_news.extend(fetch_ekmat())
     all_news.extend(fetch_divya_marathi())
+    all_news.extend(fetch_sakal_latur())
     
     # Filter by date (last 3 days) - strictly speaking we already fetched recent, but let's double check timestamps if valid
     # Also deduplicate by Title
@@ -556,9 +615,37 @@ def aggregate_news():
                 unique_news[item['title']] = item
     
     final_list = list(unique_news.values())
+
+    # Sorting Logic:
+    # 1. Prioritize items that strictly mention today's date in title (E-Papers)
+    # 2. For the rest, SHUFFLE them so sources are mixed and no single stale source dominates the top.
     
-    # Sort by 'timestamp' descending usually, but mixed sources make this hard. 
-    # We'll just keep them in order of fetch or randomize, but usually latest first.
+    today_str_dmy = datetime.date.today().strftime("%d-%m-%Y")
+    today_str_ymd = datetime.date.today().strftime("%Y-%m-%d")
+    today_str_ymd_short = datetime.date.today().strftime("%Y/%m/%d")
+    
+    def is_priority(item):
+        t = item['title']
+        l = item['link']
+        # 1. Check Title
+        if today_str_dmy in t or today_str_ymd in t: return True
+        # 2. Check Link URL for date patterns (very common in news sites)
+        if today_str_ymd in l or today_str_dmy in l or today_str_ymd_short in l: return True
+        # 3. Preference for fresh sources
+        if item['source'] in ["Sakal", "Divya Marathi"]: return True
+        return False
+
+    priority_news = []
+    other_news = []
+    
+    for item in final_list:
+        if is_priority(item):
+            priority_news.append(item)
+        else:
+            other_news.append(item)
+            
+    random.shuffle(other_news) # Mix the sources
+    final_list = priority_news + other_news
     
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(final_list, f, ensure_ascii=False, indent=2)

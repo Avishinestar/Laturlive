@@ -37,7 +37,8 @@ document.addEventListener('DOMContentLoaded', () => {
         "Latur Samachar": "https://www.latursamachar.com/assets/images/logo.png",
         "Dainik Ekmat": "https://epaper.dainikekmat.com/assets/images/logo.png",
         "Punyanagari E-Paper": "https://epaper.punyanagari.in/assets/images/logo.png",
-        "Divya Marathi": "https://epaper.divyamarathi.com/assets/images/logo.png"
+        "Divya Marathi": "https://epaper.divyamarathi.com/assets/images/logo.png",
+        "Sakal": "https://static.esakal.com/assets/esakal/images/sakal-logo.svg"
     };
 
     async function fetchNews() {
