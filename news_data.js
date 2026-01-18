@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-18/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-18T09:11:57.241954"
+    "timestamp": "2026-01-18T09:39:20.166325"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/937/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-01/page-1-6285869.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-18T09:11:58.080265"
+    "timestamp": "2026-01-18T09:39:21.184294"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/937/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-01/page-2-7563081.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-18T09:11:58.080274"
+    "timestamp": "2026-01-18T09:39:21.184300"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/937/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-01/page-3-6930096.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-18T09:11:58.080276"
+    "timestamp": "2026-01-18T09:39:21.184305"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/937/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-01/page-4-8425970.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-18T09:11:58.080279"
+    "timestamp": "2026-01-18T09:39:21.184307"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/937/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-01/page-5-2294912.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-18T09:11:58.080280"
+    "timestamp": "2026-01-18T09:39:21.184309"
   },
   {
     "source": "Latur Samachar",
@@ -53,7 +53,31 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/937/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-01/page-6-7234942.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-18T09:11:58.080282"
+    "timestamp": "2026-01-18T09:39:21.184311"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमधील नवोदय विद्यार्थीनीचं मृत्यू प्रकरण तापलं; नातेवाईकांचा घातपाताचा आरोप, महिला उतरल्या रस्त्यावर",
+    "link": "https://marathi.abplive.com/news/latur/latur-crime-navodaya-students-death-case-sparks-outrage-family-alleges-foul-play-women-take-to-the-streets-in-protest-1407317",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-18T09:39:18.595656"
+  },
+  {
+    "source": "Lokmat",
+    "title": "कैद्यांना निवडणूक लढता येते मात्र, मतदानाचा अधिकार नाही; जामिनावर, तडीपार आरोपींचे काय? - Marathi News | Prisoners can contest elections, but do they have the right to vote? What about bailed and deported accused? | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/prisoners-can-contest-elections-but-do-they-have-the-right-to-vote-what-about-bailed-and-deported-accused-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-18T09:39:18.655848"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरचा मोठा निकाल! पहिल्या महापौर स्मिता खानापुरे पराभूत, भाजपच्या प्रेरणा होनराव विजयी - Marathi News | Latur Municipal Corporation results: First Mayor Smita Khanapure defeated by BJP spoke person Prerna Honrao | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-first-mayor-smita-khanapure-defeated-by-bjp-spoke-person-prerna-honrao-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-18T09:39:18.655389"
   },
   {
     "source": "Dainik Ekmat",
@@ -68,63 +92,7 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-01-18T09:11:59.705533"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरच्या जवाहर नवोदय विद्यालयातील विद्यार्थिनी मृत्यू प्रकरणाचा तपास कुठपर्यंत आला? - Marathi News | Latur Jawahar Navodaya Vidyalaya student death case; Two employees in custody as per primary evidence | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-jawahar-navodaya-vidyalaya-student-death-case-two-employees-in-custody-as-per-primary-evidence-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.771779"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमधील नवोदय विद्यार्थीनीचं मृत्यू प्रकरण तापलं; नातेवाईकांचा घातपाताचा आरोप, महिला उतरल्या रस्त्यावर",
-    "link": "https://marathi.abplive.com/news/latur/latur-crime-navodaya-students-death-case-sparks-outrage-family-alleges-foul-play-women-take-to-the-streets-in-protest-1407317",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.698317"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
-    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.698196"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर महापालिकेत अमित देशमुख यांचा करिश्मा! काँग्रेस-वंचित आघाडीची ऐतिहासिक मुसंडी",
-    "link": "https://www.lokmat.com/latur/latur-municipal-election-results-2026-amit-deshmukhs-charisma-in-latur-municipal-corporation-historic-move-by-congress-vanchit-alliance-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/amit-deshmukh-latur-abd-electiona_2026011626341.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.771314"
-  },
-  {
-    "source": "Lokmat",
-    "title": "कैद्यांना निवडणूक लढता येते मात्र, मतदानाचा अधिकार नाही; जामिनावर, तडीपार आरोपींचे काय? - Marathi News | Prisoners can contest elections, but do they have the right to vote? What about bailed and deported accused? | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/prisoners-can-contest-elections-but-do-they-have-the-right-to-vote-what-about-bailed-and-deported-accused-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.771885"
-  },
-  {
-    "source": "Lokmat",
-    "title": "तीन सराईत गुन्हेगारांना दणका; लातूरसह तीन जिल्ह्यामधील आठ तालुक्यातून हद्दपार - Marathi News | Three innkeepers in Latur face punishment; Deported along with Latur district | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/three-innkeepers-in-latur-face-punishment-deported-along-with-latur-district-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.771978"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21585/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-01-18T09:11:59.344619"
+    "timestamp": "2026-01-18T09:39:22.958996"
   },
   {
     "source": "Lokmat",
@@ -132,23 +100,31 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-a-close-contest-between-congress-vanchit-aghadi-and-bjp-know-the-ward-wise-results-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.771516"
+    "timestamp": "2026-01-18T09:39:18.655483"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
+    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-18T09:39:18.595535"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21585/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-18T09:39:22.499513"
   },
   {
     "source": "Lokmat",
-    "title": "लातूरचा मोठा निकाल! पहिल्या महापौर स्मिता खानापुरे पराभूत, भाजपच्या प्रेरणा होनराव विजयी - Marathi News | Latur Municipal Corporation results: First Mayor Smita Khanapure defeated by BJP spoke person Prerna Honrao | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-first-mayor-smita-khanapure-defeated-by-bjp-spoke-person-prerna-honrao-a-a320/",
+    "title": "लातूरच्या जवाहर नवोदय विद्यालयातील विद्यार्थिनी मृत्यू प्रकरणाचा तपास कुठपर्यंत आला? - Marathi News | Latur Jawahar Navodaya Vidyalaya student death case; Two employees in custody as per primary evidence | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-jawahar-navodaya-vidyalaya-student-death-case-two-employees-in-custody-as-per-primary-evidence-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.771420"
-  },
-  {
-    "source": "Lokmat",
-    "title": "​लातूर मनपा निवडणूक: पहिल्या चार तासांत १८.२२ टक्के मतदान; प्रभाग १८ मध्ये सर्वाधिक - Marathi News | Latur Municipal Corporation Election: 18.22 percent voting in the first four hours; Voters' enthusiasm highest in Ward 18 | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-election-1822-percent-voting-in-the-first-four-hours-voters-enthusiasm-highest-in-ward-18-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.771694"
+    "timestamp": "2026-01-18T09:39:18.655764"
   },
   {
     "source": "Lokmat",
@@ -156,6 +132,30 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-four-of-congress-vanchit-alliance-wins-8-in-the-lead-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-18T09:11:55.771605"
+    "timestamp": "2026-01-18T09:39:18.655589"
+  },
+  {
+    "source": "Lokmat",
+    "title": "तीन सराईत गुन्हेगारांना दणका; लातूरसह तीन जिल्ह्यामधील आठ तालुक्यातून हद्दपार - Marathi News | Three innkeepers in Latur face punishment; Deported along with Latur district | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/three-innkeepers-in-latur-face-punishment-deported-along-with-latur-district-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-18T09:39:18.655932"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर महापालिकेत अमित देशमुख यांचा करिश्मा! काँग्रेस-वंचित आघाडीची ऐतिहासिक मुसंडी",
+    "link": "https://www.lokmat.com/latur/latur-municipal-election-results-2026-amit-deshmukhs-charisma-in-latur-municipal-corporation-historic-move-by-congress-vanchit-alliance-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/amit-deshmukh-latur-abd-electiona_2026011626341.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-01-18T09:39:18.655288"
+  },
+  {
+    "source": "Lokmat",
+    "title": "​लातूर मनपा निवडणूक: पहिल्या चार तासांत १८.२२ टक्के मतदान; प्रभाग १८ मध्ये सर्वाधिक - Marathi News | Latur Municipal Corporation Election: 18.22 percent voting in the first four hours; Voters' enthusiasm highest in Ward 18 | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-election-1822-percent-voting-in-the-first-four-hours-voters-enthusiasm-highest-in-ward-18-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-18T09:39:18.655678"
   }
 ];
