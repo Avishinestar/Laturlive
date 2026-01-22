@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-22/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-22T18:56:26.360716"
+    "timestamp": "2026-01-22T19:19:21.651078"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/945/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-01/page-1-1003346.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-22T18:56:27.181181"
+    "timestamp": "2026-01-22T19:19:22.448523"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/945/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-01/page-2-3633591.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-22T18:56:27.181189"
+    "timestamp": "2026-01-22T19:19:22.448532"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/945/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-01/page-3-8685671.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-22T18:56:27.181192"
+    "timestamp": "2026-01-22T19:19:22.448534"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/945/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-01/page-4-5280651.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-22T18:56:27.181194"
+    "timestamp": "2026-01-22T19:19:22.448536"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/945/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-01/page-5-8434488.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-22T18:56:27.181196"
+    "timestamp": "2026-01-22T19:19:22.448538"
   },
   {
     "source": "Latur Samachar",
@@ -53,31 +53,15 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/945/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-01/page-6-8012929.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-22T18:56:27.181198"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21617/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-01-22T18:56:28.661894"
+    "timestamp": "2026-01-22T19:19:22.448540"
   },
   {
     "source": "Lokmat",
-    "title": "लातूर मनपात नवनिर्वाचित ७० सदस्यांपैकी १९ अनुभवी; दिग्गज सदस्यांमुळे सभागृह गाजणार ! - Marathi News | Latur Municipal Corporation Result: Out of the 70 newly elected members 19 are experienced; The hall will be buzzing with veteran members! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-result-out-of-the-70-newly-elected-members-19-are-experienced-the-hall-will-be-buzzing-with-veteran-members-a-a320/",
+    "title": "लातूर हादरले! पती घरी उशिरा आला, संतापात पत्नीने पोटच्या दीड वर्षाच्या मुलीची केली हत्या! - Marathi News | Latur shocked! Husband came home late, wife brutally murdered her one and a half year old daughter in anger! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-shocked-husband-came-home-late-wife-brutally-murdered-her-one-and-a-half-year-old-daughter-in-anger-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.920889"
-  },
-  {
-    "source": "Lokmat",
-    "title": "वडिलांना तिकीट नाकारल्याने मुलाचे विचित्र कृत्य; NCP आमदाराच्या कार्यालयाबाहेर केली लघवी - Marathi News | Maharashtra Zilla Parishad Election 2026: Son's strange act after father denied ticket; Urinated outside MLA Sanjay Bansode's office | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.920582"
+    "timestamp": "2026-01-22T19:19:19.829238"
   },
   {
     "source": "Lokmat",
@@ -85,7 +69,55 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-election-results-2026-amit-deshmukhs-charisma-in-latur-municipal-corporation-historic-move-by-congress-vanchit-alliance-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.920983"
+    "timestamp": "2026-01-22T19:19:19.829423"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21617/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-22T19:19:23.811096"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरला मिळणार अनुसूचित जाती महिला प्रवर्गाची महापौर; काँग्रेसच्या 'या' तिघींमध्ये स्पर्धा - Marathi News | Latur Mayor 2026: Latur will get a Scheduled Caste woman mayor; Competition among three Congress members | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-mayor-2026-latur-will-get-a-scheduled-caste-woman-mayor-competition-among-three-congress-members-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-22T19:19:19.829129"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरचा मोठा निकाल! पहिल्या महापौर स्मिता खानापुरे पराभूत, भाजपच्या प्रेरणा होनराव विजयी - Marathi News | Latur Municipal Corporation results: First Mayor Smita Khanapure defeated by BJP spoke person Prerna Honrao | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-first-mayor-smita-khanapure-defeated-by-bjp-spoke-person-prerna-honrao-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-22T19:19:19.829512"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
+    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-22T19:19:19.748659"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर मनपा निवडणूक निकाल; कोणत्या प्रभागात कोण जिंकले? वाचा संपूर्ण यादी... - Marathi News | Latur Municipal Corporation Results: A close contest between Congress-Vanchit Aghadi and BJP, know the ward-wise results | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-a-close-contest-between-congress-vanchit-aghadi-and-bjp-know-the-ward-wise-results-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-22T19:19:19.829598"
+  },
+  {
+    "source": "Lokmat",
+    "title": "वडिलांना तिकीट नाकारल्याने मुलाचे विचित्र कृत्य; NCP आमदाराच्या कार्यालयाबाहेर केली लघवी - Marathi News | Maharashtra Zilla Parishad Election 2026: Son's strange act after father denied ticket; Urinated outside MLA Sanjay Bansode's office | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-22T19:19:19.829038"
   },
   {
     "source": "Dainik Ekmat",
@@ -100,7 +132,7 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-01-22T18:56:29.202840"
+    "timestamp": "2026-01-22T19:19:24.248349"
   },
   {
     "source": "Lokmat",
@@ -108,23 +140,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/mobile-shop-owner-turns-out-to-be-the-ringleader-of-the-thieves-gang-that-robbed-people-taking-morning-walks-arrested-a-a320/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-mobile-shop-crime-a_2026011629457.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.920469"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर मनपा निवडणूक निकाल; कोणत्या प्रभागात कोण जिंकले? वाचा संपूर्ण यादी... - Marathi News | Latur Municipal Corporation Results: A close contest between Congress-Vanchit Aghadi and BJP, know the ward-wise results | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-a-close-contest-between-congress-vanchit-aghadi-and-bjp-know-the-ward-wise-results-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.921162"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरचा मोठा निकाल! पहिल्या महापौर स्मिता खानापुरे पराभूत, भाजपच्या प्रेरणा होनराव विजयी - Marathi News | Latur Municipal Corporation results: First Mayor Smita Khanapure defeated by BJP spoke person Prerna Honrao | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-results-first-mayor-smita-khanapure-defeated-by-bjp-spoke-person-prerna-honrao-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.921074"
+    "timestamp": "2026-01-22T19:19:19.828941"
   },
   {
     "source": "ABP Majha",
@@ -132,30 +148,14 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-crime-navodaya-students-death-case-sparks-outrage-family-alleges-foul-play-women-take-to-the-streets-in-protest-1407317",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.856264"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
-    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.856130"
+    "timestamp": "2026-01-22T19:19:19.748776"
   },
   {
     "source": "Lokmat",
-    "title": "लातूरला मिळणार अनुसूचित जाती महिला प्रवर्गाची महापौर; काँग्रेसच्या 'या' तिघींमध्ये स्पर्धा - Marathi News | Latur Mayor 2026: Latur will get a Scheduled Caste woman mayor; Competition among three Congress members | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-mayor-2026-latur-will-get-a-scheduled-caste-woman-mayor-competition-among-three-congress-members-a-a320/",
+    "title": "लातूर मनपात नवनिर्वाचित ७० सदस्यांपैकी १९ अनुभवी; दिग्गज सदस्यांमुळे सभागृह गाजणार ! - Marathi News | Latur Municipal Corporation Result: Out of the 70 newly elected members 19 are experienced; The hall will be buzzing with veteran members! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-result-out-of-the-70-newly-elected-members-19-are-experienced-the-hall-will-be-buzzing-with-veteran-members-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.920678"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर हादरले! पती घरी उशिरा आला, संतापात पत्नीने पोटच्या दीड वर्षाच्या मुलीची केली हत्या! - Marathi News | Latur shocked! Husband came home late, wife brutally murdered her one and a half year old daughter in anger! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-shocked-husband-came-home-late-wife-brutally-murdered-her-one-and-a-half-year-old-daughter-in-anger-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-22T18:56:24.920794"
+    "timestamp": "2026-01-22T19:19:19.829332"
   }
 ];
