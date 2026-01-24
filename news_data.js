@@ -5,71 +5,63 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-24/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-24T08:46:24.993887"
+    "timestamp": "2026-01-24T09:11:55.301162"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 1 (24-01-2026)",
-    "link": "https://www.latursamachar.com/view/947/latur-main/1",
-    "image": "https://www.latursamachar.com/media/2026-01/page-1-6159963.jpg",
+    "link": "https://www.latursamachar.com/view/949/latur-main/1",
+    "image": "https://www.latursamachar.com/media/2026-01/page-1-9897639.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-24T08:46:25.818829"
+    "timestamp": "2026-01-24T09:11:55.981459"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 2 (24-01-2026)",
-    "link": "https://www.latursamachar.com/view/947/latur-main/2",
-    "image": "https://www.latursamachar.com/media/2026-01/page-2-7455053.jpg",
+    "link": "https://www.latursamachar.com/view/949/latur-main/2",
+    "image": "https://www.latursamachar.com/media/2026-01/page-2-4102361.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-24T08:46:25.818834"
+    "timestamp": "2026-01-24T09:11:55.981467"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 3 (24-01-2026)",
-    "link": "https://www.latursamachar.com/view/947/latur-main/3",
-    "image": "https://www.latursamachar.com/media/2026-01/page-3-1523148.jpg",
+    "link": "https://www.latursamachar.com/view/949/latur-main/3",
+    "image": "https://www.latursamachar.com/media/2026-01/page-3-9572740.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-24T08:46:25.818837"
+    "timestamp": "2026-01-24T09:11:55.981470"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 4 (24-01-2026)",
-    "link": "https://www.latursamachar.com/view/947/latur-main/4",
-    "image": "https://www.latursamachar.com/media/2026-01/page-4-2439890.jpg",
+    "link": "https://www.latursamachar.com/view/949/latur-main/4",
+    "image": "https://www.latursamachar.com/media/2026-01/page-4-7968161.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-24T08:46:25.818839"
+    "timestamp": "2026-01-24T09:11:55.981472"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 5 (24-01-2026)",
-    "link": "https://www.latursamachar.com/view/947/latur-main/5",
-    "image": "https://www.latursamachar.com/media/2026-01/page-5-9310827.jpg",
+    "link": "https://www.latursamachar.com/view/949/latur-main/5",
+    "image": "https://www.latursamachar.com/media/2026-01/page-5-9476946.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-24T08:46:25.818841"
+    "timestamp": "2026-01-24T09:11:55.981474"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 6 (24-01-2026)",
-    "link": "https://www.latursamachar.com/view/947/latur-main/6",
-    "image": "https://www.latursamachar.com/media/2026-01/page-6-4980557.jpg",
+    "link": "https://www.latursamachar.com/view/949/latur-main/6",
+    "image": "https://www.latursamachar.com/media/2026-01/page-6-5109324.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-24T08:46:25.818843"
+    "timestamp": "2026-01-24T09:11:55.981476"
   },
   {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21633/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-01-24T08:46:27.209200"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर महापालिकेत अमित देशमुख यांचा करिश्मा! काँग्रेस-वंचित आघाडीची ऐतिहासिक मुसंडी - Marathi News | Latur Municipal Election Results 2026: Amit Deshmukh's charisma in Latur Municipal Corporation! Historic move by Congress-Vanchit alliance | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-municipal-election-results-2026-amit-deshmukhs-charisma-in-latur-municipal-corporation-historic-move-by-congress-vanchit-alliance-a-a320/",
+    "source": "ABP Majha",
+    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
+    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.176408"
+    "timestamp": "2026-01-24T09:11:54.402124"
   },
   {
     "source": "Lokmat",
@@ -77,31 +69,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/mobile-shop-owner-turns-out-to-be-the-ringleader-of-the-thieves-gang-that-robbed-people-taking-morning-walks-arrested-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.175953"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमधील नवोदय विद्यार्थीनीचं मृत्यू प्रकरण तापलं; नातेवाईकांचा घातपाताचा आरोप, महिला उतरल्या रस्त्यावर",
-    "link": "https://marathi.abplive.com/news/latur/latur-crime-navodaya-students-death-case-sparks-outrage-family-alleges-foul-play-women-take-to-the-streets-in-protest-1407317",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.085230"
+    "timestamp": "2026-01-24T09:11:54.462941"
   },
   {
     "source": "Lokmat",
-    "title": "वडिलांना तिकीट नाकारल्याने मुलाचे विचित्र कृत्य; NCP आमदाराच्या कार्यालयाबाहेर केली लघवी - Marathi News | Maharashtra Zilla Parishad Election 2026: Son's strange act after father denied ticket; Urinated outside MLA Sanjay Bansode's office | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
+    "title": "लातूरला मिळणार अनुसूचित जाती महिला प्रवर्गाची महापौर; काँग्रेसच्या 'या' तिघींमध्ये स्पर्धा - Marathi News | Latur Mayor 2026: Latur will get a Scheduled Caste woman mayor; Competition among three Congress members | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-mayor-2026-latur-will-get-a-scheduled-caste-woman-mayor-competition-among-three-congress-members-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.176045"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर हादरले! पती घरी उशिरा आला, संतापात पत्नीने पोटच्या दीड वर्षाच्या मुलीची केली हत्या! - Marathi News | Latur shocked! Husband came home late, wife brutally murdered her one and a half year old daughter in anger! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-shocked-husband-came-home-late-wife-brutally-murdered-her-one-and-a-half-year-old-daughter-in-anger-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.176230"
+    "timestamp": "2026-01-24T09:11:54.463128"
   },
   {
     "source": "Dainik Ekmat",
@@ -116,7 +92,47 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-01-24T08:46:27.738531"
+    "timestamp": "2026-01-24T09:11:57.954654"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमधील नवोदय विद्यार्थीनीचं मृत्यू प्रकरण तापलं; नातेवाईकांचा घातपाताचा आरोप, महिला उतरल्या रस्त्यावर",
+    "link": "https://marathi.abplive.com/news/latur/latur-crime-navodaya-students-death-case-sparks-outrage-family-alleges-foul-play-women-take-to-the-streets-in-protest-1407317",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-24T09:11:54.402250"
+  },
+  {
+    "source": "Lokmat",
+    "title": "वडिलांना तिकीट नाकारल्याने मुलाचे विचित्र कृत्य; NCP आमदाराच्या कार्यालयाबाहेर केली लघवी - Marathi News | Maharashtra Zilla Parishad Election 2026: Son's strange act after father denied ticket; Urinated outside MLA Sanjay Bansode's office | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-24T09:11:54.463037"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21633/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-24T09:11:57.476039"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर हादरले! पती घरी उशिरा आला, संतापात पत्नीने पोटच्या दीड वर्षाच्या मुलीची केली हत्या! - Marathi News | Latur shocked! Husband came home late, wife brutally murdered her one and a half year old daughter in anger! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-shocked-husband-came-home-late-wife-brutally-murdered-her-one-and-a-half-year-old-daughter-in-anger-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-24T09:11:54.463220"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर महापालिकेत अमित देशमुख यांचा करिश्मा! काँग्रेस-वंचित आघाडीची ऐतिहासिक मुसंडी - Marathi News | Latur Municipal Election Results 2026: Amit Deshmukh's charisma in Latur Municipal Corporation! Historic move by Congress-Vanchit alliance | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-election-results-2026-amit-deshmukhs-charisma-in-latur-municipal-corporation-historic-move-by-congress-vanchit-alliance-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-24T09:11:54.463422"
   },
   {
     "source": "Lokmat",
@@ -124,7 +140,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-municipal-corporation-result-out-of-the-70-newly-elected-members-19-are-experienced-the-hall-will-be-buzzing-with-veteran-members-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.176321"
+    "timestamp": "2026-01-24T09:11:54.463317"
   },
   {
     "source": "Lokmat",
@@ -132,22 +148,6 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-fluover-death-crime-abd_2026011630415.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.175852"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरला मिळणार अनुसूचित जाती महिला प्रवर्गाची महापौर; काँग्रेसच्या 'या' तिघींमध्ये स्पर्धा - Marathi News | Latur Mayor 2026: Latur will get a Scheduled Caste woman mayor; Competition among three Congress members | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-mayor-2026-latur-will-get-a-scheduled-caste-woman-mayor-competition-among-three-congress-members-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.176135"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
-    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-24T08:46:23.085112"
+    "timestamp": "2026-01-24T09:11:54.462832"
   }
 ];
