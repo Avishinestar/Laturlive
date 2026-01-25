@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-25/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-25T05:21:15.508442"
+    "timestamp": "2026-01-25T05:47:40.659471"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/951/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-01/page-1-7173669.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-25T05:21:16.113219"
+    "timestamp": "2026-01-25T05:47:41.395974"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/951/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-01/page-2-4136965.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-25T05:21:16.113228"
+    "timestamp": "2026-01-25T05:47:41.395983"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/951/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-01/page-3-9326837.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-25T05:21:16.113230"
+    "timestamp": "2026-01-25T05:47:41.395985"
   },
   {
     "source": "Latur Samachar",
@@ -37,39 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/951/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-01/page-4-6747064.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-25T05:21:16.113232"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरचा उड्डाणपूल बनतोय \"सुसाइड स्पॉट\"; ६१ वर्षीय अनोळखी वृद्धाचा पडून मृत्यू - Marathi News | Latur flyover is becoming a 'suicide spot'; 61-year-old unidentified man dies after falling from it | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.497257"
-  },
-  {
-    "source": "Lokmat",
-    "title": "सासरवाडीला निघालेला जावई अपघातामध्ये ठार, लेकराला पाहण्यापूर्वीच काळाने गाठलं",
-    "link": "https://www.lokmat.com/latur/son-in-law-dies-in-accident-while-on-his-way-to-his-in-laws-home-dies-before-he-can-see-his-son-a-a463-c301/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/accident-crime-1_2026011630753.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.497049"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21643/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-01-25T05:21:17.482722"
-  },
-  {
-    "source": "Lokmat",
-    "title": "वडिलांना तिकीट नाकारल्याने मुलाचे विचित्र कृत्य; NCP आमदाराच्या कार्यालयाबाहेर केली लघवी - Marathi News | Maharashtra Zilla Parishad Election 2026: Son's strange act after father denied ticket; Urinated outside MLA Sanjay Bansode's office | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.497464"
+    "timestamp": "2026-01-25T05:47:41.395987"
   },
   {
     "source": "Lokmat",
@@ -77,23 +45,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-shocked-husband-came-home-late-wife-brutally-murdered-her-one-and-a-half-year-old-daughter-in-anger-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.497654"
+    "timestamp": "2026-01-25T05:47:38.972420"
   },
   {
     "source": "Lokmat",
-    "title": "लातूर मनपात नवनिर्वाचित ७० सदस्यांपैकी १९ अनुभवी; दिग्गज सदस्यांमुळे सभागृह गाजणार ! - Marathi News | Latur Municipal Corporation Result: Out of the 70 newly elected members 19 are experienced; The hall will be buzzing with veteran members! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-result-out-of-the-70-newly-elected-members-19-are-experienced-the-hall-will-be-buzzing-with-veteran-members-a-a320/",
+    "title": "वडिलांना तिकीट नाकारल्याने मुलाचे विचित्र कृत्य; NCP आमदाराच्या कार्यालयाबाहेर केली लघवी - Marathi News | Maharashtra Zilla Parishad Election 2026: Son's strange act after father denied ticket; Urinated outside MLA Sanjay Bansode's office | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.497796"
-  },
-  {
-    "source": "Lokmat",
-    "title": "मोबाईल शॉपी मालकच निघाला 'गँग लीडर'; 'मॉर्निंग वॉक' करणाऱ्यांना लुटणारी टोळी अटकेत - Marathi News | Mobile shop owner turns out to be the ringleader of the thieves; Gang that robbed people taking morning walks arrested | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/mobile-shop-owner-turns-out-to-be-the-ringleader-of-the-thieves-gang-that-robbed-people-taking-morning-walks-arrested-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.497359"
+    "timestamp": "2026-01-25T05:47:38.972262"
   },
   {
     "source": "Lokmat",
@@ -101,15 +61,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-mayor-2026-latur-will-get-a-scheduled-caste-woman-mayor-competition-among-three-congress-members-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.497565"
+    "timestamp": "2026-01-25T05:47:38.972341"
   },
   {
     "source": "Lokmat",
-    "title": "ऊस घेऊन जाणाऱ्या ट्रॅक्टरला धडक; मुंबईतील आयटी इंजिनिअर जागीच ठार, पत्नी गंभीर ! - Marathi News | Tractor carrying sugarcane hits; IT engineer from Mumbai dies on the spot, wife critical! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/tractor-carrying-sugarcane-hits-it-engineer-from-mumbai-dies-on-the-spot-wife-critical-a-a571/",
-    "image": null,
+    "title": "सासरवाडीला निघालेला जावई अपघातामध्ये ठार, लेकराला पाहण्यापूर्वीच काळाने गाठलं",
+    "link": "https://www.lokmat.com/latur/son-in-law-dies-in-accident-while-on-his-way-to-his-in-laws-home-dies-before-he-can-see-his-son-a-a463-c301/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/accident-crime-1_2026011630753.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.497154"
+    "timestamp": "2026-01-25T05:47:38.971919"
   },
   {
     "source": "Dainik Ekmat",
@@ -124,7 +84,39 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-01-25T05:21:17.895949"
+    "timestamp": "2026-01-25T05:47:42.753810"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21643/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-25T05:47:42.280362"
+  },
+  {
+    "source": "Lokmat",
+    "title": "ऊस घेऊन जाणाऱ्या ट्रॅक्टरला धडक; मुंबईतील आयटी इंजिनिअर जागीच ठार, पत्नी गंभीर ! - Marathi News | Tractor carrying sugarcane hits; IT engineer from Mumbai dies on the spot, wife critical! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/tractor-carrying-sugarcane-hits-it-engineer-from-mumbai-dies-on-the-spot-wife-critical-a-a571/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-25T05:47:38.972010"
+  },
+  {
+    "source": "Lokmat",
+    "title": "मोबाईल शॉपी मालकच निघाला 'गँग लीडर'; 'मॉर्निंग वॉक' करणाऱ्यांना लुटणारी टोळी अटकेत - Marathi News | Mobile shop owner turns out to be the ringleader of the thieves; Gang that robbed people taking morning walks arrested | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/mobile-shop-owner-turns-out-to-be-the-ringleader-of-the-thieves-gang-that-robbed-people-taking-morning-walks-arrested-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-25T05:47:38.972183"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरचा उड्डाणपूल बनतोय \"सुसाइड स्पॉट\"; ६१ वर्षीय अनोळखी वृद्धाचा पडून मृत्यू - Marathi News | Latur flyover is becoming a 'suicide spot'; 61-year-old unidentified man dies after falling from it | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-25T05:47:38.972101"
   },
   {
     "source": "ABP Majha",
@@ -132,6 +124,14 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-25T05:21:14.191218"
+    "timestamp": "2026-01-25T05:47:38.908583"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर मनपात नवनिर्वाचित ७० सदस्यांपैकी १९ अनुभवी; दिग्गज सदस्यांमुळे सभागृह गाजणार ! - Marathi News | Latur Municipal Corporation Result: Out of the 70 newly elected members 19 are experienced; The hall will be buzzing with veteran members! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-result-out-of-the-70-newly-elected-members-19-are-experienced-the-hall-will-be-buzzing-with-veteran-members-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-25T05:47:38.972545"
   }
 ];
