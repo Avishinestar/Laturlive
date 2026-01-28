@@ -5,79 +5,55 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-28/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-28T08:54:49.341696"
+    "timestamp": "2026-01-28T09:24:44.995800"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 1 (28-01-2026)",
-    "link": "https://www.latursamachar.com/view/954/latur-main/1",
-    "image": "https://www.latursamachar.com/media/2026-01/page-1-5926430.jpg",
+    "link": "https://www.latursamachar.com/view/956/latur-main/1",
+    "image": "https://www.latursamachar.com/media/2026-01/page-1-4220477.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-28T08:54:50.117674"
+    "timestamp": "2026-01-28T09:24:46.101413"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 2 (28-01-2026)",
-    "link": "https://www.latursamachar.com/view/954/latur-main/2",
-    "image": "https://www.latursamachar.com/media/2026-01/page-2-2872379.jpg",
+    "link": "https://www.latursamachar.com/view/956/latur-main/2",
+    "image": "https://www.latursamachar.com/media/2026-01/page-2-5647950.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-28T08:54:50.117682"
+    "timestamp": "2026-01-28T09:24:46.101419"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 3 (28-01-2026)",
-    "link": "https://www.latursamachar.com/view/954/latur-main/3",
-    "image": "https://www.latursamachar.com/media/2026-01/page-3-4119367.jpg",
+    "link": "https://www.latursamachar.com/view/956/latur-main/3",
+    "image": "https://www.latursamachar.com/media/2026-01/page-3-4050920.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-28T08:54:50.117685"
+    "timestamp": "2026-01-28T09:24:46.101422"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 4 (28-01-2026)",
-    "link": "https://www.latursamachar.com/view/954/latur-main/4",
-    "image": "https://www.latursamachar.com/media/2026-01/page-4-1522053.jpg",
+    "link": "https://www.latursamachar.com/view/956/latur-main/4",
+    "image": "https://www.latursamachar.com/media/2026-01/page-4-8777894.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-28T08:54:50.117687"
+    "timestamp": "2026-01-28T09:24:46.101424"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 5 (28-01-2026)",
-    "link": "https://www.latursamachar.com/view/954/latur-main/5",
-    "image": "https://www.latursamachar.com/media/2026-01/page-5-9886705.jpg",
+    "link": "https://www.latursamachar.com/view/956/latur-main/5",
+    "image": "https://www.latursamachar.com/media/2026-01/page-5-3550493.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-28T08:54:50.117689"
+    "timestamp": "2026-01-28T09:24:46.101426"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 6 (28-01-2026)",
-    "link": "https://www.latursamachar.com/view/954/latur-main/6",
-    "image": "https://www.latursamachar.com/media/2026-01/page-6-5999087.jpg",
+    "link": "https://www.latursamachar.com/view/956/latur-main/6",
+    "image": "https://www.latursamachar.com/media/2026-01/page-6-3550000.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-28T08:54:50.117691"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरचा उड्डाणपूल बनतोय \"सुसाइड स्पॉट\"; ६१ वर्षीय अनोळखी वृद्धाचा पडून मृत्यू - Marathi News | Latur flyover is becoming a 'suicide spot'; 61-year-old unidentified man dies after falling from it | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.976767"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरला मिळणार अनुसूचित जाती महिला प्रवर्गाची महापौर; काँग्रेसच्या 'या' तिघींमध्ये स्पर्धा - Marathi News | Latur Mayor 2026: Latur will get a Scheduled Caste woman mayor; Competition among three Congress members | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-mayor-2026-latur-will-get-a-scheduled-caste-woman-mayor-competition-among-three-congress-members-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.977048"
-  },
-  {
-    "source": "Lokmat",
-    "title": "सासरवाडीला निघालेला जावई अपघातामध्ये ठार, लेकराला पाहण्यापूर्वीच काळाने गाठलं - Marathi News | Son-in-law dies in accident while on his way to his in-laws' home, dies before he can see his son | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/son-in-law-dies-in-accident-while-on-his-way-to-his-in-laws-home-dies-before-he-can-see-his-son-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.976583"
+    "timestamp": "2026-01-28T09:24:46.101430"
   },
   {
     "source": "Lokmat",
@@ -85,7 +61,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.976952"
+    "timestamp": "2026-01-28T09:24:43.270943"
   },
   {
     "source": "Lokmat",
@@ -93,39 +69,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/kidnapping-drama-and-a-setback-for-congress-congress-candidate-anjana-chaudhary-withdraws-from-the-elections-amid-police-security-a-a571/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-zp-election-congress-candidate-anjana-chaudhary_2026011632179.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.976261"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
-    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.913717"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पुण्यात खून करून लातुरात लपले; एमआयडीसीच्या पाेलिसांनी पकडले, पाच जणांना ठोकल्या बेड्या - Marathi News | Murdered in Pune and hid in Latur; MIDC police caught them, five people were handcuffed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/murdered-in-pune-and-hid-in-latur-midc-police-caught-them-five-people-were-handcuffed-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.976470"
-  },
-  {
-    "source": "Lokmat",
-    "title": "ऊस घेऊन जाणाऱ्या ट्रॅक्टरला धडक; मुंबईतील आयटी इंजिनिअर जागीच ठार, पत्नी गंभीर ! - Marathi News | Tractor carrying sugarcane hits; IT engineer from Mumbai dies on the spot, wife critical! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/tractor-carrying-sugarcane-hits-it-engineer-from-mumbai-dies-on-the-spot-wife-critical-a-a571/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.976676"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21659/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-01-28T08:54:51.629426"
+    "timestamp": "2026-01-28T09:24:43.270273"
   },
   {
     "source": "Lokmat",
@@ -133,7 +77,47 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/mobile-shop-owner-turns-out-to-be-the-ringleader-of-the-thieves-gang-that-robbed-people-taking-morning-walks-arrested-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.976860"
+    "timestamp": "2026-01-28T09:24:43.270854"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21659/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-01-28T09:24:47.632977"
+  },
+  {
+    "source": "Lokmat",
+    "title": "सासरवाडीला निघालेला जावई अपघातामध्ये ठार, लेकराला पाहण्यापूर्वीच काळाने गाठलं - Marathi News | Son-in-law dies in accident while on his way to his in-laws' home, dies before he can see his son | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/son-in-law-dies-in-accident-while-on-his-way-to-his-in-laws-home-dies-before-he-can-see-his-son-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-28T09:24:43.270574"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
+    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-28T09:24:43.210873"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरचा उड्डाणपूल बनतोय \"सुसाइड स्पॉट\"; ६१ वर्षीय अनोळखी वृद्धाचा पडून मृत्यू - Marathi News | Latur flyover is becoming a 'suicide spot'; 61-year-old unidentified man dies after falling from it | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-28T09:24:43.270762"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पुण्यात खून करून लातुरात लपले; एमआयडीसीच्या पाेलिसांनी पकडले, पाच जणांना ठोकल्या बेड्या - Marathi News | Murdered in Pune and hid in Latur; MIDC police caught them, five people were handcuffed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/murdered-in-pune-and-hid-in-latur-midc-police-caught-them-five-people-were-handcuffed-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-28T09:24:43.270484"
   },
   {
     "source": "Lokmat",
@@ -141,7 +125,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/bjps-power-show-in-ausa-mla-abhimanyu-pawars-big-blow-to-congress-shiv-sena-along-with-former-mlas-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-28T08:54:47.976371"
+    "timestamp": "2026-01-28T09:24:43.270389"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरला मिळणार अनुसूचित जाती महिला प्रवर्गाची महापौर; काँग्रेसच्या 'या' तिघींमध्ये स्पर्धा - Marathi News | Latur Mayor 2026: Latur will get a Scheduled Caste woman mayor; Competition among three Congress members | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-mayor-2026-latur-will-get-a-scheduled-caste-woman-mayor-competition-among-three-congress-members-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-28T09:24:43.271035"
   },
   {
     "source": "Dainik Ekmat",
@@ -156,6 +148,14 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-01-28T08:54:52.195238"
+    "timestamp": "2026-01-28T09:24:48.311753"
+  },
+  {
+    "source": "Lokmat",
+    "title": "ऊस घेऊन जाणाऱ्या ट्रॅक्टरला धडक; मुंबईतील आयटी इंजिनिअर जागीच ठार, पत्नी गंभीर ! - Marathi News | Tractor carrying sugarcane hits; IT engineer from Mumbai dies on the spot, wife critical! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/tractor-carrying-sugarcane-hits-it-engineer-from-mumbai-dies-on-the-spot-wife-critical-a-a571/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-28T09:24:43.270663"
   }
 ];
