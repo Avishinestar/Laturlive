@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-01-30/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-30T07:11:39.693401"
+    "timestamp": "2026-01-30T07:57:30.833822"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/958/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-01/page-1-1173339.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-30T07:11:40.372422"
+    "timestamp": "2026-01-30T07:57:31.830292"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/958/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-01/page-2-1913965.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-30T07:11:40.372430"
+    "timestamp": "2026-01-30T07:57:31.830301"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/958/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-01/page-3-7051101.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-30T07:11:40.372433"
+    "timestamp": "2026-01-30T07:57:31.830303"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/958/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-01/page-4-1600107.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-30T07:11:40.372435"
+    "timestamp": "2026-01-30T07:57:31.830308"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/958/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-01/page-5-7313703.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-30T07:11:40.372437"
+    "timestamp": "2026-01-30T07:57:31.830312"
   },
   {
     "source": "Latur Samachar",
@@ -53,23 +53,39 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/958/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-01/page-6-3515769.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-30T07:11:40.372441"
+    "timestamp": "2026-01-30T07:57:31.830316"
   },
   {
     "source": "Lokmat",
-    "title": "लातूरचा उड्डाणपूल बनतोय \"सुसाइड स्पॉट\"; ६१ वर्षीय अनोळखी वृद्धाचा पडून मृत्यू - Marathi News | Latur flyover is becoming a 'suicide spot'; 61-year-old unidentified man dies after falling from it | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
+    "title": "पुण्यात खून करून लातुरात लपले; एमआयडीसीच्या पाेलिसांनी पकडले, पाच जणांना ठोकल्या बेड्या - Marathi News | Murdered in Pune and hid in Latur; MIDC police caught them, five people were handcuffed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/murdered-in-pune-and-hid-in-latur-midc-police-caught-them-five-people-were-handcuffed-a-a463-c301/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.416615"
+    "timestamp": "2026-01-30T07:57:29.141815"
   },
   {
     "source": "Lokmat",
-    "title": "चला बसा गाडीत! जेव्हा अजितदादांनी स्वतः कार चालवत लातूरच्या कार्यकर्त्यांना बारामती फिरवली",
-    "link": "https://www.lokmat.com/latur/ajit-pawar-death-lets-get-in-the-car-when-ajitdada-himself-drove-the-latur-workers-to-baramati-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/ajit-pawar-car-driving-abda_2026011633206.jpg",
+    "title": "सासरवाडीला निघालेला जावई अपघातामध्ये ठार, लेकराला पाहण्यापूर्वीच काळाने गाठलं - Marathi News | Son-in-law dies in accident while on his way to his in-laws' home, dies before he can see his son | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/son-in-law-dies-in-accident-while-on-his-way-to-his-in-laws-home-dies-before-he-can-see-his-son-a-a463-c301/",
+    "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.415959"
+    "timestamp": "2026-01-30T07:57:29.141914"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
+    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-30T07:57:28.834337"
+  },
+  {
+    "source": "Lokmat",
+    "title": "औशात भाजपचा पॉवर शो! माजी आमदारांसह काँग्रेस-उद्धवसेनेच्या कार्यकर्त्यांच्या हाती कमळ - Marathi News | BJP's power show in Ausa! MLA Abhimanyu Pawar's big blow to Congress-Shiv Sena along with former MLAs | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/bjps-power-show-in-ausa-mla-abhimanyu-pawars-big-blow-to-congress-shiv-sena-along-with-former-mlas-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-30T07:57:29.141726"
   },
   {
     "source": "Dainik Ekmat",
@@ -77,7 +93,39 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/21675/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-01-30T07:11:42.033624"
+    "timestamp": "2026-01-30T07:57:33.153450"
+  },
+  {
+    "source": "Lokmat",
+    "title": "मोबाईल शॉपी मालकच निघाला 'गँग लीडर'; 'मॉर्निंग वॉक' करणाऱ्यांना लुटणारी टोळी अटकेत - Marathi News | Mobile shop owner turns out to be the ringleader of the thieves; Gang that robbed people taking morning walks arrested | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/mobile-shop-owner-turns-out-to-be-the-ringleader-of-the-thieves-gang-that-robbed-people-taking-morning-walks-arrested-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-30T07:57:29.142185"
+  },
+  {
+    "source": "Lokmat",
+    "title": "वडिलांना तिकीट नाकारल्याने मुलाचे विचित्र कृत्य; NCP आमदाराच्या कार्यालयाबाहेर केली लघवी - Marathi News | Maharashtra Zilla Parishad Election 2026: Son's strange act after father denied ticket; Urinated outside MLA Sanjay Bansode's office | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-30T07:57:29.142272"
+  },
+  {
+    "source": "Lokmat",
+    "title": "चला बसा गाडीत! जेव्हा अजितदादांनी स्वतः कार चालवत लातूरच्या कार्यकर्त्यांना बारामती फिरवली",
+    "link": "https://www.lokmat.com/latur/ajit-pawar-death-lets-get-in-the-car-when-ajitdada-himself-drove-the-latur-workers-to-baramati-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/ajit-pawar-car-driving-abda_2026011633206.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-01-30T07:57:29.141525"
+  },
+  {
+    "source": "Lokmat",
+    "title": "ऊस घेऊन जाणाऱ्या ट्रॅक्टरला धडक; मुंबईतील आयटी इंजिनिअर जागीच ठार, पत्नी गंभीर ! - Marathi News | Tractor carrying sugarcane hits; IT engineer from Mumbai dies on the spot, wife critical! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/tractor-carrying-sugarcane-hits-it-engineer-from-mumbai-dies-on-the-spot-wife-critical-a-a571/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-01-30T07:57:29.142008"
   },
   {
     "source": "Dainik Ekmat",
@@ -92,7 +140,7 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-01-30T07:11:42.517757"
+    "timestamp": "2026-01-30T07:57:33.610106"
   },
   {
     "source": "Lokmat",
@@ -100,62 +148,14 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/kidnapping-drama-and-a-setback-for-congress-congress-candidate-anjana-chaudhary-withdraws-from-the-elections-amid-police-security-a-a571/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.416066"
+    "timestamp": "2026-01-30T07:57:29.141635"
   },
   {
     "source": "Lokmat",
-    "title": "वडिलांना तिकीट नाकारल्याने मुलाचे विचित्र कृत्य; NCP आमदाराच्या कार्यालयाबाहेर केली लघवी - Marathi News | Maharashtra Zilla Parishad Election 2026: Son's strange act after father denied ticket; Urinated outside MLA Sanjay Bansode's office | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/maharashtra-zilla-parishad-election-2026-sons-strange-act-after-father-denied-ticket-urinated-outside-mla-sanjay-bansodes-office-a-a732/",
+    "title": "लातूरचा उड्डाणपूल बनतोय \"सुसाइड स्पॉट\"; ६१ वर्षीय अनोळखी वृद्धाचा पडून मृत्यू - Marathi News | Latur flyover is becoming a 'suicide spot'; 61-year-old unidentified man dies after falling from it | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.416788"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पुण्यात खून करून लातुरात लपले; एमआयडीसीच्या पाेलिसांनी पकडले, पाच जणांना ठोकल्या बेड्या - Marathi News | Murdered in Pune and hid in Latur; MIDC police caught them, five people were handcuffed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/murdered-in-pune-and-hid-in-latur-midc-police-caught-them-five-people-were-handcuffed-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.416313"
-  },
-  {
-    "source": "Lokmat",
-    "title": "औशात भाजपचा पॉवर शो! माजी आमदारांसह काँग्रेस-उद्धवसेनेच्या कार्यकर्त्यांच्या हाती कमळ - Marathi News | BJP's power show in Ausa! MLA Abhimanyu Pawar's big blow to Congress-Shiv Sena along with former MLAs | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/bjps-power-show-in-ausa-mla-abhimanyu-pawars-big-blow-to-congress-shiv-sena-along-with-former-mlas-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.416161"
-  },
-  {
-    "source": "Lokmat",
-    "title": "मोबाईल शॉपी मालकच निघाला 'गँग लीडर'; 'मॉर्निंग वॉक' करणाऱ्यांना लुटणारी टोळी अटकेत - Marathi News | Mobile shop owner turns out to be the ringleader of the thieves; Gang that robbed people taking morning walks arrested | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/mobile-shop-owner-turns-out-to-be-the-ringleader-of-the-thieves-gang-that-robbed-people-taking-morning-walks-arrested-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.416702"
-  },
-  {
-    "source": "Lokmat",
-    "title": "सासरवाडीला निघालेला जावई अपघातामध्ये ठार, लेकराला पाहण्यापूर्वीच काळाने गाठलं - Marathi News | Son-in-law dies in accident while on his way to his in-laws' home, dies before he can see his son | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/son-in-law-dies-in-accident-while-on-his-way-to-his-in-laws-home-dies-before-he-can-see-his-son-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.416401"
-  },
-  {
-    "source": "Lokmat",
-    "title": "ऊस घेऊन जाणाऱ्या ट्रॅक्टरला धडक; मुंबईतील आयटी इंजिनिअर जागीच ठार, पत्नी गंभीर ! - Marathi News | Tractor carrying sugarcane hits; IT engineer from Mumbai dies on the spot, wife critical! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/tractor-carrying-sugarcane-hits-it-engineer-from-mumbai-dies-on-the-spot-wife-critical-a-a571/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.416522"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर भांडी विक्री करून उदरनिर्वाह ते सात वर्षांची समाजसेवा, अजितदादांच्या राष्ट्रवादीने निवडणुकीत 'हिरा' शोधला; सर्वसामान्य कार्यकर्त्याला उमेदवारी",
-    "link": "https://marathi.abplive.com/news/latur/latur-municipal-election-2026-from-earning-a-living-by-selling-utensils-on-installments-to-social-service-npc-gives-an-opportunity-to-youth-1407468",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-01-30T07:11:37.006620"
+    "timestamp": "2026-01-30T07:57:29.142096"
   }
 ];
