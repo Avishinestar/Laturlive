@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-02-04/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-04T10:28:39.832834"
+    "timestamp": "2026-02-04T11:07:00.529045"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/968/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-02/page-1-5726522.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-04T10:28:40.594781"
+    "timestamp": "2026-02-04T11:07:01.303347"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/968/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-02/page-2-2820835.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-04T10:28:40.594790"
+    "timestamp": "2026-02-04T11:07:01.303354"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/968/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-02/page-3-6954750.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-04T10:28:40.594793"
+    "timestamp": "2026-02-04T11:07:01.303357"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/968/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-02/page-4-3276127.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-04T10:28:40.594795"
+    "timestamp": "2026-02-04T11:07:01.303361"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/968/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-02/page-5-1124454.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-04T10:28:40.594797"
+    "timestamp": "2026-02-04T11:07:01.303363"
   },
   {
     "source": "Latur Samachar",
@@ -53,23 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/968/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-02/page-6-2400829.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-04T10:28:40.594812"
-  },
-  {
-    "source": "Lokmat",
-    "title": "सासरवाडीला निघालेला जावई अपघातामध्ये ठार, लेकराला पाहण्यापूर्वीच काळाने गाठलं - Marathi News | Son-in-law dies in accident while on his way to his in-laws' home, dies before he can see his son | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/son-in-law-dies-in-accident-while-on-his-way-to-his-in-laws-home-dies-before-he-can-see-his-son-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.911448"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातुरात किरकोळ वादातून युवकाची भरचौकामध्ये हत्या; दोन आरोपींना पोलिस कोठडी - Marathi News | Youth murdered in Latur over minor dispute; Two accused remanded in police custody | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/youth-murdered-in-latur-over-minor-dispute-two-accused-remanded-in-police-custody-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.910895"
+    "timestamp": "2026-02-04T11:07:01.303364"
   },
   {
     "source": "Lokmat",
@@ -77,15 +61,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/kidnapping-drama-and-a-setback-for-congress-congress-candidate-anjana-chaudhary-withdraws-from-the-elections-amid-police-security-a-a571/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.911181"
+    "timestamp": "2026-02-04T11:06:58.472125"
   },
   {
     "source": "Lokmat",
-    "title": "पुण्यात खून करून लातुरात लपले; एमआयडीसीच्या पाेलिसांनी पकडले, पाच जणांना ठोकल्या बेड्या - Marathi News | Murdered in Pune and hid in Latur; MIDC police caught them, five people were handcuffed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/murdered-in-pune-and-hid-in-latur-midc-police-caught-them-five-people-were-handcuffed-a-a463-c301/",
+    "title": "औशात भाजपचा पॉवर शो! माजी आमदारांसह काँग्रेस-उद्धवसेनेच्या कार्यकर्त्यांच्या हाती कमळ - Marathi News | BJP's power show in Ausa! MLA Abhimanyu Pawar's big blow to Congress-Shiv Sena along with former MLAs | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/bjps-power-show-in-ausa-mla-abhimanyu-pawars-big-blow-to-congress-shiv-sena-along-with-former-mlas-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.911361"
+    "timestamp": "2026-02-04T11:06:58.472221"
   },
   {
     "source": "Dainik Ekmat",
@@ -93,23 +77,15 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/21715/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-04T10:28:42.142957"
+    "timestamp": "2026-02-04T11:07:02.798784"
   },
   {
     "source": "Lokmat",
-    "title": "Latur: दारूसाठी पैसे न दिल्याने मुलाची क्रूरता; आईची जमिनीवर डाेके आपटून हत्या - Marathi News | Latur: Son brutally beats mother to death after not paying for alcohol | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-son-brutally-beats-mother-to-death-after-not-paying-for-alcohol-a-a320/",
+    "title": "लातूरचा उड्डाणपूल बनतोय \"सुसाइड स्पॉट\"; ६१ वर्षीय अनोळखी वृद्धाचा पडून मृत्यू - Marathi News | Latur flyover is becoming a 'suicide spot'; 61-year-old unidentified man dies after falling from it | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.910991"
-  },
-  {
-    "source": "Lokmat",
-    "title": "चला बसा गाडीत! जेव्हा अजितदादांनी स्वतः कार चालवत लातूरच्या कार्यकर्त्यांना बारामती फिरवली - Marathi News | Ajit Pawar Death: \"Let's get in the car!\" When Ajitdada himself drove the Latur workers to Baramati | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/ajit-pawar-death-lets-get-in-the-car-when-ajitdada-himself-drove-the-latur-workers-to-baramati-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.911083"
+    "timestamp": "2026-02-04T11:06:58.472562"
   },
   {
     "source": "Lokmat",
@@ -117,7 +93,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/tractor-carrying-sugarcane-hits-it-engineer-from-mumbai-dies-on-the-spot-wife-critical-a-a571/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.911534"
+    "timestamp": "2026-02-04T11:06:58.472473"
   },
   {
     "source": "Lokmat",
@@ -125,7 +101,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/son-slits-his-biological-fathers-throat-to-get-medicine-for-his-sick-mother-accused-boy-arrested-incident-at-khopegaon-pati-a-a1013/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-crime-news_2026021636662.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.910770"
+    "timestamp": "2026-02-04T11:06:58.471725"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पुण्यात खून करून लातुरात लपले; एमआयडीसीच्या पाेलिसांनी पकडले, पाच जणांना ठोकल्या बेड्या - Marathi News | Murdered in Pune and hid in Latur; MIDC police caught them, five people were handcuffed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/murdered-in-pune-and-hid-in-latur-midc-police-caught-them-five-people-were-handcuffed-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-04T11:06:58.472306"
   },
   {
     "source": "Dainik Ekmat",
@@ -140,22 +124,38 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-02-04T10:28:42.554500"
+    "timestamp": "2026-02-04T11:07:03.262010"
   },
   {
     "source": "Lokmat",
-    "title": "लातूरचा उड्डाणपूल बनतोय \"सुसाइड स्पॉट\"; ६१ वर्षीय अनोळखी वृद्धाचा पडून मृत्यू - Marathi News | Latur flyover is becoming a 'suicide spot'; 61-year-old unidentified man dies after falling from it | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-flyover-is-becoming-a-suicide-spot-61-year-old-unidentified-man-dies-after-falling-from-it-a-a320/",
+    "title": "लातुरात किरकोळ वादातून युवकाची भरचौकामध्ये हत्या; दोन आरोपींना पोलिस कोठडी - Marathi News | Youth murdered in Latur over minor dispute; Two accused remanded in police custody | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/youth-murdered-in-latur-over-minor-dispute-two-accused-remanded-in-police-custody-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.911623"
+    "timestamp": "2026-02-04T11:06:58.471826"
   },
   {
     "source": "Lokmat",
-    "title": "औशात भाजपचा पॉवर शो! माजी आमदारांसह काँग्रेस-उद्धवसेनेच्या कार्यकर्त्यांच्या हाती कमळ - Marathi News | BJP's power show in Ausa! MLA Abhimanyu Pawar's big blow to Congress-Shiv Sena along with former MLAs | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/bjps-power-show-in-ausa-mla-abhimanyu-pawars-big-blow-to-congress-shiv-sena-along-with-former-mlas-a-a320/",
+    "title": "सासरवाडीला निघालेला जावई अपघातामध्ये ठार, लेकराला पाहण्यापूर्वीच काळाने गाठलं - Marathi News | Son-in-law dies in accident while on his way to his in-laws' home, dies before he can see his son | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/son-in-law-dies-in-accident-while-on-his-way-to-his-in-laws-home-dies-before-he-can-see-his-son-a-a463-c301/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-04T10:28:37.911274"
+    "timestamp": "2026-02-04T11:06:58.472389"
+  },
+  {
+    "source": "Lokmat",
+    "title": "चला बसा गाडीत! जेव्हा अजितदादांनी स्वतः कार चालवत लातूरच्या कार्यकर्त्यांना बारामती फिरवली - Marathi News | Ajit Pawar Death: \"Let's get in the car!\" When Ajitdada himself drove the Latur workers to Baramati | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/ajit-pawar-death-lets-get-in-the-car-when-ajitdada-himself-drove-the-latur-workers-to-baramati-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-04T11:06:58.472013"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur: दारूसाठी पैसे न दिल्याने मुलाची क्रूरता; आईची जमिनीवर डाेके आपटून हत्या - Marathi News | Latur: Son brutally beats mother to death after not paying for alcohol | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-son-brutally-beats-mother-to-death-after-not-paying-for-alcohol-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-04T11:06:58.471919"
   }
 ];
