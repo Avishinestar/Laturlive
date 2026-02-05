@@ -5,55 +5,63 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-02-05/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-05T09:06:19.682857"
+    "timestamp": "2026-02-05T10:06:22.778314"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 1 (05-02-2026)",
-    "link": "https://www.latursamachar.com/view/968/latur-main/1",
-    "image": "https://www.latursamachar.com/media/2026-02/page-1-5726522.jpg",
+    "link": "https://www.latursamachar.com/view/970/latur-main/1",
+    "image": "https://www.latursamachar.com/media/2026-02/page-1-9271334.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-05T09:06:20.457486"
+    "timestamp": "2026-02-05T10:06:23.469095"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 2 (05-02-2026)",
-    "link": "https://www.latursamachar.com/view/968/latur-main/2",
-    "image": "https://www.latursamachar.com/media/2026-02/page-2-2820835.jpg",
+    "link": "https://www.latursamachar.com/view/970/latur-main/2",
+    "image": "https://www.latursamachar.com/media/2026-02/page-2-8225742.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-05T09:06:20.457494"
+    "timestamp": "2026-02-05T10:06:23.469103"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 3 (05-02-2026)",
-    "link": "https://www.latursamachar.com/view/968/latur-main/3",
-    "image": "https://www.latursamachar.com/media/2026-02/page-3-6954750.jpg",
+    "link": "https://www.latursamachar.com/view/970/latur-main/3",
+    "image": "https://www.latursamachar.com/media/2026-02/page-3-9620219.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-05T09:06:20.457497"
+    "timestamp": "2026-02-05T10:06:23.469106"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 4 (05-02-2026)",
-    "link": "https://www.latursamachar.com/view/968/latur-main/4",
-    "image": "https://www.latursamachar.com/media/2026-02/page-4-3276127.jpg",
+    "link": "https://www.latursamachar.com/view/970/latur-main/4",
+    "image": "https://www.latursamachar.com/media/2026-02/page-4-2055065.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-05T09:06:20.457498"
+    "timestamp": "2026-02-05T10:06:23.469108"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 5 (05-02-2026)",
-    "link": "https://www.latursamachar.com/view/968/latur-main/5",
-    "image": "https://www.latursamachar.com/media/2026-02/page-5-1124454.jpg",
+    "link": "https://www.latursamachar.com/view/970/latur-main/5",
+    "image": "https://www.latursamachar.com/media/2026-02/page-5-5856700.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-05T09:06:20.457500"
+    "timestamp": "2026-02-05T10:06:23.469110"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 6 (05-02-2026)",
-    "link": "https://www.latursamachar.com/view/968/latur-main/6",
-    "image": "https://www.latursamachar.com/media/2026-02/page-6-2400829.jpg",
+    "link": "https://www.latursamachar.com/view/970/latur-main/6",
+    "image": "https://www.latursamachar.com/media/2026-02/page-6-5448980.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-05T09:06:20.457502"
+    "timestamp": "2026-02-05T10:06:23.469112"
+  },
+  {
+    "source": "Divya Marathi",
+    "title": "लातूरमध्ये पुन्हा काँग्रेसची सत्ता: महापौरपदी जयश्री सोनकांबळे तर उपमहापौरपदी ॲड. स्नेहल उटगे यांच्या नावाची अधिकृत घोषणा; भाजप विरोधी बाकावर",
+    "link": "https://divyamarathi.bhaskar.com/local/maharashtra/aurangabad/osmanabad/news/latur-mayor-jayashree-sonkamble-deputy-mayor-snehal-utge-congress-retains-power-137129047.html",
+    "image": "https://images.bhaskarassets.com/web2images/5483/2026/02/05/730-x-548-2026-02-05t150443653_1770284173.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-02-05T10:06:27.131409"
   },
   {
     "source": "Divya Marathi",
@@ -61,7 +69,15 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/aurangabad/osmanabad/news/gulab-patil-flight-cancelled-latour-sambhajinagar-clearance-delay-137123223.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/02/04/copy-of-db-temp-cover-marathi-8_1770216594.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:22.704295"
+    "timestamp": "2026-02-05T10:06:27.132160"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पुण्यात खून करून लातुरात लपले; एमआयडीसीच्या पाेलिसांनी पकडले, पाच जणांना ठोकल्या बेड्या - Marathi News | Murdered in Pune and hid in Latur; MIDC police caught them, five people were handcuffed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/murdered-in-pune-and-hid-in-latur-midc-police-caught-them-five-people-were-handcuffed-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-05T10:06:21.167571"
   },
   {
     "source": "Lokmat",
@@ -69,39 +85,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/bjps-power-show-in-ausa-mla-abhimanyu-pawars-big-blow-to-congress-shiv-sena-along-with-former-mlas-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.986093"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21723/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-02-05T09:06:22.023317"
+    "timestamp": "2026-02-05T10:06:21.167477"
   },
   {
     "source": "Lokmat",
-    "title": "आजारी आईच्या औषधोपचारासाठी मुलानेच जन्मदात्याचा गळा चिरला! आराेपी मुलाला अटक : खाेपेगाव पाटी येथील घटना - Marathi News | Son slits his biological father's throat to get medicine for his sick mother! Accused boy arrested: Incident at Khopegaon Pati | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/son-slits-his-biological-fathers-throat-to-get-medicine-for-his-sick-mother-accused-boy-arrested-incident-at-khopegaon-pati-a-a1013/",
+    "title": "अपहरणाचे नाट्य आणि काँग्रेसला झटका! पोलीस बंदोबस्तात उमेदवार अंजना चौधरींची निवडणुकीतून माघार - Marathi News | Kidnapping drama and a setback for Congress! Congress candidate Anjana Chaudhary withdraws from the elections amid police security | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/kidnapping-drama-and-a-setback-for-congress-congress-candidate-anjana-chaudhary-withdraws-from-the-elections-amid-police-security-a-a571/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.985657"
+    "timestamp": "2026-02-05T10:06:21.167384"
   },
   {
-    "source": "Lokmat",
-    "title": "चला बसा गाडीत! जेव्हा अजितदादांनी स्वतः कार चालवत लातूरच्या कार्यकर्त्यांना बारामती फिरवली - Marathi News | Ajit Pawar Death: \"Let's get in the car!\" When Ajitdada himself drove the Latur workers to Baramati | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/ajit-pawar-death-lets-get-in-the-car-when-ajitdada-himself-drove-the-latur-workers-to-baramati-a-a320/",
+    "source": "ABP Majha",
+    "title": "लातूर..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
+    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.985919"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पाणीपुरवठा मंत्री गुलाबराव पाटील यांचे विमान धावपट्टीवरून दोनदा परतले! लातुरातून उड्डाण रद्द - Marathi News | Water Supply Minister Gulabrao Patil's plane returned from the runway twice! Flight from Latur cancelled | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/water-supply-minister-gulabrao-patils-plane-returned-from-the-runway-twice-flight-from-latur-cancelled-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.985457"
+    "timestamp": "2026-02-05T10:06:21.098198"
   },
   {
     "source": "Lokmat",
@@ -109,7 +109,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-son-brutally-beats-mother-to-death-after-not-paying-for-alcohol-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.985827"
+    "timestamp": "2026-02-05T10:06:21.167199"
   },
   {
     "source": "Dainik Ekmat",
@@ -124,7 +124,15 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-02-05T09:06:22.402879"
+    "timestamp": "2026-02-05T10:06:26.909819"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21723/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-02-05T10:06:26.328474"
   },
   {
     "source": "Lokmat",
@@ -132,15 +140,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/youth-murdered-in-latur-over-minor-dispute-two-accused-remanded-in-police-custody-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.985742"
+    "timestamp": "2026-02-05T10:06:21.167112"
   },
   {
     "source": "Lokmat",
-    "title": "अपहरणाचे नाट्य आणि काँग्रेसला झटका! पोलीस बंदोबस्तात उमेदवार अंजना चौधरींची निवडणुकीतून माघार - Marathi News | Kidnapping drama and a setback for Congress! Congress candidate Anjana Chaudhary withdraws from the elections amid police security | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/kidnapping-drama-and-a-setback-for-congress-congress-candidate-anjana-chaudhary-withdraws-from-the-elections-amid-police-security-a-a571/",
+    "title": "चला बसा गाडीत! जेव्हा अजितदादांनी स्वतः कार चालवत लातूरच्या कार्यकर्त्यांना बारामती फिरवली - Marathi News | Ajit Pawar Death: \"Let's get in the car!\" When Ajitdada himself drove the Latur workers to Baramati | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/ajit-pawar-death-lets-get-in-the-car-when-ajitdada-himself-drove-the-latur-workers-to-baramati-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.986008"
+    "timestamp": "2026-02-05T10:06:21.167288"
   },
   {
     "source": "Lokmat",
@@ -148,7 +156,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-174-crores-of-skilled-labor-in-mgnrega-stalled-thousands-of-farmer-beneficiaries-in-financial-crunch-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.985562"
+    "timestamp": "2026-02-05T10:06:21.166923"
+  },
+  {
+    "source": "Lokmat",
+    "title": "आजारी आईच्या औषधोपचारासाठी मुलानेच जन्मदात्याचा गळा चिरला! आराेपी मुलाला अटक : खाेपेगाव पाटी येथील घटना - Marathi News | Son slits his biological father's throat to get medicine for his sick mother! Accused boy arrested: Incident at Khopegaon Pati | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/son-slits-his-biological-fathers-throat-to-get-medicine-for-his-sick-mother-accused-boy-arrested-incident-at-khopegaon-pati-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-05T10:06:21.167022"
   },
   {
     "source": "Lokmat",
@@ -156,22 +172,14 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-crime-father-becomes-villain-in-sons-eyes-son-who-killed-father-income-tax-officer-remanded-in-police-custody-for-3-days-a-a320/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-murder-incometax-arrest-son_2026021637818.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.985357"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
-    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
-    "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/04/2a5da59a173aacdea99b0ffd69676ee817702173282641002_original.jpg?impolicy=abp_cdn&imwidth=470",
-    "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.899989"
+    "timestamp": "2026-02-05T10:06:21.166726"
   },
   {
     "source": "Lokmat",
-    "title": "पुण्यात खून करून लातुरात लपले; एमआयडीसीच्या पाेलिसांनी पकडले, पाच जणांना ठोकल्या बेड्या - Marathi News | Murdered in Pune and hid in Latur; MIDC police caught them, five people were handcuffed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/murdered-in-pune-and-hid-in-latur-midc-police-caught-them-five-people-were-handcuffed-a-a463-c301/",
+    "title": "पाणीपुरवठा मंत्री गुलाबराव पाटील यांचे विमान धावपट्टीवरून दोनदा परतले! लातुरातून उड्डाण रद्द - Marathi News | Water Supply Minister Gulabrao Patil's plane returned from the runway twice! Flight from Latur cancelled | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/water-supply-minister-gulabrao-patils-plane-returned-from-the-runway-twice-flight-from-latur-cancelled-a-a1013/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-05T09:06:17.986185"
+    "timestamp": "2026-02-05T10:06:21.166831"
   }
 ];
