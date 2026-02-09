@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-02-09/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-09T01:09:46.356542"
+    "timestamp": "2026-02-09T04:02:02.438700"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/974/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-02/page-1-8893520.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-09T01:09:47.108596"
+    "timestamp": "2026-02-09T04:02:03.178797"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/974/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-02/page-2-3798985.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-09T01:09:47.108604"
+    "timestamp": "2026-02-09T04:02:03.178807"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/974/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-02/page-3-6938384.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-09T01:09:47.108607"
+    "timestamp": "2026-02-09T04:02:03.178810"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/974/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-02/page-4-5973918.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-09T01:09:47.108609"
+    "timestamp": "2026-02-09T04:02:03.178812"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/974/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-02/page-5-6995913.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-09T01:09:47.108611"
+    "timestamp": "2026-02-09T04:02:03.178813"
   },
   {
     "source": "Latur Samachar",
@@ -53,15 +53,31 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/974/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-02/page-6-2043250.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-09T01:09:47.108613"
+    "timestamp": "2026-02-09T04:02:03.178816"
   },
   {
     "source": "Lokmat",
-    "title": "बाप 'खलनायक' वाटला अन् मुलाने नव्या घरातच त्यांचं रक्त सांडलं; 'असे' का घडलं? - Marathi News | Latur Crime: Father becomes 'villain' in son's eyes; Son who killed father, Income Tax officer, remanded in police custody for 3 days | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-crime-father-becomes-villain-in-sons-eyes-son-who-killed-father-income-tax-officer-remanded-in-police-custody-for-3-days-a-a320/",
+    "title": "पाणीपुरवठा मंत्री गुलाबराव पाटील यांचे विमान धावपट्टीवरून दोनदा परतले! लातुरातून उड्डाण रद्द - Marathi News | Water Supply Minister Gulabrao Patil's plane returned from the runway twice! Flight from Latur cancelled | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/water-supply-minister-gulabrao-patils-plane-returned-from-the-runway-twice-flight-from-latur-cancelled-a-a1013/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783432"
+    "timestamp": "2026-02-09T04:02:00.635757"
+  },
+  {
+    "source": "Lokmat",
+    "title": "चला बसा गाडीत! जेव्हा अजितदादांनी स्वतः कार चालवत लातूरच्या कार्यकर्त्यांना बारामती फिरवली - Marathi News | Ajit Pawar Death: \"Let's get in the car!\" When Ajitdada himself drove the Latur workers to Baramati | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/ajit-pawar-death-lets-get-in-the-car-when-ajitdada-himself-drove-the-latur-workers-to-baramati-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-09T04:02:00.636198"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
+    "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/09/84f2e8b71e095b7044a9518363411bfb17706041801951091_original.jpeg?impolicy=abp_cdn&imwidth=470",
+    "time_str": "Recent",
+    "timestamp": "2026-02-09T04:02:00.340190"
   },
   {
     "source": "Lokmat",
@@ -69,15 +85,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-son-brutally-beats-mother-to-death-after-not-paying-for-alcohol-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783891"
+    "timestamp": "2026-02-09T04:02:00.636111"
   },
   {
     "source": "Lokmat",
-    "title": "दुचाकीवरुन गंगापूर गावाकडे निघालेल्या तरुणाचा अपघाती मृत्यू, लातूर-औसा महामार्गावरील घटना",
-    "link": "https://www.lokmat.com/latur/accidental-death-of-a-young-man-who-was-going-towards-gangapur-village-on-a-two-wheeler-incident-on-the-latur-ausa-highway-a-a653/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/accident-5gd4sd_2026021640279.jpg",
+    "title": "बाप 'खलनायक' वाटला अन् मुलाने नव्या घरातच त्यांचं रक्त सांडलं; 'असे' का घडलं? - Marathi News | Latur Crime: Father becomes 'villain' in son's eyes; Son who killed father, Income Tax officer, remanded in police custody for 3 days | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-crime-father-becomes-villain-in-sons-eyes-son-who-killed-father-income-tax-officer-remanded-in-police-custody-for-3-days-a-a320/",
+    "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783144"
+    "timestamp": "2026-02-09T04:02:00.635658"
   },
   {
     "source": "Lokmat",
@@ -85,15 +101,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-174-crores-of-skilled-labor-in-mgnrega-stalled-thousands-of-farmer-beneficiaries-in-financial-crunch-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783608"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातुरात भाजप, काँग्रेसची लढाई अटीतटीची; मतदारसंघांवरील वर्चस्व टिकविण्याचे आव्हान - Marathi News | Latur ZP Election: BJP, Congress battle fiercely in Latur; Challenge to maintain dominance in constituencies | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zp-election-bjp-congress-battle-fiercely-in-latur-challenge-to-maintain-dominance-in-constituencies-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783337"
+    "timestamp": "2026-02-09T04:02:00.635853"
   },
   {
     "source": "Dainik Ekmat",
@@ -108,31 +116,7 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-02-09T01:09:49.137899"
-  },
-  {
-    "source": "Lokmat",
-    "title": "चला बसा गाडीत! जेव्हा अजितदादांनी स्वतः कार चालवत लातूरच्या कार्यकर्त्यांना बारामती फिरवली - Marathi News | Ajit Pawar Death: \"Let's get in the car!\" When Ajitdada himself drove the Latur workers to Baramati | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/ajit-pawar-death-lets-get-in-the-car-when-ajitdada-himself-drove-the-latur-workers-to-baramati-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783988"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पाणीपुरवठा मंत्री गुलाबराव पाटील यांचे विमान धावपट्टीवरून दोनदा परतले! लातुरातून उड्डाण रद्द - Marathi News | Water Supply Minister Gulabrao Patil's plane returned from the runway twice! Flight from Latur cancelled | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/water-supply-minister-gulabrao-patils-plane-returned-from-the-runway-twice-flight-from-latur-cancelled-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783521"
-  },
-  {
-    "source": "Lokmat",
-    "title": "आजारी आईच्या औषधोपचारासाठी मुलानेच जन्मदात्याचा गळा चिरला! आराेपी मुलाला अटक : खाेपेगाव पाटी येथील घटना - Marathi News | Son slits his biological father's throat to get medicine for his sick mother! Accused boy arrested: Incident at Khopegaon Pati | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/son-slits-his-biological-fathers-throat-to-get-medicine-for-his-sick-mother-accused-boy-arrested-incident-at-khopegaon-pati-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783717"
+    "timestamp": "2026-02-09T04:02:05.111604"
   },
   {
     "source": "Lokmat",
@@ -140,7 +124,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/youth-murdered-in-latur-over-minor-dispute-two-accused-remanded-in-police-custody-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783806"
+    "timestamp": "2026-02-09T04:02:00.636029"
+  },
+  {
+    "source": "Lokmat",
+    "title": "आजारी आईच्या औषधोपचारासाठी मुलानेच जन्मदात्याचा गळा चिरला! आराेपी मुलाला अटक : खाेपेगाव पाटी येथील घटना - Marathi News | Son slits his biological father's throat to get medicine for his sick mother! Accused boy arrested: Incident at Khopegaon Pati | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/son-slits-his-biological-fathers-throat-to-get-medicine-for-his-sick-mother-accused-boy-arrested-incident-at-khopegaon-pati-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-09T04:02:00.635943"
   },
   {
     "source": "Dainik Ekmat",
@@ -148,15 +140,23 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/21757/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-09T01:09:48.676406"
+    "timestamp": "2026-02-09T04:02:04.676236"
   },
   {
     "source": "Lokmat",
-    "title": "लातूरमध्ये निवडणुकीत आघाडी, महापौर-उपमहापौर पदाच्या निवडीत काँग्रेस-वंचित आमनेसामने - Marathi News | Latur election: Congress-VBA face-off in Mayor-Deputy Mayor elections | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-election-congress-vba-face-off-in-mayor-deputy-mayor-elections-a-a320/",
+    "title": "लातुरात भाजप, काँग्रेसची लढाई अटीतटीची; मतदारसंघांवरील वर्चस्व टिकविण्याचे आव्हान - Marathi News | Latur ZP Election: BJP, Congress battle fiercely in Latur; Challenge to maintain dominance in constituencies | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zp-election-bjp-congress-battle-fiercely-in-latur-challenge-to-maintain-dominance-in-constituencies-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.783239"
+    "timestamp": "2026-02-09T04:02:00.635538"
+  },
+  {
+    "source": "Lokmat",
+    "title": "दुचाकीवरुन गंगापूर गावाकडे निघालेल्या तरुणाचा अपघाती मृत्यू, लातूर-औसा महामार्गावरील घटना",
+    "link": "https://www.lokmat.com/latur/accidental-death-of-a-young-man-who-was-going-towards-gangapur-village-on-a-two-wheeler-incident-on-the-latur-ausa-highway-a-a653/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/accident-5gd4sd_2026021640279.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-02-09T04:02:00.635342"
   },
   {
     "source": "ABP Majha",
@@ -164,6 +164,14 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-09T01:09:44.718008"
+    "timestamp": "2026-02-09T04:02:00.340284"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरमध्ये निवडणुकीत आघाडी, महापौर-उपमहापौर पदाच्या निवडीत काँग्रेस-वंचित आमनेसामने - Marathi News | Latur election: Congress-VBA face-off in Mayor-Deputy Mayor elections | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-election-congress-vba-face-off-in-mayor-deputy-mayor-elections-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-09T04:02:00.635442"
   }
 ];
