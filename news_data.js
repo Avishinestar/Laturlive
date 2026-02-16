@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-02-16/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-16T15:31:44.339752"
+    "timestamp": "2026-02-16T16:30:42.749318"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/990/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-02/page-1-2917159.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-16T15:31:45.209023"
+    "timestamp": "2026-02-16T16:30:43.300830"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/990/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-02/page-2-9336695.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-16T15:31:45.209032"
+    "timestamp": "2026-02-16T16:30:43.300838"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/990/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-02/page-3-6459434.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-16T15:31:45.209035"
+    "timestamp": "2026-02-16T16:30:43.300841"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/990/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-02/page-4-9208624.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-16T15:31:45.209037"
+    "timestamp": "2026-02-16T16:30:43.300844"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/990/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-02/page-5-7163930.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-16T15:31:45.209040"
+    "timestamp": "2026-02-16T16:30:43.300846"
   },
   {
     "source": "Latur Samachar",
@@ -53,55 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/990/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-02/page-6-6339623.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-16T15:31:45.209042"
-  },
-  {
-    "source": "Lokmat",
-    "title": "शक्तिपीठ महामार्गासाठी सक्तीची मोजणी; शेतकऱ्यांचा विरोध, टोकाचे पाऊल उचलण्याचा प्रयत्न - Marathi News | Forced counting for Shaktipeeth highway; Farmers oppose, attempt to take extreme steps | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/forced-counting-for-shaktipeeth-highway-farmers-oppose-attempt-to-take-extreme-steps-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740270"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर महापालिकेवर काँग्रेसचा झेंडा; जयश्री सोनकांबळे महापौर, तर स्नेहल उटगे उपमहापौरपदी बिनविरोध निवड - Marathi News | Congress flag flies over Latur Municipal Corporation; Jayashree Sonkamble elected Mayor, Snehal Utge elected Deputy Mayor unopposed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/congress-flag-flies-over-latur-municipal-corporation-jayashree-sonkamble-elected-mayor-snehal-utge-elected-deputy-mayor-unopposed-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740821"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur ZP Election Results: लातुरात देशमुखांना धक्का! काँग्रेसने सर्वाधिक जागा जिंकल्या, पण सत्ता महायुतीची - Marathi News | Latur ZP Election Results: Deshmukhs suffer shock in Latur! Won the most seats, but power belongs to the Mahayuti | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zp-election-results-deshmukhs-suffer-shock-in-latur-won-the-most-seats-but-power-belongs-to-the-mahayuti-a-a571/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740475"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur ZP Election Result 2026: मराठवाड्यात राज ठाकरेंची जादू; लातूर जिल्हा परिषदेत मनसेने उधळला विजयाचा गुलाल - Marathi News | Latur ZP Election: Raj Thackeray's magic in Marathwada; MNS won three seats in the Latur Zilla Parishad | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zp-election-raj-thackerays-magic-in-marathwada-mns-won-three-seats-in-the-latur-zilla-parishad-a-a732/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740736"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
-    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.469674"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरात महायुतीची सत्ता टिकली, पण भाजपचा गड ढासळला; काँग्रेस ठरला सर्वात मोठा पक्ष! - Marathi News | Latur ZP Election Results 2026: Mahayuti remained in power, but BJP's stronghold collapsed; Congress emerged as the largest party! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zp-election-results-2026-mahayuti-remained-in-power-but-bjps-stronghold-collapsed-congress-emerged-as-the-largest-party-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740562"
+    "timestamp": "2026-02-16T16:30:43.300847"
   },
   {
     "source": "Lokmat",
@@ -109,15 +61,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-police-bust-delhi-based-cable-theft-gang-three-caught-red-handed-while-stealing-bsnls-underground-cable-worth-lakhs-a-a320/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/copper-wire-theft-abd-crime-a_2026021645775.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740167"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरलातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.469558"
+    "timestamp": "2026-02-16T16:30:41.141914"
   },
   {
     "source": "Lokmat",
@@ -125,7 +69,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/new-executive-board-of-shiv-chhatrapati-education-institute-dr-gopalrao-patil-elected-as-president-bb-thombre-elected-as-secretary-a-a1013/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740384"
+    "timestamp": "2026-02-16T16:30:41.142119"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-16T16:30:41.078980"
   },
   {
     "source": "ABP Majha",
@@ -133,7 +85,23 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.469474"
+    "timestamp": "2026-02-16T16:30:41.078897"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर महापालिकेवर काँग्रेसचा झेंडा; जयश्री सोनकांबळे महापौर, तर स्नेहल उटगे उपमहापौरपदी बिनविरोध निवड - Marathi News | Congress flag flies over Latur Municipal Corporation; Jayashree Sonkamble elected Mayor, Snehal Utge elected Deputy Mayor unopposed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/congress-flag-flies-over-latur-municipal-corporation-jayashree-sonkamble-elected-mayor-snehal-utge-elected-deputy-mayor-unopposed-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-16T16:30:41.142593"
+  },
+  {
+    "source": "Lokmat",
+    "title": "दुचाकीवरुन गंगापूर गावाकडे निघालेल्या तरुणाचा अपघाती मृत्यू, लातूर-औसा महामार्गावरील घटना - Marathi News | Accidental death of a young man who was going towards Gangapur village on a two-wheeler, incident on the Latur-Ausa highway | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/accidental-death-of-a-young-man-who-was-going-towards-gangapur-village-on-a-two-wheeler-incident-on-the-latur-ausa-highway-a-a653/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-16T16:30:41.142779"
   },
   {
     "source": "Lokmat",
@@ -141,7 +109,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-zp-election-result-2026-congress-continues-to-dominate-laturs-arvi-group-bjp-spokesperson-haakes-brother-in-law-defeated-in-ahmedpur-a-a461-c320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740911"
+    "timestamp": "2026-02-16T16:30:41.142688"
+  },
+  {
+    "source": "Lokmat",
+    "title": "शक्तिपीठ महामार्गासाठी सक्तीची मोजणी; शेतकऱ्यांचा विरोध, टोकाचे पाऊल उचलण्याचा प्रयत्न - Marathi News | Forced counting for Shaktipeeth highway; Farmers oppose, attempt to take extreme steps | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/forced-counting-for-shaktipeeth-highway-farmers-oppose-attempt-to-take-extreme-steps-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-16T16:30:41.142024"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
+    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-16T16:30:41.079104"
   },
   {
     "source": "Dainik Ekmat",
@@ -156,7 +140,31 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-02-16T15:31:47.189311"
+    "timestamp": "2026-02-16T16:30:45.261627"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur ZP Election Results: लातुरात देशमुखांना धक्का! काँग्रेसने सर्वाधिक जागा जिंकल्या, पण सत्ता महायुतीची - Marathi News | Latur ZP Election Results: Deshmukhs suffer shock in Latur! Won the most seats, but power belongs to the Mahayuti | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zp-election-results-deshmukhs-suffer-shock-in-latur-won-the-most-seats-but-power-belongs-to-the-mahayuti-a-a571/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-16T16:30:41.142216"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur ZP Election Result 2026: मराठवाड्यात राज ठाकरेंची जादू; लातूर जिल्हा परिषदेत मनसेने उधळला विजयाचा गुलाल - Marathi News | Latur ZP Election: Raj Thackeray's magic in Marathwada; MNS won three seats in the Latur Zilla Parishad | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zp-election-raj-thackerays-magic-in-marathwada-mns-won-three-seats-in-the-latur-zilla-parishad-a-a732/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-16T16:30:41.142485"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरात महायुतीची सत्ता टिकली, पण भाजपचा गड ढासळला; काँग्रेस ठरला सर्वात मोठा पक्ष! - Marathi News | Latur ZP Election Results 2026: Mahayuti remained in power, but BJP's stronghold collapsed; Congress emerged as the largest party! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zp-election-results-2026-mahayuti-remained-in-power-but-bjps-stronghold-collapsed-congress-emerged-as-the-largest-party-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-16T16:30:41.142306"
   },
   {
     "source": "Lokmat",
@@ -164,15 +172,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-zp-election-result-2026-tryanbak-nana-bhise-gets-a-shock-in-the-battle-of-relations-in-latur-nanand-ashatai-bhise-wins-defeating-her-brother-in-law-by-just-2-votes-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740651"
-  },
-  {
-    "source": "Lokmat",
-    "title": "दुचाकीवरुन गंगापूर गावाकडे निघालेल्या तरुणाचा अपघाती मृत्यू, लातूर-औसा महामार्गावरील घटना - Marathi News | Accidental death of a young man who was going towards Gangapur village on a two-wheeler, incident on the Latur-Ausa highway | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/accidental-death-of-a-young-man-who-was-going-towards-gangapur-village-on-a-two-wheeler-incident-on-the-latur-ausa-highway-a-a653/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-16T15:31:42.740997"
+    "timestamp": "2026-02-16T16:30:41.142397"
   },
   {
     "source": "Dainik Ekmat",
@@ -180,6 +180,6 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/21813/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-16T15:31:46.728216"
+    "timestamp": "2026-02-16T16:30:44.884124"
   }
 ];
