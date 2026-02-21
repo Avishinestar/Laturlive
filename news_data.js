@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-02-21/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-21T16:51:55.846388"
+    "timestamp": "2026-02-21T17:16:21.913485"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1000/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-02/page-1-4557069.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-21T16:51:56.534707"
+    "timestamp": "2026-02-21T17:16:22.508490"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1000/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-02/page-2-7451323.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-21T16:51:56.534713"
+    "timestamp": "2026-02-21T17:16:22.508498"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1000/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-02/page-3-3039160.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-21T16:51:56.534716"
+    "timestamp": "2026-02-21T17:16:22.508501"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1000/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-02/page-4-4085159.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-21T16:51:56.534718"
+    "timestamp": "2026-02-21T17:16:22.508503"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1000/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-02/page-5-1218560.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-21T16:51:56.534720"
+    "timestamp": "2026-02-21T17:16:22.508505"
   },
   {
     "source": "Latur Samachar",
@@ -53,23 +53,39 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1000/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-02/page-6-1079860.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-21T16:51:56.534722"
+    "timestamp": "2026-02-21T17:16:22.508507"
   },
   {
     "source": "Lokmat",
-    "title": "पुण्यातून जामिनावर आला अन् लातूरात हॉस्टेलच्या दारातच विद्यार्थ्याची हत्या केली; चौघांना पोलिस कोठडी",
-    "link": "https://www.lokmat.com/latur/latur-student-murder-case-polytechnic-student-killed-over-minor-dispute-four-accused-sent-to-police-custody-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-crime-polytech-murder-a_2026021647191.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.188827"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur ZP Election Results: लातुरात देशमुखांना धक्का! काँग्रेसने सर्वाधिक जागा जिंकल्या, पण सत्ता महायुतीची - Marathi News | Latur ZP Election Results: Deshmukhs suffer shock in Latur! Won the most seats, but power belongs to the Mahayuti | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zp-election-results-deshmukhs-suffer-shock-in-latur-won-the-most-seats-but-power-belongs-to-the-mahayuti-a-a571/",
+    "title": "दिवसभर रुग्णसेवा, कर्तव्यावरून परतताना काळाचा घाला; ३० वर्षीय आरोग्य सेवकाचे अपघाती निधन - Marathi News | serving patients all day time passes while returning from duty a 30 year old health worker dies accidentally | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/serving-patients-all-day-time-passes-while-returning-from-duty-a-30-year-old-health-worker-dies-accidentally-a-a463-c719/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.189490"
+    "timestamp": "2026-02-21T17:16:20.375468"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-21T17:16:20.065906"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातुरात दिल्लीची 'केबल गँग' जेरबंद; 'BSNL'चे लाखोंचे केबल चोरताना तिघांना रंगेहात पकडले - Marathi News | Latur Police Bust Delhi-Based Cable Theft Gang; Three caught red-handed while stealing BSNL's underground cable worth lakhs | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-police-bust-delhi-based-cable-theft-gang-three-caught-red-handed-while-stealing-bsnls-underground-cable-worth-lakhs-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-21T17:16:20.375740"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21854/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-02-21T17:16:23.915312"
   },
   {
     "source": "Lokmat",
@@ -77,7 +93,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/forced-counting-for-shaktipeeth-highway-farmers-oppose-attempt-to-take-extreme-steps-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.189302"
+    "timestamp": "2026-02-21T17:16:20.375825"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur ZP Election Results: लातुरात देशमुखांना धक्का! काँग्रेसने सर्वाधिक जागा जिंकल्या, पण सत्ता महायुतीची - Marathi News | Latur ZP Election Results: Deshmukhs suffer shock in Latur! Won the most seats, but power belongs to the Mahayuti | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zp-election-results-deshmukhs-suffer-shock-in-latur-won-the-most-seats-but-power-belongs-to-the-mahayuti-a-a571/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-21T17:16:20.376008"
   },
   {
     "source": "Dainik Ekmat",
@@ -92,31 +116,7 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-02-21T16:51:58.778853"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.114821"
-  },
-  {
-    "source": "Lokmat",
-    "title": "दिवसभर रुग्णसेवा, कर्तव्यावरून परतताना काळाचा घाला; ३० वर्षीय आरोग्य सेवकाचे अपघाती निधन - Marathi News | serving patients all day time passes while returning from duty a 30 year old health worker dies accidentally | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/serving-patients-all-day-time-passes-while-returning-from-duty-a-30-year-old-health-worker-dies-accidentally-a-a463-c719/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.188925"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21854/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-02-21T16:51:58.305524"
+    "timestamp": "2026-02-21T17:16:24.273063"
   },
   {
     "source": "Lokmat",
@@ -124,7 +124,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/four-students-of-government-technical-college-attacked-with-knife-one-killed-a-a941/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.189013"
+    "timestamp": "2026-02-21T17:16:20.375557"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पुण्यातून जामिनावर आला अन् लातूरात हॉस्टेलच्या दारातच विद्यार्थ्याची हत्या केली; चौघांना पोलिस कोठडी",
+    "link": "https://www.lokmat.com/latur/latur-student-murder-case-polytechnic-student-killed-over-minor-dispute-four-accused-sent-to-police-custody-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-crime-polytech-murder-a_2026021647191.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-02-21T17:16:20.375362"
   },
   {
     "source": "Lokmat",
@@ -132,23 +140,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-shocker-final-year-polytechnic-student-stabbed-to-death-3-others-injured-outside-hostel-a-a463-c1001/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.189101"
-  },
-  {
-    "source": "Lokmat",
-    "title": "शिवछत्रपती शिक्षण संस्थेचे नूतन कार्यकारी मंडळ; अध्यक्षपदी डॉ. गोपाळराव पाटील, बी.बी. ठोंबरे यांची सचिवपदी निवड - Marathi News | New Executive Board of Shiv Chhatrapati Education Institute; Dr. Gopalrao Patil elected as President, B.B. Thombre elected as Secretary | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/new-executive-board-of-shiv-chhatrapati-education-institute-dr-gopalrao-patil-elected-as-president-bb-thombre-elected-as-secretary-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.189401"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
-    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.115060"
+    "timestamp": "2026-02-21T17:16:20.375646"
   },
   {
     "source": "Lokmat",
@@ -156,23 +148,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-zp-election-results-2026-mahayuti-remained-in-power-but-bjps-stronghold-collapsed-congress-emerged-as-the-largest-party-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.189576"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.114945"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातुरात दिल्लीची 'केबल गँग' जेरबंद; 'BSNL'चे लाखोंचे केबल चोरताना तिघांना रंगेहात पकडले - Marathi News | Latur Police Bust Delhi-Based Cable Theft Gang; Three caught red-handed while stealing BSNL's underground cable worth lakhs | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-police-bust-delhi-based-cable-theft-gang-three-caught-red-handed-while-stealing-bsnls-underground-cable-worth-lakhs-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.189191"
+    "timestamp": "2026-02-21T17:16:20.376096"
   },
   {
     "source": "Lokmat",
@@ -180,6 +156,30 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-zp-election-result-2026-tryanbak-nana-bhise-gets-a-shock-in-the-battle-of-relations-in-latur-nanand-ashatai-bhise-wins-defeating-her-brother-in-law-by-just-2-votes-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-21T16:51:54.189665"
+    "timestamp": "2026-02-21T17:16:20.376187"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-21T17:16:20.065786"
+  },
+  {
+    "source": "Lokmat",
+    "title": "शिवछत्रपती शिक्षण संस्थेचे नूतन कार्यकारी मंडळ; अध्यक्षपदी डॉ. गोपाळराव पाटील, बी.बी. ठोंबरे यांची सचिवपदी निवड - Marathi News | New Executive Board of Shiv Chhatrapati Education Institute; Dr. Gopalrao Patil elected as President, B.B. Thombre elected as Secretary | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/new-executive-board-of-shiv-chhatrapati-education-institute-dr-gopalrao-patil-elected-as-president-bb-thombre-elected-as-secretary-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-21T17:16:20.375918"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
+    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-21T17:16:20.066021"
   }
 ];
