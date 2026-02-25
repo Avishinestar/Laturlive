@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-02-25/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-25T21:35:08.268458"
+    "timestamp": "2026-02-25T22:21:13.552466"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1007/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-02/page-1-4397122.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-25T21:35:08.898144"
+    "timestamp": "2026-02-25T22:21:14.282540"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1007/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-02/page-2-9741456.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-25T21:35:08.898154"
+    "timestamp": "2026-02-25T22:21:14.282546"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1007/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-02/page-3-2157892.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-25T21:35:08.898170"
+    "timestamp": "2026-02-25T22:21:14.282548"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1007/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-02/page-4-9908786.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-25T21:35:08.898173"
+    "timestamp": "2026-02-25T22:21:14.282551"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1007/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-02/page-5-7769863.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-25T21:35:08.898175"
+    "timestamp": "2026-02-25T22:21:14.282553"
   },
   {
     "source": "Latur Samachar",
@@ -53,7 +53,23 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1007/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-02/page-6-2270873.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-25T21:35:08.898177"
+    "timestamp": "2026-02-25T22:21:14.282555"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-25T22:21:11.690421"
+  },
+  {
+    "source": "Lokmat",
+    "title": "रेणापुरात ढाब्यावर मध्यरात्री 'गँगवॉर'सारखा प्रकार! ३ वेळा हवेत गोळीबार अन् आरोपी पसार; लातूरात दहशत - Marathi News | Latur Crime: Gunshots Fired During Clash Between Two Groups Near Renapur; Luxury Car Damaged | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-crime-gunshots-fired-during-clash-between-two-groups-near-renapur-luxury-car-damaged-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-25T22:21:11.774740"
   },
   {
     "source": "Dainik Ekmat",
@@ -68,31 +84,7 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-02-25T21:35:11.047927"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.537737"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21896/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-02-25T21:35:10.579421"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
-    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.537849"
+    "timestamp": "2026-02-25T22:21:16.547788"
   },
   {
     "source": "Lokmat",
@@ -100,7 +92,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/farmer-dies-after-being-struck-by-lightning-in-udgir-hailstorm-in-renapur-heavy-damage-to-rabi-crops-a-a463-c747/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.895261"
+    "timestamp": "2026-02-25T22:21:11.774648"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
+    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-25T22:21:11.690532"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21896/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-02-25T22:21:16.012496"
   },
   {
     "source": "ABP Majha",
@@ -108,39 +116,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
     "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/23/a7b8681ad7774125fcee5c2aa53cd7a817718281828251063_original.jpg?impolicy=abp_cdn&imwidth=470",
     "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.537491"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.537619"
-  },
-  {
-    "source": "Lokmat",
-    "title": "शासकीय तंत्रनिकेतनच्या चार विद्यार्थ्यांवर चाकू हल्ला; एक ठार,तिघे जखमी : वसतिगृहातील गटबाजी - Marathi News | Four students of Government Technical College attacked with knife; one killed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/four-students-of-government-technical-college-attacked-with-knife-one-killed-a-a941/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.895625"
-  },
-  {
-    "source": "Lokmat",
-    "title": "रेणापुरात ढाब्यावर मध्यरात्री 'गँगवॉर'सारखा प्रकार! ३ वेळा हवेत गोळीबार अन् आरोपी पसार; लातूरात दहशत - Marathi News | Latur Crime: Gunshots Fired During Clash Between Two Groups Near Renapur; Luxury Car Damaged | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-crime-gunshots-fired-during-clash-between-two-groups-near-renapur-luxury-car-damaged-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.895354"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातुरात दुकान फाेडले; अडीच लाख पळविले ! धाडसी चाेरी : शटरचे लाॅक ताेडून चाेरटे दुकानात शिरले - Marathi News | Shop broken into in Latur; Rs 2.5 lakh stolen! Daring thief: Thieves entered the shop by breaking the shutter lock | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/shop-broken-into-in-latur-rs-25-lakh-stolen-daring-thief-thieves-entered-the-shop-by-breaking-the-shutter-lock-a-a941/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.895112"
+    "timestamp": "2026-02-25T22:21:11.690181"
   },
   {
     "source": "Lokmat",
@@ -148,7 +124,31 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-student-murder-case-polytechnic-student-killed-over-minor-dispute-four-accused-sent-to-police-custody-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.895444"
+    "timestamp": "2026-02-25T22:21:11.774830"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-25T22:21:11.690305"
+  },
+  {
+    "source": "Lokmat",
+    "title": "शासकीय तंत्रनिकेतनच्या चार विद्यार्थ्यांवर चाकू हल्ला; एक ठार,तिघे जखमी : वसतिगृहातील गटबाजी - Marathi News | Four students of Government Technical College attacked with knife; one killed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/four-students-of-government-technical-college-attacked-with-knife-one-killed-a-a941/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-25T22:21:11.775047"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातुरात दुकान फाेडले; अडीच लाख पळविले ! धाडसी चाेरी : शटरचे लाॅक ताेडून चाेरटे दुकानात शिरले - Marathi News | Shop broken into in Latur; Rs 2.5 lakh stolen! Daring thief: Thieves entered the shop by breaking the shutter lock | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/shop-broken-into-in-latur-rs-25-lakh-stolen-daring-thief-thieves-entered-the-shop-by-breaking-the-shutter-lock-a-a941/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-25T22:21:11.774543"
   },
   {
     "source": "Lokmat",
@@ -156,7 +156,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/serving-patients-all-day-time-passes-while-returning-from-duty-a-30-year-old-health-worker-dies-accidentally-a-a463-c719/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.895537"
+    "timestamp": "2026-02-25T22:21:11.774958"
   },
   {
     "source": "Lokmat",
@@ -164,6 +164,6 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-school-shock-32-hostel-students-brutally-beaten-by-teacher-accused-arrested-in-ahmedpur-a-a320/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/stick-latur-hostel-abd-ata_2026021651216.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-02-25T21:35:06.895007"
+    "timestamp": "2026-02-25T22:21:11.774444"
   }
 ];
