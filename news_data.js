@@ -1,67 +1,67 @@
 window.newsData = [
   {
     "source": "Punyanagari E-Paper",
-    "title": "Punyanagari E-Paper (2026-02-27)",
-    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-02-27/page/1",
+    "title": "Punyanagari E-Paper (2026-02-28)",
+    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-02-28/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-27T23:43:49.110875"
+    "timestamp": "2026-02-28T00:59:22.208578"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 1 (27-02-2026)",
+    "title": "Latur Samachar - Page 1 (28-02-2026)",
     "link": "https://www.latursamachar.com/view/1011/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-02/page-1-2302411.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-27T23:43:49.717537"
+    "timestamp": "2026-02-28T00:59:22.964089"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 2 (27-02-2026)",
+    "title": "Latur Samachar - Page 2 (28-02-2026)",
     "link": "https://www.latursamachar.com/view/1011/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-02/page-2-5885503.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-27T23:43:49.717545"
+    "timestamp": "2026-02-28T00:59:22.964097"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 3 (27-02-2026)",
+    "title": "Latur Samachar - Page 3 (28-02-2026)",
     "link": "https://www.latursamachar.com/view/1011/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-02/page-3-6689809.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-27T23:43:49.717548"
+    "timestamp": "2026-02-28T00:59:22.964100"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 4 (27-02-2026)",
+    "title": "Latur Samachar - Page 4 (28-02-2026)",
     "link": "https://www.latursamachar.com/view/1011/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-02/page-4-1525516.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-27T23:43:49.717550"
+    "timestamp": "2026-02-28T00:59:22.964102"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 5 (27-02-2026)",
+    "title": "Latur Samachar - Page 5 (28-02-2026)",
     "link": "https://www.latursamachar.com/view/1011/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-02/page-5-8471590.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-27T23:43:49.717552"
+    "timestamp": "2026-02-28T00:59:22.964104"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 6 (27-02-2026)",
+    "title": "Latur Samachar - Page 6 (28-02-2026)",
     "link": "https://www.latursamachar.com/view/1011/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-02/page-6-3580865.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-27T23:43:49.717553"
+    "timestamp": "2026-02-28T00:59:22.964105"
   },
   {
-    "source": "ABP Majha",
-    "title": "लातूरवडिलांची चिता धगधगत होती, 17 वर्षांच्या मुलीनं काळीज घट्ट करत दिला बारावीचा गणिताचा पेपर, लातूरमधील हृदय पिळवटून टाकणारी घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
+    "source": "Lokmat",
+    "title": "शिक्षणाचे स्वप्न राहिले अधुरे! लातूरमध्ये ऊसाची वाहतूक करणाऱ्या ट्रॅक्टरने विद्यार्थिनीला चिरडले - Marathi News | Education dreams remain unfulfilled! A student was crushed by a tractor transporting sugarcane in Latur | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/education-dreams-remain-unfulfilled-a-student-was-crushed-by-a-tractor-transporting-sugarcane-in-latur-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:46.810021"
+    "timestamp": "2026-02-28T00:59:20.277897"
   },
   {
     "source": "ABP Majha",
@@ -69,7 +69,31 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:46.810146"
+    "timestamp": "2026-02-28T00:59:19.876671"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
+    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-28T00:59:19.876905"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर हादरलं! संशयावरून ३२ विद्यार्थ्यांना काठीने झोडपलं; 'त्या' शिक्षकाविरुद्ध प्राचार्यांचीच तक्रार - Marathi News | Latur School Shock: 32 Hostel Students Brutally Beaten by Teacher; Accused Arrested in Ahmedpur | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-school-shock-32-hostel-students-brutally-beaten-by-teacher-accused-arrested-in-ahmedpur-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-28T00:59:20.277987"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातुरात दुकान फाेडले; अडीच लाख पळविले ! धाडसी चाेरी : शटरचे लाॅक ताेडून चाेरटे दुकानात शिरले - Marathi News | Shop broken into in Latur; Rs 2.5 lakh stolen! Daring thief: Thieves entered the shop by breaking the shutter lock | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/shop-broken-into-in-latur-rs-25-lakh-stolen-daring-thief-thieves-entered-the-shop-by-breaking-the-shutter-lock-a-a941/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-02-28T00:59:20.278142"
   },
   {
     "source": "ABP Majha",
@@ -77,15 +101,15 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:46.810281"
+    "timestamp": "2026-02-28T00:59:19.876792"
   },
   {
-    "source": "Lokmat",
-    "title": "रेणापुरात ढाब्यावर मध्यरात्री 'गँगवॉर'सारखा प्रकार! ३ वेळा हवेत गोळीबार अन् आरोपी पसार; लातूरात दहशत - Marathi News | Latur Crime: Gunshots Fired During Clash Between Two Groups Near Renapur; Luxury Car Damaged | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-crime-gunshots-fired-during-clash-between-two-groups-near-renapur-luxury-car-damaged-a-a320/",
+    "source": "ABP Majha",
+    "title": "लातूरवडिलांची चिता धगधगत होती, 17 वर्षांच्या मुलीनं काळीज घट्ट करत दिला बारावीचा गणिताचा पेपर, लातूरमधील हृदय पिळवटून टाकणारी घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:47.178637"
+    "timestamp": "2026-02-28T00:59:19.876528"
   },
   {
     "source": "Dainik Ekmat",
@@ -100,7 +124,7 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-02-27T23:43:51.682180"
+    "timestamp": "2026-02-28T00:59:25.110919"
   },
   {
     "source": "Lokmat",
@@ -108,15 +132,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/ramdas-athawale-demands-cbi-probe-into-ajit-pawars-plane-crash-in-latur-press-conference-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:47.178113"
-  },
-  {
-    "source": "Lokmat",
-    "title": "उदगीरमध्ये वीज पडून शेतकऱ्याचा मृत्यू; रेणापुरात गारांचा पाऊस, रब्बी पिकांचे माेठे नुकसान - Marathi News | Farmer dies after being struck by lightning in Udgir; Hailstorm in Renapur, heavy damage to Rabi crops | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/farmer-dies-after-being-struck-by-lightning-in-udgir-hailstorm-in-renapur-heavy-damage-to-rabi-crops-a-a463-c747/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:47.178549"
+    "timestamp": "2026-02-28T00:59:20.277747"
   },
   {
     "source": "Dainik Ekmat",
@@ -124,38 +140,22 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/21912/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-02-27T23:43:51.220187"
+    "timestamp": "2026-02-28T00:59:24.586879"
   },
   {
     "source": "Lokmat",
-    "title": "लातूर हादरलं! संशयावरून ३२ विद्यार्थ्यांना काठीने झोडपलं; 'त्या' शिक्षकाविरुद्ध प्राचार्यांचीच तक्रार - Marathi News | Latur School Shock: 32 Hostel Students Brutally Beaten by Teacher; Accused Arrested in Ahmedpur | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-school-shock-32-hostel-students-brutally-beaten-by-teacher-accused-arrested-in-ahmedpur-a-a320/",
+    "title": "उदगीरमध्ये वीज पडून शेतकऱ्याचा मृत्यू; रेणापुरात गारांचा पाऊस, रब्बी पिकांचे माेठे नुकसान - Marathi News | Farmer dies after being struck by lightning in Udgir; Hailstorm in Renapur, heavy damage to Rabi crops | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/farmer-dies-after-being-struck-by-lightning-in-udgir-hailstorm-in-renapur-heavy-damage-to-rabi-crops-a-a463-c747/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:47.178369"
+    "timestamp": "2026-02-28T00:59:20.278233"
   },
   {
     "source": "Lokmat",
-    "title": "लातुरात दुकान फाेडले; अडीच लाख पळविले ! धाडसी चाेरी : शटरचे लाॅक ताेडून चाेरटे दुकानात शिरले - Marathi News | Shop broken into in Latur; Rs 2.5 lakh stolen! Daring thief: Thieves entered the shop by breaking the shutter lock | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/shop-broken-into-in-latur-rs-25-lakh-stolen-daring-thief-thieves-entered-the-shop-by-breaking-the-shutter-lock-a-a941/",
+    "title": "रेणापुरात ढाब्यावर मध्यरात्री 'गँगवॉर'सारखा प्रकार! ३ वेळा हवेत गोळीबार अन् आरोपी पसार; लातूरात दहशत - Marathi News | Latur Crime: Gunshots Fired During Clash Between Two Groups Near Renapur; Luxury Car Damaged | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-crime-gunshots-fired-during-clash-between-two-groups-near-renapur-luxury-car-damaged-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:47.178460"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
-    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:46.810397"
-  },
-  {
-    "source": "Lokmat",
-    "title": "शिक्षणाचे स्वप्न राहिले अधुरे! लातूरमध्ये ऊसाची वाहतूक करणाऱ्या ट्रॅक्टरने विद्यार्थिनीला चिरडले - Marathi News | Education dreams remain unfulfilled! A student was crushed by a tractor transporting sugarcane in Latur | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/education-dreams-remain-unfulfilled-a-student-was-crushed-by-a-tractor-transporting-sugarcane-in-latur-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-02-27T23:43:47.178278"
+    "timestamp": "2026-02-28T00:59:20.278320"
   }
 ];
