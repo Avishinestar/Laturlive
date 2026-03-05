@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-03-05/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-05T07:13:04.753138"
+    "timestamp": "2026-03-05T07:58:11.442028"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1019/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-03/page-1-2905866.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-05T07:13:05.385295"
+    "timestamp": "2026-03-05T07:58:12.223861"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1019/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-03/page-2-7626751.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-05T07:13:05.385304"
+    "timestamp": "2026-03-05T07:58:12.223870"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1019/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-03/page-3-3824486.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-05T07:13:05.385307"
+    "timestamp": "2026-03-05T07:58:12.223873"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1019/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-03/page-4-4476539.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-05T07:13:05.385309"
+    "timestamp": "2026-03-05T07:58:12.223875"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1019/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-03/page-5-9875731.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-05T07:13:05.385311"
+    "timestamp": "2026-03-05T07:58:12.223876"
   },
   {
     "source": "Latur Samachar",
@@ -53,7 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1019/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-03/page-6-9965818.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-05T07:13:05.385312"
+    "timestamp": "2026-03-05T07:58:12.223878"
   },
   {
     "source": "Divya Marathi",
@@ -61,23 +61,7 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/pune/news/latur-state-level-wrestling-championship-2026-dadarao-karad-smriti-137354386.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/03/04/e1357bc0-2a4c-4eeb-9afd-d52cfa928d51_1772638207528.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:07.517651"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:02.805496"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/21946/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-03-05T07:13:06.838555"
+    "timestamp": "2026-03-05T07:58:14.110807"
   },
   {
     "source": "Lokmat",
@@ -85,15 +69,31 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-board-exam-no-cctv-no-problem-latur-education-board-monitors-ssc-exams-via-zoom-links-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:03.204837"
+    "timestamp": "2026-03-05T07:58:09.545431"
+  },
+  {
+    "source": "Lokmat",
+    "title": "५-१० टक्के व्याजाचा फास अन् गुंडांकडून धमक्या! उदगीरमध्ये तीन सावकारांच्या घरावर छापे - Marathi News | Crackdown on Illegal Moneylending in Udgir: Raid at 3 Locations; Blank Cheques and Bond Papers Seized | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/crackdown-on-illegal-moneylending-in-udgir-raid-at-3-locations-blank-cheques-and-bond-papers-seized-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-05T07:58:09.545353"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर वडिलांची चिता धगधगत होती, 17 वर्षांच्या मुलीनं काळीज घट्ट करत दिला बारावीचा गणिताचा पेपर, लातूरमधील हृदय पिळवटून टाकणारी घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
+    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:02.805274"
+    "timestamp": "2026-03-05T07:58:09.386166"
+  },
+  {
+    "source": "Lokmat",
+    "title": "\"मी आणि प्रकाश आंबेडकर एकत्र होतो तेव्हा...\";आठवलेंनी जागवल्या आठवणी, ऐक्याची पुन्हा हाक - Marathi News | Ramdas Athawale Urges Prakash Ambedkar to Lead Republican Unity in Ahmedpur Rally | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/ramdas-athawale-urges-prakash-ambedkar-to-lead-republican-unity-in-ahmedpur-rally-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-05T07:58:09.545274"
   },
   {
     "source": "Dainik Ekmat",
@@ -108,39 +108,7 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-03-05T07:13:07.266220"
-  },
-  {
-    "source": "Lokmat",
-    "title": "\"मी आणि प्रकाश आंबेडकर एकत्र होतो तेव्हा...\";आठवलेंनी जागवल्या आठवणी, ऐक्याची पुन्हा हाक - Marathi News | Ramdas Athawale Urges Prakash Ambedkar to Lead Republican Unity in Ahmedpur Rally | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/ramdas-athawale-urges-prakash-ambedkar-to-lead-republican-unity-in-ahmedpur-rally-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:03.204659"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरलातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
-    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:02.805074"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरमाजी खासदार डॉ. जे. एम. वाघमारे यांचे निधन; शिक्षण-समाजकारणातील ज्येष्ठ विचारवंत काळाच्या पडद्याआड",
-    "link": "https://marathi.abplive.com/news/latur/former-mp-dr-j-m-waghmare-passes-away-latur-maharashtra-marathi-news-1414698",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:02.805154"
-  },
-  {
-    "source": "Lokmat",
-    "title": "काळजाचा ठोका चुकला अन् रूमच्या जवळून गेले मिसाईल; लातूरच्या नेहाच्या सुरक्षेसाठी पालकांचा जीव टांगणीला - Marathi News | Latur Girl Terrifying Account from War Torn New Dubai | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-girl-terrifying-account-from-war-torn-new-dubai-a-a463-c1001/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:03.204475"
+    "timestamp": "2026-03-05T07:58:13.788019"
   },
   {
     "source": "Lokmat",
@@ -148,23 +116,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-licenses-of-4-hotels-permanently-cancelled-for-selling-goa-made-illegal-liquor-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:03.204382"
+    "timestamp": "2026-03-05T07:58:09.544985"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
+    "title": "लातूरलातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
+    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:02.805387"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
-    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:02.805608"
+    "timestamp": "2026-03-05T07:58:09.385798"
   },
   {
     "source": "Lokmat",
@@ -172,15 +132,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/finance-scam-worth-rs-27-lakh-case-registered-against-five-employees-in-latur-a-a653/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:03.204228"
+    "timestamp": "2026-03-05T07:58:09.544852"
   },
   {
     "source": "Lokmat",
-    "title": "५-१० टक्के व्याजाचा फास अन् गुंडांकडून धमक्या! उदगीरमध्ये तीन सावकारांच्या घरावर छापे - Marathi News | Crackdown on Illegal Moneylending in Udgir: Raid at 3 Locations; Blank Cheques and Bond Papers Seized | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/crackdown-on-illegal-moneylending-in-udgir-raid-at-3-locations-blank-cheques-and-bond-papers-seized-a-a320/",
+    "title": "काळजाचा ठोका चुकला अन् रूमच्या जवळून गेले मिसाईल; लातूरच्या नेहाच्या सुरक्षेसाठी पालकांचा जीव टांगणीला - Marathi News | Latur Girl Terrifying Account from War Torn New Dubai | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-girl-terrifying-account-from-war-torn-new-dubai-a-a463-c1001/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:03.204748"
+    "timestamp": "2026-03-05T07:58:09.545065"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर वडिलांची चिता धगधगत होती, 17 वर्षांच्या मुलीनं काळीज घट्ट करत दिला बारावीचा गणिताचा पेपर, लातूरमधील हृदय पिळवटून टाकणारी घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-05T07:58:09.385971"
   },
   {
     "source": "ABP Majha",
@@ -188,7 +156,39 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:02.804989"
+    "timestamp": "2026-03-05T07:58:09.385718"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरमाजी खासदार डॉ. जे. एम. वाघमारे यांचे निधन; शिक्षण-समाजकारणातील ज्येष्ठ विचारवंत काळाच्या पडद्याआड",
+    "link": "https://marathi.abplive.com/news/latur/former-mp-dr-j-m-waghmare-passes-away-latur-maharashtra-marathi-news-1414698",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-05T07:58:09.385866"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/21946/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-03-05T07:58:13.260280"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-05T07:58:09.386069"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ..तर खुटा उपटून मारेन, खराब रस्त्यावरुन मंत्री गुलाबराव पाटील आमदारवर संतापले; भाजपवरही जोरदार हल्लाबोल",
+    "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-05T07:58:09.386269"
   },
   {
     "source": "Lokmat",
@@ -196,6 +196,6 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/meritorious-students-including-principal-fail-in-law-exam-objections-raised-on-universitys-answer-sheet-verification-a-a463-c747/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-05T07:13:03.204567"
+    "timestamp": "2026-03-05T07:58:09.545194"
   }
 ];
