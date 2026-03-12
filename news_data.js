@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-03-12/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-12T15:45:46.805459"
+    "timestamp": "2026-03-12T16:47:51.082639"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1033/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-03/page-1-2131221.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-12T15:45:47.489743"
+    "timestamp": "2026-03-12T16:47:51.695807"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1033/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-03/page-2-9671641.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-12T15:45:47.489752"
+    "timestamp": "2026-03-12T16:47:51.695815"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1033/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-03/page-3-7841206.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-12T15:45:47.489755"
+    "timestamp": "2026-03-12T16:47:51.695818"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1033/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-03/page-4-5186726.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-12T15:45:47.489758"
+    "timestamp": "2026-03-12T16:47:51.695820"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1033/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-03/page-5-2733034.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-12T15:45:47.489760"
+    "timestamp": "2026-03-12T16:47:51.695823"
   },
   {
     "source": "Latur Samachar",
@@ -53,15 +53,15 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1033/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-03/page-6-3305400.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-12T15:45:47.489762"
+    "timestamp": "2026-03-12T16:47:51.695825"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
-    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
+    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.121246"
+    "timestamp": "2026-03-12T16:47:49.116016"
   },
   {
     "source": "Lokmat",
@@ -69,15 +69,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/terrible-accident-on-jalkot-patoda-road-two-serious-patodya-turn-considered-a-death-trap-a-a463-c1013/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.433833"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
-    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.121117"
+    "timestamp": "2026-03-12T16:47:49.430984"
   },
   {
     "source": "ABP Majha",
@@ -85,15 +77,47 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/gulabrao-patilangry-over-bad-roads-latur-zp-election-strongly-attacks-bjp-and-congress-on-election-campaign-1411418",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.121803"
+    "timestamp": "2026-03-12T16:47:49.116125"
+  },
+  {
+    "source": "Lokmat",
+    "title": "मी कधीच जातिवाद केला नाही, मराठा आरक्षणासोबतच सर्वांच्या प्रश्नांसाठी लढणार: मनोज जरांगे",
+    "link": "https://www.lokmat.com/latur/manoj-jarange-patil-in-latur-will-fight-for-the-issues-of-all-communities-give-me-one-year-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/manoj-jarange-latur-abd-at_2026031662937.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-03-12T16:47:49.430516"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
+    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
+    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.121581"
+    "timestamp": "2026-03-12T16:47:49.115577"
+  },
+  {
+    "source": "Lokmat",
+    "title": "नांदेडच्या पाेलीस पथकाचा उदगीरात मटक्यावर छापा, १२ जुगाऱ्यांविराेधात गुन्हा, एकाच वेळी दाेन ठिकाणी कारवाई... - Marathi News | Nanded police team raids Matka in Udgir, charges against 12 gamblers, action taken at two places at the same time... | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/nanded-police-team-raids-matka-in-udgir-charges-against-12-gamblers-action-taken-at-two-places-at-the-same-time-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-12T16:47:49.430806"
+  },
+  {
+    "source": "Lokmat",
+    "title": "खडी केंद्रावरून घराकडे निघालेल्या तरुणाला भरधाव वाहनाने चिरडले! बाेरफळ शिवारातील घटना - Marathi News | A young man walking home from Khadi Kendra was crushed by a speeding vehicle! Incident in Borphal Shivara | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/a-young-man-walking-home-from-khadi-kendra-was-crushed-by-a-speeding-vehicle-incident-in-borphal-shivara-a-a463-c1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-12T16:47:49.431072"
+  },
+  {
+    "source": "Lokmat",
+    "title": "'नीट' परीक्षार्थींना मोठा दिलासा; नॅशनल टेस्टिंग एजन्सीकडून अर्जाची मुदत वाढवली, सर्व्हरही सुसाट - Marathi News | Big relief for 'NEET' candidates; National Testing Agency extends application deadline, servers are also up and running | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/big-relief-for-neet-candidates-national-testing-agency-extends-application-deadline-servers-are-also-up-and-running-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-12T16:47:49.430620"
   },
   {
     "source": "ABP Majha",
@@ -101,15 +125,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/former-mp-dr-j-m-waghmare-passes-away-latur-maharashtra-marathi-news-1414698",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.121358"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर महानगरपालिका: स्वीकृत सदस्यत्वावरून भाजपमध्ये राडा; उमेदवारी कापल्याने आत्मदहनाचा प्रयत्न - Marathi News | Latur Municipal Corporation: Latur BJP Crisis: Aspiring Nominee Sanjay Gir Attempts Self-Immolation After Last-Minute Cancellation of Candidacy | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-latur-bjp-crisis-aspiring-nominee-sanjay-gir-attempts-self-immolation-after-last-minute-cancellation-of-candidacy-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.433747"
+    "timestamp": "2026-03-12T16:47:49.115687"
   },
   {
     "source": "ABP Majha",
@@ -117,7 +133,15 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.120989"
+    "timestamp": "2026-03-12T16:47:49.115339"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर वडिलांची चिता धगधगत होती, 17 वर्षांच्या मुलीनं काळीज घट्ट करत दिला बारावीचा गणिताचा पेपर, लातूरमधील हृदय पिळवटून टाकणारी घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-12T16:47:49.115797"
   },
   {
     "source": "Dainik Ekmat",
@@ -132,15 +156,23 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-03-12T15:45:54.799096"
+    "timestamp": "2026-03-12T16:47:53.767607"
   },
   {
-    "source": "Lokmat",
-    "title": "'नीट' परीक्षार्थींना मोठा दिलासा; नॅशनल टेस्टिंग एजन्सीकडून अर्जाची मुदत वाढवली, सर्व्हरही सुसाट - Marathi News | Big relief for 'NEET' candidates; National Testing Agency extends application deadline, servers are also up and running | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/big-relief-for-neet-candidates-national-testing-agency-extends-application-deadline-servers-are-also-up-and-running-a-a320/",
+    "source": "ABP Majha",
+    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
+    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.433479"
+    "timestamp": "2026-03-12T16:47:49.115462"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-12T16:47:49.115909"
   },
   {
     "source": "Dainik Ekmat",
@@ -148,15 +180,15 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/22004/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-12T15:45:53.486732"
+    "timestamp": "2026-03-12T16:47:53.291942"
   },
   {
     "source": "Lokmat",
-    "title": "खडी केंद्रावरून घराकडे निघालेल्या तरुणाला भरधाव वाहनाने चिरडले! बाेरफळ शिवारातील घटना - Marathi News | A young man walking home from Khadi Kendra was crushed by a speeding vehicle! Incident in Borphal Shivara | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/a-young-man-walking-home-from-khadi-kendra-was-crushed-by-a-speeding-vehicle-incident-in-borphal-shivara-a-a463-c1013/",
+    "title": "लातूर महानगरपालिका: स्वीकृत सदस्यत्वावरून भाजपमध्ये राडा; उमेदवारी कापल्याने आत्मदहनाचा प्रयत्न - Marathi News | Latur Municipal Corporation: Latur BJP Crisis: Aspiring Nominee Sanjay Gir Attempts Self-Immolation After Last-Minute Cancellation of Candidacy | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-municipal-corporation-latur-bjp-crisis-aspiring-nominee-sanjay-gir-attempts-self-immolation-after-last-minute-cancellation-of-candidacy-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.433918"
+    "timestamp": "2026-03-12T16:47:49.430895"
   },
   {
     "source": "Lokmat",
@@ -164,38 +196,6 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/battle-over-the-appointment-of-an-engineer-in-latur-municipal-corporation-mayor-puts-a-break-on-works-worth-rs-26-crore-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.433570"
-  },
-  {
-    "source": "Lokmat",
-    "title": "मी कधीच जातिवाद केला नाही, मराठा आरक्षणासोबतच सर्वांच्या प्रश्नांसाठी लढणार: मनोज जरांगे",
-    "link": "https://www.lokmat.com/latur/manoj-jarange-patil-in-latur-will-fight-for-the-issues-of-all-communities-give-me-one-year-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/manoj-jarange-latur-abd-at_2026031662937.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.433376"
-  },
-  {
-    "source": "Lokmat",
-    "title": "नांदेडच्या पाेलीस पथकाचा उदगीरात मटक्यावर छापा, १२ जुगाऱ्यांविराेधात गुन्हा, एकाच वेळी दाेन ठिकाणी कारवाई... - Marathi News | Nanded police team raids Matka in Udgir, charges against 12 gamblers, action taken at two places at the same time... | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/nanded-police-team-raids-matka-in-udgir-charges-against-12-gamblers-action-taken-at-two-places-at-the-same-time-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.433661"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर वडिलांची चिता धगधगत होती, 17 वर्षांच्या मुलीनं काळीज घट्ट करत दिला बारावीचा गणिताचा पेपर, लातूरमधील हृदय पिळवटून टाकणारी घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.121467"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-12T15:45:45.121692"
+    "timestamp": "2026-03-12T16:47:49.430712"
   }
 ];
