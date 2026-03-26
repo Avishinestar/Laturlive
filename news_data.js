@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-03-26/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-26T11:41:01.865795"
+    "timestamp": "2026-03-26T12:46:56.863079"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1057/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-03/page-1-2684517.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-26T11:41:02.515550"
+    "timestamp": "2026-03-26T12:46:57.699914"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1057/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-03/page-2-1691109.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-26T11:41:02.515558"
+    "timestamp": "2026-03-26T12:46:57.699923"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1057/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-03/page-5-5482424.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-26T11:41:02.515561"
+    "timestamp": "2026-03-26T12:46:57.699926"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1057/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-03/page-6-7503650.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-03-26T11:41:02.515563"
+    "timestamp": "2026-03-26T12:46:57.699928"
   },
   {
     "source": "Divya Marathi",
@@ -45,31 +45,23 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/mumbai/news/marathwada-weather-alert-parbhani-beed-nanded-latur-dharashiv-rain-winds-137537082.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/03/26/730-x-548-2026-01-01t102948580_1774507960.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:04.923281"
-  },
-  {
-    "source": "Lokmat",
-    "title": "खेड्यातील मुले शिकणार AI; इंग्रजीत साधणार संवाद! लातूर झेडपीच्या अर्थसंकल्पात खास तरतूद - Marathi News | Latur Zilla Parishad Budget 2026-27: ₹37.78 Crore Allocated; Rural Students to Learn AI & English Communication | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zilla-parishad-budget-2026-27-rs3778-crore-allocated-rural-students-to-learn-ai-english-communication-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.330420"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22118/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-03-26T11:41:04.189257"
+    "timestamp": "2026-03-26T12:47:00.156922"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
-    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
+    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.247165"
+    "timestamp": "2026-03-26T12:46:55.566878"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
+    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.566265"
   },
   {
     "source": "ABP Majha",
@@ -77,23 +69,31 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.247406"
+    "timestamp": "2026-03-26T12:46:55.566610"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूरलातूरमध्ये व्यावसायिक गॅसअभावी हॉटेल, मेस आणि नाश्ता सेंटरला फटका, हजारो हॉटेल कामगारांचा रोजगार संकटात",
-    "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
+    "title": "लातूर माजी खासदार डॉ. जे. एम. वाघमारे यांचे निधन; शिक्षण-समाजकारणातील ज्येष्ठ विचारवंत काळाच्या पडद्याआड",
+    "link": "https://marathi.abplive.com/news/latur/former-mp-dr-j-m-waghmare-passes-away-latur-maharashtra-marathi-news-1414698",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.246831"
+    "timestamp": "2026-03-26T12:46:55.566491"
+  },
+  {
+    "source": "Lokmat",
+    "title": "खेड्यातील मुले शिकणार AI; इंग्रजीत साधणार संवाद! लातूर झेडपीच्या अर्थसंकल्पात खास तरतूद - Marathi News | Latur Zilla Parishad Budget 2026-27: ₹37.78 Crore Allocated; Rural Students to Learn AI & English Communication | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zilla-parishad-budget-2026-27-rs3778-crore-allocated-rural-students-to-learn-ai-english-communication-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.833029"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर बीएमडल्ब्लू कार लाकडाच्या कंटनेरला धडकली; भीषण अपघातात 4 जणांचा मृत्यू, 2 जखमी",
-    "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
+    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.246945"
+    "timestamp": "2026-03-26T12:46:55.566725"
   },
   {
     "source": "ABP Majha",
@@ -101,7 +101,31 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
     "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/16/c45f42ca381d0184fc3be281668f6cce177366368518793_original.png?impolicy=abp_cdn&imwidth=470",
     "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.246742"
+    "timestamp": "2026-03-26T12:46:55.565958"
+  },
+  {
+    "source": "Lokmat",
+    "title": "'ती' कर्णबधीर बालके ऐकणार आता सप्तस्वर! लातूर झेडपीचा पुढाकार, महागड्या शस्त्रक्रियेस यश - Marathi News | Latur ZP Success Story: Two Deaf Children Undergo Free Cochlear Implant Surgery via Divyang Welfare Fund | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zp-success-story-two-deaf-children-undergo-free-cochlear-implant-surgery-via-divyang-welfare-fund-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.832670"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर बीएमडल्ब्लू कार लाकडाच्या कंटनेरला धडकली; भीषण अपघातात 4 जणांचा मृत्यू, 2 जखमी",
+    "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.566157"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर-औसा मार्गावर भरधाव कार २० फूट खोल खड्डयात कोसळली, चौघे गंभीर; ​कार चक्काचूर - Marathi News | Speeding car falls into 20 feet deep ditch on Latur-Ausa road, four seriously injured; car smashed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/speeding-car-falls-into-20-feet-deep-ditch-on-latur-ausa-road-four-seriously-injured-car-smashed-a-a653/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.832853"
   },
   {
     "source": "Lokmat",
@@ -109,7 +133,55 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-success-story-351-children-get-new-lease-of-life-via-free-heart-surgeries-at-vivekanand-hospital-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.329940"
+    "timestamp": "2026-03-26T12:46:55.832576"
+  },
+  {
+    "source": "Lokmat",
+    "title": "'आपले लातूर-सुरक्षित लातूर': ३१८ पॉइंट्सवरील पोलिस गस्तीवर आता GPS अन् QR कोडची नजर - Marathi News | Latur Police Launch 'Safe Latur' Initiative: 318 Sensitive Spots Equipped with GPS-Based QR Code System | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-police-launch-safe-latur-initiative-318-sensitive-spots-equipped-with-gps-based-qr-code-system-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.833120"
+  },
+  {
+    "source": "Lokmat",
+    "title": "कुपोषण निर्मूलनात लातूर जिल्हा परिषदेची मोठी झेप: राज्यात तिसरा, मराठवाड्यात पहिला क्रमांक - Marathi News | Latur ZP Ranks 1st in Marathwada & 3rd in Maharashtra for Malnutrition Eradication; Award Ceremony on March 24 | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zp-ranks-1st-in-marathwada-3rd-in-maharashtra-for-malnutrition-eradication-award-ceremony-on-march-24-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.832760"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
+    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.566370"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur: उसाच्या फडामध्ये सुरू होता भलताच प्रकार, पाहून पोलिसांच्या पायाखालची जमीन सरकली! - Marathi News | What was growing in the fields under the name of sugarcane? How the police exposed the racket, one arrested! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/what-was-growing-in-the-fields-under-the-name-of-sugarcane-how-the-police-exposed-the-racket-one-arrested-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.832942"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22118/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-03-26T12:46:59.413289"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूरमध्ये व्यावसायिक गॅसअभावी हॉटेल, मेस आणि नाश्ता सेंटरला फटका, हजारो हॉटेल कामगारांचा रोजगार संकटात",
+    "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-03-26T12:46:55.566045"
   },
   {
     "source": "Dainik Ekmat",
@@ -124,71 +196,7 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-03-26T11:41:04.600611"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
-    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.247056"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर-औसा मार्गावर भरधाव कार २० फूट खोल खड्डयात कोसळली, चौघे गंभीर; ​कार चक्काचूर - Marathi News | Speeding car falls into 20 feet deep ditch on Latur-Ausa road, four seriously injured; car smashed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/speeding-car-falls-into-20-feet-deep-ditch-on-latur-ausa-road-four-seriously-injured-car-smashed-a-a653/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.330215"
-  },
-  {
-    "source": "Lokmat",
-    "title": "'ती' कर्णबधीर बालके ऐकणार आता सप्तस्वर! लातूर झेडपीचा पुढाकार, महागड्या शस्त्रक्रियेस यश - Marathi News | Latur ZP Success Story: Two Deaf Children Undergo Free Cochlear Implant Surgery via Divyang Welfare Fund | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zp-success-story-two-deaf-children-undergo-free-cochlear-implant-surgery-via-divyang-welfare-fund-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.330030"
-  },
-  {
-    "source": "Lokmat",
-    "title": "'आपले लातूर-सुरक्षित लातूर': ३१८ पॉइंट्सवरील पोलिस गस्तीवर आता GPS अन् QR कोडची नजर - Marathi News | Latur Police Launch 'Safe Latur' Initiative: 318 Sensitive Spots Equipped with GPS-Based QR Code System | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-police-launch-safe-latur-initiative-318-sensitive-spots-equipped-with-gps-based-qr-code-system-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.330519"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर माजी खासदार डॉ. जे. एम. वाघमारे यांचे निधन; शिक्षण-समाजकारणातील ज्येष्ठ विचारवंत काळाच्या पडद्याआड",
-    "link": "https://marathi.abplive.com/news/latur/former-mp-dr-j-m-waghmare-passes-away-latur-maharashtra-marathi-news-1414698",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.247289"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur: उसाच्या फडामध्ये सुरू होता भलताच प्रकार, पाहून पोलिसांच्या पायाखालची जमीन सरकली! - Marathi News | What was growing in the fields under the name of sugarcane? How the police exposed the racket, one arrested! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/what-was-growing-in-the-fields-under-the-name-of-sugarcane-how-the-police-exposed-the-racket-one-arrested-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.330329"
-  },
-  {
-    "source": "Lokmat",
-    "title": "कुपोषण निर्मूलनात लातूर जिल्हा परिषदेची मोठी झेप: राज्यात तिसरा, मराठवाड्यात पहिला क्रमांक - Marathi News | Latur ZP Ranks 1st in Marathwada & 3rd in Maharashtra for Malnutrition Eradication; Award Ceremony on March 24 | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zp-ranks-1st-in-marathwada-3rd-in-maharashtra-for-malnutrition-eradication-award-ceremony-on-march-24-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.330122"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये दिग्गज नेत्यांची प्रतिष्ठा पणाला! जिल्हा परिषद अन् पंचायत समितीवर कुणाची सत्ता? आज निकाल",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-election-results-2026-who-will-win-59-zilla-parishad-and-125-panchayat-samiti-seats-latur-marathi-news-1411971",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.247682"
+    "timestamp": "2026-03-26T12:46:59.909329"
   },
   {
     "source": "Lokmat",
@@ -196,14 +204,6 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/maharashtra-kesari-2026-power-of-kaka-pawars-talim-both-prestigious-maces-return-to-kaka-pawars-international-wrestling-center-for-the-4th-time-a-a320/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/harshwardhan-sadgir-kaka-pawar-latur-a_2026031669841.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.329841"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-03-26T11:41:00.247521"
+    "timestamp": "2026-03-26T12:46:55.832466"
   }
 ];
