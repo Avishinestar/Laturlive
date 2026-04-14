@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-04-14/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-14T14:48:44.476085"
+    "timestamp": "2026-04-14T16:00:38.077874"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1089/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-04/page-1-3225193.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-14T14:48:45.116489"
+    "timestamp": "2026-04-14T16:00:38.849927"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1089/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-04/page-2-1905851.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-14T14:48:45.116497"
+    "timestamp": "2026-04-14T16:00:38.849937"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1089/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-04/page-3-1855892.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-14T14:48:45.116499"
+    "timestamp": "2026-04-14T16:00:38.849940"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1089/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-04/page-4-5581579.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-14T14:48:45.116501"
+    "timestamp": "2026-04-14T16:00:38.849942"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1089/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-04/page-5-9744675.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-14T14:48:45.116502"
+    "timestamp": "2026-04-14T16:00:38.849943"
   },
   {
     "source": "Latur Samachar",
@@ -53,7 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1089/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-04/page-6-6967268.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-14T14:48:45.116504"
+    "timestamp": "2026-04-14T16:00:38.849945"
   },
   {
     "source": "Divya Marathi",
@@ -61,71 +61,7 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/mumbai/news/bsc-nursing-college-with-100-admission-capacity-in-7-districts-including-jalgaon-latur-baramati-an-attempt-to-remove-regional-imbalance-through-tertiary-care-dbp-137691798.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/04/14/image-5_1776129432.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:47.121720"
-  },
-  {
-    "source": "Lokmat",
-    "title": "गुणपत्रक-प्रमाणपत्र आता एकाच कागदावर! दहावी-बारावीच्या विद्यार्थ्यांसाठी बोर्डाचा ऐतिहासिक निर्णय - Marathi News | Now not two, but one certificate! Board's historic decision for 10th-12th students | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/now-not-two-but-one-certificate-boards-historic-decision-for-10th-12th-students-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.331948"
-  },
-  {
-    "source": "Lokmat",
-    "title": "अहमदपूर येथे पेट्रोल पंपावर रॉडने मारहाण; १० ते १२ जणांविराेधात गुन्हा दाखल - Marathi News | beaten with rod at petrol pump in ahmedpur case registered against 10 to 12 people | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/beaten-with-rod-at-petrol-pump-in-ahmedpur-case-registered-against-10-to-12-people-a-a719/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.332162"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
-    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.038882"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरमध्ये पोलिसांचे सलग २१ तासांचे ‘कोम्बिंग ऑपरेशन’; ७४ आरोपींना अटक - Marathi News | Police conduct 21-hour combing operation in Latur; 74 accused arrested | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/police-conduct-21-hour-combing-operation-in-latur-74-accused-arrested-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.332051"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरलातूर जिल्हा परिषदेत महायुतीची सत्ता; भाजपच्या उषाताई पाटील अध्यक्ष, राष्ट्रवादीच्या दयानंद सुरवसे उपाध्यक्ष",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.038586"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर बीएमडल्ब्लू कार लाकडाच्या कंटनेरला धडकली; भीषण अपघातात 4 जणांचा मृत्यू, 2 जखमी",
-    "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.038804"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर माजी खासदार डॉ. जे. एम. वाघमारे यांचे निधन; शिक्षण-समाजकारणातील ज्येष्ठ विचारवंत काळाच्या पडद्याआड",
-    "link": "https://marathi.abplive.com/news/latur/former-mp-dr-j-m-waghmare-passes-away-latur-maharashtra-marathi-news-1414698",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.039040"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
-    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.038959"
+    "timestamp": "2026-04-14T16:00:41.751224"
   },
   {
     "source": "ABP Majha",
@@ -133,23 +69,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.038724"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.039194"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर वडिलांची चिता धगधगत होती, 17 वर्षांच्या मुलीनं काळीज घट्ट करत दिला बारावीचा गणिताचा पेपर, लातूरमधील हृदय पिळवटून टाकणारी घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.039117"
+    "timestamp": "2026-04-14T16:00:36.610430"
   },
   {
     "source": "Lokmat",
@@ -157,23 +77,47 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-road-accident-two-motorcyclists-killed-in-head-on-collision-near-nilanga-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.331778"
+    "timestamp": "2026-04-14T16:00:36.666177"
   },
   {
     "source": "Lokmat",
-    "title": "मांजरा धरणात पाण्याचा ‘पॉझिटिव्ह’ साठा; उन्हाळ्यात शेतीची तहान भागणार! - Marathi News | 'Positive' water storage in Manjara Dam; Agriculture's thirst will be quenched in summer! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/positive-water-storage-in-manjara-dam-agricultures-thirst-will-be-quenched-in-summer-a-a320/",
+    "title": "लाचखोरांचा 'गेम ओव्हर'! पाच हजारांची लाच स्वीकारणाऱ्या सहनिबंधक, लिपिकाला कारावास - Marathi News | \"'Game over' for corrupt officials! latur-court-sentences-deputy-registrar-clerk-to-prison-in-bribery-case | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/game-over-for-corrupt-officials-latur-court-sentences-deputy-registrar-clerk-to-prison-in-bribery-case-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.331721"
+    "timestamp": "2026-04-14T16:00:36.666322"
   },
   {
     "source": "Lokmat",
-    "title": "लातूर जिल्हा परिषद सभापती निवड: माने, गोडभरले, बिरादार, गोरे यांची बिनविरोध निवड - Marathi News | Latur Zilla Parishad Chairman Election: Mane, Godbharle, Biradar, Gore elected unopposed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zilla-parishad-chairman-election-mane-godbharle-biradar-gore-elected-unopposed-a-a320/",
+    "title": "गुणपत्रक-प्रमाणपत्र आता एकाच कागदावर! दहावी-बारावीच्या विद्यार्थ्यांसाठी बोर्डाचा ऐतिहासिक निर्णय - Marathi News | Now not two, but one certificate! Board's historic decision for 10th-12th students | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/now-not-two-but-one-certificate-boards-historic-decision-for-10th-12th-students-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.332000"
+    "timestamp": "2026-04-14T16:00:36.666393"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर बीएमडल्ब्लू कार लाकडाच्या कंटनेरला धडकली; भीषण अपघातात 4 जणांचा मृत्यू, 2 जखमी",
+    "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.610532"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लाचेची मागणी करणारा संगणक ऑपरेटर ACB च्या जाळ्यात; जळकोट तहसीलमध्ये खळबळ - Marathi News | Latur ACB Trap: Computer operator who demanded bribe caught; Excitement at Jalkot Tehsil office | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-acb-trap-computer-operator-who-demanded-bribe-caught-excitement-at-jalkot-tehsil-office-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.666595"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर माजी खासदार डॉ. जे. एम. वाघमारे यांचे निधन; शिक्षण-समाजकारणातील ज्येष्ठ विचारवंत काळाच्या पडद्याआड",
+    "link": "https://marathi.abplive.com/news/latur/former-mp-dr-j-m-waghmare-passes-away-latur-maharashtra-marathi-news-1414698",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.610829"
   },
   {
     "source": "Dainik Ekmat",
@@ -188,7 +132,23 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-04-14T14:48:46.982157"
+    "timestamp": "2026-04-14T16:00:41.462067"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरमध्ये पोलिसांचे सलग २१ तासांचे ‘कोम्बिंग ऑपरेशन’; ७४ आरोपींना अटक - Marathi News | Police conduct 21-hour combing operation in Latur; 74 accused arrested | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/police-conduct-21-hour-combing-operation-in-latur-74-accused-arrested-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.666529"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूर जिल्हा परिषदेत महायुतीची सत्ता; भाजपच्या उषाताई पाटील अध्यक्ष, राष्ट्रवादीच्या दयानंद सुरवसे उपाध्यक्ष",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.610259"
   },
   {
     "source": "Lokmat",
@@ -196,23 +156,55 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/shaktipeeth-highway-protest-latur-and-beed-farmers-oppose-land-survey-firm-stand-in-renapur-meeting-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.331840"
+    "timestamp": "2026-04-14T16:00:36.666255"
   },
   {
     "source": "Lokmat",
-    "title": "लातूरमध्ये भरवस्तीत रक्ताचा सडा! भंगार गोळा करणाऱ्या वृद्धाची डोक्यात फरशी घालून हत्या",
-    "link": "https://www.lokmat.com/latur/bloody-mess-in-laturs-crowded-area-old-man-collecting-scrap-metal-murdered-by-putting-a-floor-on-his-head-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/murder-abd-crime-newa_2024041221882.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.331650"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लाचेची मागणी करणारा संगणक ऑपरेटर ACB च्या जाळ्यात; जळकोट तहसीलमध्ये खळबळ - Marathi News | Latur ACB Trap: Computer operator who demanded bribe caught; Excitement at Jalkot Tehsil office | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-acb-trap-computer-operator-who-demanded-bribe-caught-excitement-at-jalkot-tehsil-office-a-a320/",
+    "title": "मांजरा धरणात पाण्याचा ‘पॉझिटिव्ह’ साठा; उन्हाळ्यात शेतीची तहान भागणार! - Marathi News | 'Positive' water storage in Manjara Dam; Agriculture's thirst will be quenched in summer! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/positive-water-storage-in-manjara-dam-agricultures-thirst-will-be-quenched-in-summer-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.332107"
+    "timestamp": "2026-04-14T16:00:36.666094"
+  },
+  {
+    "source": "Lokmat",
+    "title": "अहमदपूर येथे पेट्रोल पंपावर रॉडने मारहाण; १० ते १२ जणांविराेधात गुन्हा दाखल - Marathi News | beaten with rod at petrol pump in ahmedpur case registered against 10 to 12 people | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/beaten-with-rod-at-petrol-pump-in-ahmedpur-case-registered-against-10-to-12-people-a-a719/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.666661"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
+    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.610731"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातुरात अमित देशमुख एकाकी लढले, काँग्रेस सर्वात मोठा पक्ष, तरीही भाजप-राष्ट्रवादीची जिल्हा परिषदेवर सत्ता",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-and-panchayat-samiti-elections-results-2026-congress-won-23-seats-bjp-ncp-marathi-news-1412073",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.611026"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर जिल्हा परिषद सभापती निवड: माने, गोडभरले, बिरादार, गोरे यांची बिनविरोध निवड - Marathi News | Latur Zilla Parishad Chairman Election: Mane, Godbharle, Biradar, Gore elected unopposed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zilla-parishad-chairman-election-mane-godbharle-biradar-gore-elected-unopposed-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.666461"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर वडिलांची चिता धगधगत होती, 17 वर्षांच्या मुलीनं काळीज घट्ट करत दिला बारावीचा गणिताचा पेपर, लातूरमधील हृदय पिळवटून टाकणारी घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.610927"
   },
   {
     "source": "Dainik Ekmat",
@@ -220,14 +212,22 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/22275/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-14T14:48:46.586337"
+    "timestamp": "2026-04-14T16:00:40.905940"
   },
   {
     "source": "Lokmat",
-    "title": "लाचखोरांचा 'गेम ओव्हर'! पाच हजारांची लाच स्वीकारणाऱ्या सहनिबंधक, लिपिकाला कारावास - Marathi News | \"'Game over' for corrupt officials! latur-court-sentences-deputy-registrar-clerk-to-prison-in-bribery-case | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/game-over-for-corrupt-officials-latur-court-sentences-deputy-registrar-clerk-to-prison-in-bribery-case-a-a320/",
+    "title": "लातूरमध्ये भरवस्तीत रक्ताचा सडा! भंगार गोळा करणाऱ्या वृद्धाची डोक्यात फरशी घालून हत्या",
+    "link": "https://www.lokmat.com/latur/bloody-mess-in-laturs-crowded-area-old-man-collecting-scrap-metal-murdered-by-putting-a-floor-on-his-head-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/murder-abd-crime-newa_2024041221882.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-04-14T16:00:36.666009"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
+    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-14T14:48:43.331893"
+    "timestamp": "2026-04-14T16:00:36.610632"
   }
 ];
