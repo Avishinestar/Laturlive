@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-04-19/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-19T16:43:35.008285"
+    "timestamp": "2026-04-19T17:27:07.150651"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1100/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-04/page-1-9729280.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-19T16:43:35.672172"
+    "timestamp": "2026-04-19T17:27:07.902684"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1100/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-04/page-2-9137122.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-19T16:43:35.672180"
+    "timestamp": "2026-04-19T17:27:07.902696"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1100/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-04/page-3-2815793.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-19T16:43:35.672183"
+    "timestamp": "2026-04-19T17:27:07.902699"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1100/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-04/page-4-8783944.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-19T16:43:35.672186"
+    "timestamp": "2026-04-19T17:27:07.902701"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1100/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-04/page-5-4039573.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-19T16:43:35.672187"
+    "timestamp": "2026-04-19T17:27:07.902703"
   },
   {
     "source": "Latur Samachar",
@@ -53,7 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1100/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-04/page-6-9417523.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-19T16:43:35.672189"
+    "timestamp": "2026-04-19T17:27:07.902707"
   },
   {
     "source": "Divya Marathi",
@@ -61,47 +61,7 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/aurangabad/osmanabad/news/latur-brothers-missing-boy-dead-another-missing-137736919.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/04/19/copy-of-db-temp-cover-marathi-2026-04-19t185535482_1776605109.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:38.399485"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूर जिल्हा परिषदेत महायुतीची सत्ता; भाजपच्या उषाताई पाटील अध्यक्ष, राष्ट्रवादीच्या दयानंद सुरवसे उपाध्यक्ष",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.164609"
-  },
-  {
-    "source": "Lokmat",
-    "title": "बनावट सोन्याची विक्री करणाऱ्या टोळीला पकडले, तिघांना अटक - Marathi News | Gang selling fake gold busted, three arrested | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/gang-selling-fake-gold-busted-three-arrested-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.498606"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर शहरात घर फोडले; दाेन लाखांचा ऐवज लंपास, चाेरट्यांविराेधात गुन्हा - Marathi News | House broken into in Latur city; Property worth Rs 2 lakhs looted, crime against thieves | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/house-broken-into-in-latur-city-property-worth-rs-2-lakhs-looted-crime-against-thieves-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.498487"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये व्यावसायिक गॅसअभावी हॉटेल, मेस आणि नाश्ता सेंटरला फटका, हजारो हॉटेल कामगारांचा रोजगार संकटात",
-    "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.164750"
-  },
-  {
-    "source": "Lokmat",
-    "title": "काळीज पिळवटून टाकणारी क्रूरता! आईच्या डोळ्यादेखत मुलाला अमानुष मारहाण - Marathi News | Heartbreaking cruelty! Child brutally beaten in front of mother's eyes | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/heartbreaking-cruelty-child-brutally-beaten-in-front-of-mothers-eyes-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.498401"
+    "timestamp": "2026-04-19T17:27:10.608244"
   },
   {
     "source": "Lokmat",
@@ -109,39 +69,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/gutkha-worth-rs-85-lakh-seized-along-with-car-one-arrested-a-a463-c607/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.498144"
+    "timestamp": "2026-04-19T17:27:05.863055"
   },
   {
-    "source": "Lokmat",
-    "title": "चाकूर हादरले; गायब दोघा चिमुकल्या भावंडांपैकी एकाचा मृतदेहच आढळला!",
-    "link": "https://www.lokmat.com/latur/chakur-was-shocked-the-body-of-one-of-the-two-missing-young-siblings-was-found-a-a1013/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-brother-lost_2026041686820.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.497950"
-  },
-  {
-    "source": "Lokmat",
-    "title": "मराठवाड्यातील विद्यार्थ्यांसाठी लातूरमध्ये साकारतेय १७२ कोटींचे हायटेक ‘सारथी’ संकुल - Marathi News | Latur to Get Hi-Tech ₹172 Crore 'SARTHI' Complex: 12-Storey Hostels for 1,000 Students. | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-to-get-hi-tech-rs172-crore-sarthi-complex-12-storey-hostels-for-1000-students-a-a320/",
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये व्यावसायिक गॅसअभावी हॉटेल, मेस आणि नाश्ता सेंटरला फटका, हजारो हॉटेल कामगारांचा रोजगार संकटात",
+    "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.498317"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22316/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-04-19T16:43:37.702880"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पोलिसांचे कोम्बिंग ऑपरेशन; लातूर जिल्ह्यात १९० खटले ! - Marathi News | Police combing operation; 190 cases in Latur district! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/police-combing-operation-190-cases-in-latur-district-a-a463-c607/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.498229"
+    "timestamp": "2026-04-19T17:27:05.803787"
   },
   {
     "source": "ABP Majha",
@@ -149,23 +85,31 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-emotional-news-17-year-old-girl-class-12-exam-girl-writes-maths-exam-after-fathers-funeral-1413822",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.165351"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
-    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.164978"
+    "timestamp": "2026-04-19T17:27:05.804298"
   },
   {
     "source": "Lokmat",
-    "title": "लातुरात गुटखा तस्करावर छापा; साडेआठ लाखांचा मुद्देमाल जप्त, एकाला केले अटक - Marathi News | Raid on gutkha smuggler in Latur; Goods worth Rs 8.5 lakh seized, one arrested | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/raid-on-gutkha-smuggler-in-latur-goods-worth-rs-85-lakh-seized-one-arrested-a-a463-c301/",
+    "title": "चाकूर हादरले; गायब दोघा चिमुकल्या भावंडांपैकी एकाचा मृतदेहच आढळला!",
+    "link": "https://www.lokmat.com/latur/chakur-was-shocked-the-body-of-one-of-the-two-missing-young-siblings-was-found-a-a1013/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-brother-lost_2026041686820.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.862890"
+  },
+  {
+    "source": "Lokmat",
+    "title": "बनावट सोन्याची विक्री करणाऱ्या टोळीला पकडले, तिघांना अटक - Marathi News | Gang selling fake gold busted, three arrested | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/gang-selling-fake-gold-busted-three-arrested-a-a463-c301/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.498697"
+    "timestamp": "2026-04-19T17:27:05.863414"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22316/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-04-19T17:27:09.781373"
   },
   {
     "source": "Dainik Ekmat",
@@ -180,23 +124,31 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-04-19T16:43:38.159062"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
-    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.165088"
+    "timestamp": "2026-04-19T17:27:10.315139"
   },
   {
     "source": "Lokmat",
-    "title": "सत्य आणि लोकांचा विश्वास हीच पत्रकारितेची खरी शक्ती: राजेंद्र दर्डा - Marathi News | Truth and people's trust are the real power of journalism: Rajendra Darda | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/truth-and-peoples-trust-are-the-real-power-of-journalism-rajendra-darda-a-a1012/",
+    "title": "मराठवाड्यातील विद्यार्थ्यांसाठी लातूरमध्ये साकारतेय १७२ कोटींचे हायटेक ‘सारथी’ संकुल - Marathi News | Latur to Get Hi-Tech ₹172 Crore 'SARTHI' Complex: 12-Storey Hostels for 1,000 Students. | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-to-get-hi-tech-rs172-crore-sarthi-complex-12-storey-hostels-for-1000-students-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.498056"
+    "timestamp": "2026-04-19T17:27:05.863208"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातुरात गुटखा तस्करावर छापा; साडेआठ लाखांचा मुद्देमाल जप्त, एकाला केले अटक - Marathi News | Raid on gutkha smuggler in Latur; Goods worth Rs 8.5 lakh seized, one arrested | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/raid-on-gutkha-smuggler-in-latur-goods-worth-rs-85-lakh-seized-one-arrested-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.863481"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर शहरात घर फोडले; दाेन लाखांचा ऐवज लंपास, चाेरट्यांविराेधात गुन्हा - Marathi News | House broken into in Latur city; Property worth Rs 2 lakhs looted, crime against thieves | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/house-broken-into-in-latur-city-property-worth-rs-2-lakhs-looted-crime-against-thieves-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.863349"
   },
   {
     "source": "ABP Majha",
@@ -204,7 +156,23 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.164866"
+    "timestamp": "2026-04-19T17:27:05.803886"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
+    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.803990"
+  },
+  {
+    "source": "Lokmat",
+    "title": "सत्य आणि लोकांचा विश्वास हीच पत्रकारितेची खरी शक्ती: राजेंद्र दर्डा - Marathi News | Truth and people's trust are the real power of journalism: Rajendra Darda | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/truth-and-peoples-trust-are-the-real-power-of-journalism-rajendra-darda-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.862979"
   },
   {
     "source": "ABP Majha",
@@ -212,6 +180,38 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/former-mp-dr-j-m-waghmare-passes-away-latur-maharashtra-marathi-news-1414698",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-19T16:43:33.165240"
+    "timestamp": "2026-04-19T17:27:05.804198"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पोलिसांचे कोम्बिंग ऑपरेशन; लातूर जिल्ह्यात १९० खटले ! - Marathi News | Police combing operation; 190 cases in Latur district! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/police-combing-operation-190-cases-in-latur-district-a-a463-c607/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.863122"
+  },
+  {
+    "source": "Lokmat",
+    "title": "काळीज पिळवटून टाकणारी क्रूरता! आईच्या डोळ्यादेखत मुलाला अमानुष मारहाण - Marathi News | Heartbreaking cruelty! Child brutally beaten in front of mother's eyes | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/heartbreaking-cruelty-child-brutally-beaten-in-front-of-mothers-eyes-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.863280"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर जिल्हा परिषदेत महायुतीची सत्ता; भाजपच्या उषाताई पाटील अध्यक्ष, राष्ट्रवादीच्या दयानंद सुरवसे उपाध्यक्ष",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.803671"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
+    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-19T17:27:05.804088"
   }
 ];
