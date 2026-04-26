@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-04-26/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-26T22:35:52.255366"
+    "timestamp": "2026-04-26T23:28:57.490355"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1111/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-04/page-1-2465317.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-26T22:35:52.833354"
+    "timestamp": "2026-04-26T23:28:58.218050"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1111/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-04/page-2-3741116.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-26T22:35:52.833361"
+    "timestamp": "2026-04-26T23:28:58.218059"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1111/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-04/page-3-2878065.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-26T22:35:52.833366"
+    "timestamp": "2026-04-26T23:28:58.218062"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1111/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-04/page-4-6239909.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-26T22:35:52.833368"
+    "timestamp": "2026-04-26T23:28:58.218064"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1111/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-04/page-5-2488334.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-26T22:35:52.833370"
+    "timestamp": "2026-04-26T23:28:58.218066"
   },
   {
     "source": "Latur Samachar",
@@ -53,79 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1111/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-04/page-6-2119343.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-04-26T22:35:52.833372"
-  },
-  {
-    "source": "Lokmat",
-    "title": "उन्हाचा कहर! पाळण्यात झोपलेली ८ महिन्यांची चिमुकली पुन्हा उठलीच नाही, उष्माघाताने मृत्यू?",
-    "link": "https://www.lokmat.com/latur/8-month-old-baby-girl-dies-of-suspected-heatstroke-in-latur-health-team-initiates-probe-second-victim-in-a-week-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-death-heatwave-baby_2026041690570.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168207"
-  },
-  {
-    "source": "Lokmat",
-    "title": "औराद शहाजानी परिसरात उष्माघाताने शेतकऱ्याचा मृत्यू; साेमवारी तापमान पाेहोचले ४२.८ अंशावर - Marathi News | Farmer dies of heatstroke in Aurad Shahajani area; Temperature reaches 42.8 degrees on Monday | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/farmer-dies-of-heatstroke-in-aurad-shahajani-area-temperature-reaches-428-degrees-on-monday-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168678"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
-    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.860691"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पतीच्या मैत्रिणीस अडकवण्यासाठी चाकुरात पत्नीने केला पुतण्याचा खून; 'असा' झाला उलगडा - Marathi News | Wife kills nephew in a car to trap husband's girlfriend; 'This is how it's revealed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/wife-kills-nephew-in-a-car-to-trap-husbands-girlfriend-this-is-how-its-revealed-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168791"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22381/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-04-26T22:35:54.797510"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ह्रदयद्रावक घटना... लातूरमध्ये दोन चिमुकल्यांसह आईची विहिरीत उडी; परिसरात खळबळ, पोलीस घटनास्थळी",
-    "link": "https://marathi.abplive.com/news/latur/latur-heartbreaking-incident-mother-jumps-into-well-with-two-toddlers-in-latur-police-at-the-scene-1420987",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.860128"
-  },
-  {
-    "source": "Lokmat",
-    "title": "स्वप्नवेलीचा करुण अंत! कुटुंबासमोरच कर्ता पुरुष तेरणा नदीत गडप; २८ तासांनंतर मृतदेह हाती - Marathi News | Tragic Death in Terna River: Amar Devkule's Body Recovered After 28-Hour Search Operation. | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/tragic-death-in-terna-river-amar-devkules-body-recovered-after-28-hour-search-operation-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168405"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
-    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.860574"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरलातूर पॅटर्नचे जनक, माजी खासदार डॉ. गोपाळराव पाटील यांचे निधन; मुख्यमंत्र्यांसह दिग्गजांकडून शोक",
-    "link": "https://marathi.abplive.com/news/latur/father-of-latur-pattern-former-mp-dr-gopalrao-patil-passes-away-cm-devendra-fadnavis-and-other-luminaries-condole-1421076",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.860012"
+    "timestamp": "2026-04-26T23:28:58.218068"
   },
   {
     "source": "ABP Majha",
@@ -133,31 +61,15 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-heatstroke-9-year-baby-death-heatwave-ausa-gondri-temperature-rise-maharashtra-marathi-news-1421645",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.859861"
+    "timestamp": "2026-04-26T23:28:56.064636"
   },
   {
     "source": "Lokmat",
-    "title": "४२.८ अंश तापमानात शेतात राबणाऱ्या शेतकऱ्याचा उष्माघाताने अंत; लातूर जिल्हा हादरला - Marathi News | Farmer Dies of Heatstroke in Latur's Aurad Shahajani as Temperature Hits 42.8°C. | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/farmer-dies-of-heatstroke-in-laturs-aurad-shahajani-as-temperature-hits-428degc-a-a320/",
+    "title": "सत्य आणि लोकांचा विश्वास हीच पत्रकारितेची खरी शक्ती: राजेंद्र दर्डा - Marathi News | Truth and people's trust are the real power of journalism: Rajendra Darda | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/truth-and-peoples-trust-are-the-real-power-of-journalism-rajendra-darda-a-a1012/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168584"
-  },
-  {
-    "source": "Lokmat",
-    "title": "विद्युत तारांचा स्पर्श अन् कडब्याचा भडका; क्षणात ७०० पेंड्यांसह ट्रॅक्टर भस्मसात, चालक बचावला - Marathi News | Dramatic Escape in Bidar! Tractor Catches Fire Due to Low-Hanging Power Lines; Farmer Suffers Heavy Loss | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/dramatic-escape-in-bidar-tractor-catches-fire-due-to-low-hanging-power-lines-farmer-suffers-heavy-loss-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168497"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरलातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.859940"
+    "timestamp": "2026-04-26T23:28:56.137923"
   },
   {
     "source": "Lokmat",
@@ -165,7 +77,71 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/chakur-was-shocked-the-body-of-one-of-the-two-missing-young-siblings-was-found-a-a1013/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168972"
+    "timestamp": "2026-04-26T23:28:56.137838"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर बीएमडल्ब्लू कार लाकडाच्या कंटनेरला धडकली; भीषण अपघातात 4 जणांचा मृत्यू, 2 जखमी",
+    "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.065246"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये व्यावसायिक गॅसअभावी हॉटेल, मेस आणि नाश्ता सेंटरला फटका, हजारो हॉटेल कामगारांचा रोजगार संकटात",
+    "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.065132"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर जिल्हा परिषदेत महायुतीची सत्ता; भाजपच्या उषाताई पाटील अध्यक्ष, राष्ट्रवादीच्या दयानंद सुरवसे उपाध्यक्ष",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.065021"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर पॅटर्नचे जनक.... शिक्षण, राजकारण आणि लेखणीचा त्रिवेणी संगम; ज्येष्ठ साहित्यिक जे. एम.",
+    "link": "https://marathi.abplive.com/news/latur/the-father-of-latur-pattern-j-m-waghmare-trinity-of-education-politics-and-writing-veteran-writer-j-m-1414738",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.065488"
+  },
+  {
+    "source": "Lokmat",
+    "title": "औराद शहाजानी परिसरात उष्माघाताने शेतकऱ्याचा मृत्यू; साेमवारी तापमान पाेहोचले ४२.८ अंशावर - Marathi News | Farmer dies of heatstroke in Aurad Shahajani area; Temperature reaches 42.8 degrees on Monday | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/farmer-dies-of-heatstroke-in-aurad-shahajani-area-temperature-reaches-428-degrees-on-monday-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.137569"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर अमेरिका अन् आखाती देशातील युद्धाचा थेट लातूरवर परिणाम; शेकडो टन माल अडकला, कोट्यावधींची उलाढाल ठप्प",
+    "link": "https://marathi.abplive.com/news/latur/america-gulf-countries-war-directly-affected-latur-hundreds-of-tons-of-goods-were-stranded-iran-and-mumbai-port-1414968",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.065357"
+  },
+  {
+    "source": "Lokmat",
+    "title": "विद्युत तारांचा स्पर्श अन् कडब्याचा भडका; क्षणात ७०० पेंड्यांसह ट्रॅक्टर भस्मसात, चालक बचावला - Marathi News | Dramatic Escape in Bidar! Tractor Catches Fire Due to Low-Hanging Power Lines; Farmer Suffers Heavy Loss | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/dramatic-escape-in-bidar-tractor-catches-fire-due-to-low-hanging-power-lines-farmer-suffers-heavy-loss-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.137354"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.064719"
   },
   {
     "source": "Dainik Ekmat",
@@ -180,47 +156,23 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-04-26T22:35:55.230831"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर बीएमडल्ब्लू कार लाकडाच्या कंटनेरला धडकली; भीषण अपघातात 4 जणांचा मृत्यू, 2 जखमी",
-    "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.860464"
+    "timestamp": "2026-04-26T23:29:00.705213"
   },
   {
     "source": "Lokmat",
-    "title": "सत्य आणि लोकांचा विश्वास हीच पत्रकारितेची खरी शक्ती: राजेंद्र दर्डा - Marathi News | Truth and people's trust are the real power of journalism: Rajendra Darda | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/truth-and-peoples-trust-are-the-real-power-of-journalism-rajendra-darda-a-a1012/",
+    "title": "४२.८ अंश तापमानात शेतात राबणाऱ्या शेतकऱ्याचा उष्माघाताने अंत; लातूर जिल्हा हादरला - Marathi News | Farmer Dies of Heatstroke in Latur's Aurad Shahajani as Temperature Hits 42.8°C. | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/farmer-dies-of-heatstroke-in-laturs-aurad-shahajani-as-temperature-hits-428degc-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.169057"
+    "timestamp": "2026-04-26T23:28:56.137478"
   },
   {
     "source": "Lokmat",
-    "title": "पाेटच्या दाेन चिमुकल्यांसह मातेने विहिरीत उडी घेत संपवले जीवन! खरोसा गावावर शोककळा - Marathi News | Mother ends life by jumping into well with two toddlers! Mourning in Kharosa village | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/mother-ends-life-by-jumping-into-well-with-two-toddlers-mourning-in-kharosa-village-a-a1013/",
-    "image": null,
+    "title": "उन्हाचा कहर! पाळण्यात झोपलेली ८ महिन्यांची चिमुकली पुन्हा उठलीच नाही, उष्माघाताने मृत्यू?",
+    "link": "https://www.lokmat.com/latur/8-month-old-baby-girl-dies-of-suspected-heatstroke-in-latur-health-team-initiates-probe-second-victim-in-a-week-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-death-heatwave-baby_2026041690570.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168884"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूर जिल्हा परिषदेत महायुतीची सत्ता; भाजपच्या उषाताई पाटील अध्यक्ष, राष्ट्रवादीच्या दयानंद सुरवसे उपाध्यक्ष",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.860244"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये व्यावसायिक गॅसअभावी हॉटेल, मेस आणि नाश्ता सेंटरला फटका, हजारो हॉटेल कामगारांचा रोजगार संकटात",
-    "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:50.860355"
+    "timestamp": "2026-04-26T23:28:56.137073"
   },
   {
     "source": "Lokmat",
@@ -228,6 +180,54 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/108-ambulance-breaks-down-in-latur-critical-patient-stranded-for-30-minutes-under-scorching-sun-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-04-26T22:35:51.168310"
+    "timestamp": "2026-04-26T23:28:56.137175"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ह्रदयद्रावक घटना... लातूरमध्ये दोन चिमुकल्यांसह आईची विहिरीत उडी; परिसरात खळबळ, पोलीस घटनास्थळी",
+    "link": "https://marathi.abplive.com/news/latur/latur-heartbreaking-incident-mother-jumps-into-well-with-two-toddlers-in-latur-police-at-the-scene-1420987",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.064906"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पाेटच्या दाेन चिमुकल्यांसह मातेने विहिरीत उडी घेत संपवले जीवन! खरोसा गावावर शोककळा - Marathi News | Mother ends life by jumping into well with two toddlers! Mourning in Kharosa village | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/mother-ends-life-by-jumping-into-well-with-two-toddlers-mourning-in-kharosa-village-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.137752"
+  },
+  {
+    "source": "Lokmat",
+    "title": "स्वप्नवेलीचा करुण अंत! कुटुंबासमोरच कर्ता पुरुष तेरणा नदीत गडप; २८ तासांनंतर मृतदेह हाती - Marathi News | Tragic Death in Terna River: Amar Devkule's Body Recovered After 28-Hour Search Operation. | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/tragic-death-in-terna-river-amar-devkules-body-recovered-after-28-hour-search-operation-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.137265"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पतीच्या मैत्रिणीस अडकवण्यासाठी चाकुरात पत्नीने केला पुतण्याचा खून; 'असा' झाला उलगडा - Marathi News | Wife kills nephew in a car to trap husband's girlfriend; 'This is how it's revealed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/wife-kills-nephew-in-a-car-to-trap-husbands-girlfriend-this-is-how-its-revealed-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.137661"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूर पॅटर्नचे जनक, माजी खासदार डॉ. गोपाळराव पाटील यांचे निधन; मुख्यमंत्र्यांसह दिग्गजांकडून शोक",
+    "link": "https://marathi.abplive.com/news/latur/father-of-latur-pattern-former-mp-dr-gopalrao-patil-passes-away-cm-devendra-fadnavis-and-other-luminaries-condole-1421076",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-04-26T23:28:56.064791"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22381/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-04-26T23:29:00.260564"
   }
 ];
