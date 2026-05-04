@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-05-04/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-04T17:10:00.790757"
+    "timestamp": "2026-05-04T19:00:24.029006"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1125/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-05/page-1-3588149.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-04T17:10:01.629839"
+    "timestamp": "2026-05-04T19:00:24.606929"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1125/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-05/page-2-4106259.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-04T17:10:01.629848"
+    "timestamp": "2026-05-04T19:00:24.606937"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1125/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-05/page-3-7462983.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-04T17:10:01.629851"
+    "timestamp": "2026-05-04T19:00:24.606940"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1125/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-05/page-4-8621407.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-04T17:10:01.629853"
+    "timestamp": "2026-05-04T19:00:24.606942"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1125/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-05/page-5-4397030.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-04T17:10:01.629855"
+    "timestamp": "2026-05-04T19:00:24.606944"
   },
   {
     "source": "Latur Samachar",
@@ -53,134 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1125/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-05/page-6-5438713.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-04T17:10:01.629857"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पादुका दर्शन साेहळ्यातील वर्गणीच्या हिशेबाची तक्रार! सोशल मीडियावर चर्चा, पोलिसांना निवेदन - Marathi News | Complaint about accounting of fees in Paduka Darshan festival! Discussion on social media, statement to the police | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/complaint-about-accounting-of-fees-in-paduka-darshan-festival-discussion-on-social-media-statement-to-the-police-a-a653/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496377"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरलातूर जिल्ह्यात उष्माघाताचा चौथा बळी; 75 वर्षीय शेतकऱ्याचा मृत्यू, अकोल्यात सर्वाधिक 47 अंश तापमान",
-    "link": "https://marathi.abplive.com/news/latur/summer-hit-sunstrok-fourth-victim-of-heatstroke-in-latur-district-highest-temperature-in-akola-at-47-degrees-1422052",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.431592"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये व्यावसायिक गॅसअभावी हॉटेल, मेस आणि नाश्ता सेंटरला फटका, हजारो हॉटेल कामगारांचा रोजगार संकटात",
-    "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.432210"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur Paper Leak: फार्मसीचा पेपर व्हायरल, प्राध्यापकाविरोधात गुन्हा, केंद्रप्रमुख आला गोत्यात - Marathi News | Pharmacy paper goes viral, case against professor, center head in trouble | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/pharmacy-paper-goes-viral-case-against-professor-center-head-in-trouble-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496511"
-  },
-  {
-    "source": "Lokmat",
-    "title": "उन्हाचा कहर! पाळण्यात झोपलेली ८ महिन्यांची चिमुकली पुन्हा उठलीच नाही, उष्माघाताने मृत्यू? - Marathi News | 8-Month-Old Baby Girl Dies of Suspected Heatstroke in Latur; Health Team Initiates Probe, Second Victim in a Week | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/8-month-old-baby-girl-dies-of-suspected-heatstroke-in-latur-health-team-initiates-probe-second-victim-in-a-week-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496648"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur Crime: घर वाटणीचा वाद ठरला काळ; मुलाच्या प्रहाराने पित्याचा मृत्यू, हिप्परगा परिसरात खळबळ - Marathi News | House division dispute turns into a stalemate; Father dies after son attacks him, stirs in Hipparga area | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/house-division-dispute-turns-into-a-stalemate-father-dies-after-son-attacks-him-stirs-in-hipparga-area-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496578"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22430/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-05-04T17:10:03.738928"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Ekmat News Clip",
-    "link": "https://epaper.dainikekmat.com/edition/22430/latur/page/3",
-    "image": "https://epaper.dainikekmat.com/uploads/epaper/2026-05/69f78c267a1d3.jpg",
-    "clip": {
-      "x": 1187.23,
-      "y": 1380.5,
-      "w": 775.59,
-      "h": 1134.52,
-      "full_width": 2008.0000000000005
-    },
-    "time_str": "Short News",
-    "timestamp": "2026-05-04T17:10:04.296965"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर उष्माघाताचा कहर! लातूरमध्ये 9 महिन्याच्या बाळाचा मृत्यूचा संशय; मृतांचा आकडा दोनवर",
-    "link": "https://marathi.abplive.com/news/latur/latur-heatstroke-9-year-baby-death-heatwave-ausa-gondri-temperature-rise-maharashtra-marathi-news-1421645",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.431707"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूर पॅटर्नचे जनक, माजी खासदार डॉ. गोपाळराव पाटील यांचे निधन; मुख्यमंत्र्यांसह दिग्गजांकडून शोक",
-    "link": "https://marathi.abplive.com/news/latur/father-of-latur-pattern-former-mp-dr-gopalrao-patil-passes-away-cm-devendra-fadnavis-and-other-luminaries-condole-1421076",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.431903"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ह्रदयद्रावक घटना... लातूरमध्ये दोन चिमुकल्यांसह आईची विहिरीत उडी; परिसरात खळबळ, पोलीस घटनास्थळी",
-    "link": "https://marathi.abplive.com/news/latur/latur-heartbreaking-incident-mother-jumps-into-well-with-two-toddlers-in-latur-police-at-the-scene-1420987",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.432006"
-  },
-  {
-    "source": "Lokmat",
-    "title": "‘हीट स्ट्रोक’चा मुक्या जनावरांनाही फटका; लातूर जिल्ह्यात लाखमोलाची बैलजोडी दगावली - Marathi News | 'Heat stroke' affects even animals; A pair of bulls worth lakhs die in Latur district | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/heat-stroke-affects-even-animals-a-pair-of-bulls-worth-lakhs-die-in-latur-district-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496145"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूर जिल्हा परिषदेत महायुतीची सत्ता; भाजपच्या उषाताई पाटील अध्यक्ष, राष्ट्रवादीच्या दयानंद सुरवसे उपाध्यक्ष",
-    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.432114"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर बीएमडल्ब्लू कार लाकडाच्या कंटनेरला धडकली; भीषण अपघातात 4 जणांचा मृत्यू, 2 जखमी",
-    "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.432319"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.431806"
+    "timestamp": "2026-05-04T19:00:24.606946"
   },
   {
     "source": "Lokmat",
@@ -188,7 +61,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/heatwave-death-toll-rises-to-4-in-latur-75-year-old-farmer-dies-in-nilanga-while-working-in-field-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496217"
+    "timestamp": "2026-05-04T19:00:22.622685"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ह्रदयद्रावक घटना... लातूरमध्ये दोन चिमुकल्यांसह आईची विहिरीत उडी; परिसरात खळबळ, पोलीस घटनास्थळी",
+    "link": "https://marathi.abplive.com/news/latur/latur-heartbreaking-incident-mother-jumps-into-well-with-two-toddlers-in-latur-police-at-the-scene-1420987",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.561950"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur Crime: घर वाटणीचा वाद ठरला काळ; मुलाच्या प्रहाराने पित्याचा मृत्यू, हिप्परगा परिसरात खळबळ - Marathi News | House division dispute turns into a stalemate; Father dies after son attacks him, stirs in Hipparga area | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/house-division-dispute-turns-into-a-stalemate-father-dies-after-son-attacks-him-stirs-in-hipparga-area-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.623150"
   },
   {
     "source": "Lokmat",
@@ -196,15 +85,31 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/75-year-old-farmer-dies-of-heatstroke-fourth-victim-of-heatstroke-in-latur-district-a-a629/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496305"
+    "timestamp": "2026-05-04T19:00:22.622774"
   },
   {
     "source": "Lokmat",
-    "title": "ब्लॅकस्पॉटवर पोलिसांची लक्षवेधी जनजागृती; अपघातग्रस्त कार हायवेवर टांगली, वेग झाला कमी",
-    "link": "https://www.lokmat.com/latur/latur-police-hang-crashed-bmw-on-highway-to-raise-awareness-about-seatbelts-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/ausa-road-police-latur-bmw-feat_2026051695413.jpg",
+    "title": "‘हीट स्ट्रोक’चा मुक्या जनावरांनाही फटका; लातूर जिल्ह्यात लाखमोलाची बैलजोडी दगावली - Marathi News | 'Heat stroke' affects even animals; A pair of bulls worth lakhs die in Latur district | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/heat-stroke-affects-even-animals-a-pair-of-bulls-worth-lakhs-die-in-latur-district-a-a320/",
+    "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496060"
+    "timestamp": "2026-05-04T19:00:22.622587"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22438/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-05-04T19:00:26.699961"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर बीएमडल्ब्लू कार लाकडाच्या कंटनेरला धडकली; भीषण अपघातात 4 जणांचा मृत्यू, 2 जखमी",
+    "link": "https://marathi.abplive.com/news/latur/bmw-car-hits-wooden-container-latur-aursa-car-accident-4-dead-2-injured-police-rushed-1415401",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.562312"
   },
   {
     "source": "Lokmat",
@@ -212,6 +117,101 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/heatwave-claims-another-life-in-latur-25-year-old-youth-dies-after-returning-from-farm-in-ausa-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-04T17:09:59.496446"
+    "timestamp": "2026-05-04T19:00:22.622951"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर उष्माघाताचा कहर! लातूरमध्ये 9 महिन्याच्या बाळाचा मृत्यूचा संशय; मृतांचा आकडा दोनवर",
+    "link": "https://marathi.abplive.com/news/latur/latur-heatstroke-9-year-baby-death-heatwave-ausa-gondri-temperature-rise-maharashtra-marathi-news-1421645",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.561604"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur Paper Leak: फार्मसीचा पेपर व्हायरल, प्राध्यापकाविरोधात गुन्हा, केंद्रप्रमुख आला गोत्यात - Marathi News | Pharmacy paper goes viral, case against professor, center head in trouble | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/pharmacy-paper-goes-viral-case-against-professor-center-head-in-trouble-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.623036"
+  },
+  {
+    "source": "Lokmat",
+    "title": "उन्हाचा कहर! पाळण्यात झोपलेली ८ महिन्यांची चिमुकली पुन्हा उठलीच नाही, उष्माघाताने मृत्यू? - Marathi News | 8-Month-Old Baby Girl Dies of Suspected Heatstroke in Latur; Health Team Initiates Probe, Second Victim in a Week | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/8-month-old-baby-girl-dies-of-suspected-heatstroke-in-latur-health-team-initiates-probe-second-victim-in-a-week-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.623243"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पादुका दर्शन साेहळ्यातील वर्गणीच्या हिशेबाची तक्रार! सोशल मीडियावर चर्चा, पोलिसांना निवेदन - Marathi News | Complaint about accounting of fees in Paduka Darshan festival! Discussion on social media, statement to the police | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/complaint-about-accounting-of-fees-in-paduka-darshan-festival-discussion-on-social-media-statement-to-the-police-a-a653/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.622863"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Ekmat News Clip",
+    "link": "https://epaper.dainikekmat.com/edition/22438/latur/page/3",
+    "image": "https://epaper.dainikekmat.com/uploads/epaper/2026-05/69f8dfc676361.jpg",
+    "clip": {
+      "x": 1448.27,
+      "y": 1533.61,
+      "w": 509.53,
+      "h": 589.85,
+      "full_width": 2007.9999999999998
+    },
+    "time_str": "Short News",
+    "timestamp": "2026-05-04T19:00:27.156909"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.561724"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर जिल्हा परिषदेत महायुतीची सत्ता; भाजपच्या उषाताई पाटील अध्यक्ष, राष्ट्रवादीच्या दयानंद सुरवसे उपाध्यक्ष",
+    "link": "https://marathi.abplive.com/news/latur/latur-zilla-parishad-mahayuti-bjp-president-ncp-vice-president-vs-congress-marathi-news-1416497",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.562065"
+  },
+  {
+    "source": "Lokmat",
+    "title": "ब्लॅकस्पॉटवर पोलिसांची लक्षवेधी जनजागृती; अपघातग्रस्त कार हायवेवर टांगली, वेग झाला कमी",
+    "link": "https://www.lokmat.com/latur/latur-police-hang-crashed-bmw-on-highway-to-raise-awareness-about-seatbelts-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/ausa-road-police-latur-bmw-feat_2026051695413.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.622475"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये व्यावसायिक गॅसअभावी हॉटेल, मेस आणि नाश्ता सेंटरला फटका, हजारो हॉटेल कामगारांचा रोजगार संकटात",
+    "link": "https://marathi.abplive.com/news/latur/latur-hotel-mess-owner-and-break-fast-center-owners-and-student-face-problems-due-to-lack-of-commerical-gas-cylinder-1416260",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.562200"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर पॅटर्नचे जनक, माजी खासदार डॉ. गोपाळराव पाटील यांचे निधन; मुख्यमंत्र्यांसह दिग्गजांकडून शोक",
+    "link": "https://marathi.abplive.com/news/latur/father-of-latur-pattern-former-mp-dr-gopalrao-patil-passes-away-cm-devendra-fadnavis-and-other-luminaries-condole-1421076",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.561838"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूर जिल्ह्यात उष्माघाताचा चौथा बळी; 75 वर्षीय शेतकऱ्याचा मृत्यू, अकोल्यात सर्वाधिक 47 अंश तापमान",
+    "link": "https://marathi.abplive.com/news/latur/summer-hit-sunstrok-fourth-victim-of-heatstroke-in-latur-district-highest-temperature-in-akola-at-47-degrees-1422052",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-04T19:00:22.561474"
   }
 ];
