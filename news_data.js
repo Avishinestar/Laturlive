@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-05-16/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-16T09:10:24.972098"
+    "timestamp": "2026-05-16T10:42:03.855245"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1147/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-05/page-1-2666086.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-16T09:10:25.675428"
+    "timestamp": "2026-05-16T10:42:05.014616"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1147/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-05/page-2-3141684.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-16T09:10:25.675438"
+    "timestamp": "2026-05-16T10:42:05.014626"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1147/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-05/page-3-3380156.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-16T09:10:25.675441"
+    "timestamp": "2026-05-16T10:42:05.014629"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1147/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-05/page-4-5994484.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-16T09:10:25.675443"
+    "timestamp": "2026-05-16T10:42:05.014633"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1147/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-05/page-5-6772113.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-16T09:10:25.675445"
+    "timestamp": "2026-05-16T10:42:05.014635"
   },
   {
     "source": "Latur Samachar",
@@ -53,7 +53,15 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1147/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-05/page-6-5052234.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-16T09:10:25.675447"
+    "timestamp": "2026-05-16T10:42:05.014639"
+  },
+  {
+    "source": "Divya Marathi",
+    "title": "NEET पेपरफुटीचे धक्कादायक नेक्सस: लातूरचा पी.व्ही.सूत्रधार, टेलिग्राम-व्हॉट्स ॲपवरून टेस्टचे आमिष, 10 लाखांना विकले पेपर, लातूर-पुण्यात बक्कळ माया",
+    "link": "https://divyamarathi.bhaskar.com/local/maharashtra/mumbai/news/neet-paper-leak-mastermind-professor-revealed-maharashtra-137949760.html",
+    "image": "https://images.bhaskarassets.com/web2images/5483/2026/05/16/ezgifcom-animated-gif-maker-2026-05-16t160143048_1778927563.gif",
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:07.821869"
   },
   {
     "source": "Divya Marathi",
@@ -61,15 +69,7 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/news/laturs-paper-setter-professor-cracked-chemistry-questions-cbi-neet-exam-will-be-held-again-on-june-21-tet-will-be-held-on-june-28-dbp-137947417.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/05/16/orig_new-project-2026-05-15t065315855_1778894085.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:28.561787"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर इंस्टाग्रामवरील धमक्यांना कंटाळून तरुणानं टोकाचं पाऊल, सुसाईड नोटमधून धक्कादायक माहिती समोर",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-fed-up-with-threats-on-instagram-young-man-ends-his-life-in-latur-1423414",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.539047"
+    "timestamp": "2026-05-16T10:42:07.822572"
   },
   {
     "source": "ABP Majha",
@@ -77,47 +77,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/parbhani-bus-accident-three-killed-1-missing-in-two-horrific-accidents-husband-and-wife-returning-from-devdarshan-police-1423408",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.539143"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ना गॅस गोडाऊन, ना कुठला ओटीपी; निलंग्यात चक्क माळरानावर गॅस सिलेंडरची बोगस विक्री, अधिकाऱ्यांकडून व्हिडिओची दखल",
-    "link": "https://marathi.abplive.com/news/latur/latur-bogus-gas-cylinder-shortage-no-gas-godown-no-otp-fake-sale-of-gas-cylinders-on-farm-in-nilanga-officials-take-note-of-the-video-1422929",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.539245"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर NEET परीक्षा रद्द झाल्याने विद्यार्थ्यांमध्ये संताप, मानसिक आणि आर्थिक ताण वाढला",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-exam-cancelled-sparked-outrage-among-students-mental-financial-stress-maharashtra-news-1423788",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.538740"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये 3 हजारांच्या वर डिझेल देईनात, पेट्रोल पंपावर गर्दी; शेतकऱ्यांना नांगरटीला अडचणी, बीडमध्येही रांगा",
-    "link": "https://marathi.abplive.com/news/latur/diesel-shortage-above-rs-3-000-will-not-be-sold-in-latur-crowd-at-petrol-pump-farmers-difficulties-in-ploughing-diesel-petrol-shortage-1422915",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.539344"
-  },
-  {
-    "source": "Lokmat",
-    "title": "बीदर मार्गावर भीषण अपघात; नळगीरचा तरुण जागीच ठार - Marathi News | 24 Year Old Youth Killed in Head on Collision Between Car and Truck Near Udgir | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/24-year-old-youth-killed-in-head-on-collision-between-car-and-truck-near-udgir-a-a463-c1001/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.594544"
-  },
-  {
-    "source": "Lokmat",
-    "title": "NEET Paper Leak: लातुरात काेचिंग क्लासच्या सराव परीक्षेतील ४२ प्रश्न सारखे; पालकाची तक्रार - Marathi News | Complaint Filed in Latur After 42 Questions in Coaching Mock Test Allegedly Match NEET Paper | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/complaint-filed-in-latur-after-42-questions-in-coaching-mock-test-allegedly-match-neet-paper-a-a463-c1001/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.594260"
+    "timestamp": "2026-05-16T10:42:02.488655"
   },
   {
     "source": "Lokmat",
@@ -125,39 +85,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/drunk-and-drive-action-in-latur-udgir-court-fines-six-drivers-rs-5000-each-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.594686"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.539629"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर उष्माघाताचा कहर! लातूरमध्ये 9 महिन्याच्या बाळाचा मृत्यूचा संशय; मृतांचा आकडा दोनवर",
-    "link": "https://marathi.abplive.com/news/latur/latur-heatstroke-9-year-baby-death-heatwave-ausa-gondri-temperature-rise-maharashtra-marathi-news-1421645",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.539535"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22531/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-05-16T09:10:27.732914"
+    "timestamp": "2026-05-16T10:42:02.859760"
   },
   {
     "source": "Lokmat",
-    "title": "लातूर जिल्ह्यात वर्षभरात ८४९ अपघातात ३८४ जणांचा मृत्यू; हेल्मेट, सिटबेलचा वापर केला असता, तर अनेकांचे वाचले असते प्राण ! - Marathi News | If helmets and seatbelts had been used, many lives would have been saved! 384 people died in 849 accidents in Latur district in a year | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/if-helmets-and-seatbelts-had-been-used-many-lives-would-have-been-saved-384-people-died-in-849-accidents-in-latur-district-in-a-year-a-a320/",
+    "title": "नांदेड-बीदर महामार्गावर काळाचा घाला; कारच्या भीषण धडकेत तरुण जागीच ठार - Marathi News | Time flies on Nanded-Bidar highway; Youth killed on the spot in a horrific car collision | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/time-flies-on-nanded-bidar-highway-youth-killed-on-the-spot-in-a-horrific-car-collision-a-a463-c301/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.594336"
+    "timestamp": "2026-05-16T10:42:02.859478"
   },
   {
     "source": "ABP Majha",
@@ -165,15 +101,87 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-latur-retired-professor-house-searched-cbi-raid-latur-professor-mobile-and-documents-seized-1424084",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.538626"
+    "timestamp": "2026-05-16T10:42:02.488073"
   },
   {
     "source": "Lokmat",
-    "title": "\"तू स्वतः मर, नाहीतर कुटुंबाला मारू!\" प्रेयसीच्या नातेवाईकांच्या छळाने तरुणाने जीवनयात्रा संपली - Marathi News | \"Die yourself, or I'll kill your family!\" Tragic End in Latur: 25-Year-Old Ends Life After Constant Harassment from girl friend's family; WhatsApp Suicide Note Exposes Accused. | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/die-yourself-or-ill-kill-your-family-tragic-end-in-latur-25-year-old-ends-life-after-constant-harassment-from-girl-friends-family-whatsapp-suicide-note-exposes-accused-a-a320/",
+    "title": "लातूर जिल्ह्यात वर्षभरात ८४९ अपघातात ३८४ जणांचा मृत्यू; हेल्मेट, सिटबेलचा वापर केला असता, तर अनेकांचे वाचले असते प्राण ! - Marathi News | If helmets and seatbelts had been used, many lives would have been saved! 384 people died in 849 accidents in Latur district in a year | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/if-helmets-and-seatbelts-had-been-used-many-lives-would-have-been-saved-384-people-died-in-849-accidents-in-latur-district-in-a-year-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.594618"
+    "timestamp": "2026-05-16T10:42:02.859408"
+  },
+  {
+    "source": "Lokmat",
+    "title": "NEET Paper Leak: लातुरात काेचिंग क्लासच्या सराव परीक्षेतील ४२ प्रश्न सारखे; पालकाची तक्रार - Marathi News | Complaint Filed in Latur After 42 Questions in Coaching Mock Test Allegedly Match NEET Paper | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/complaint-filed-in-latur-after-42-questions-in-coaching-mock-test-allegedly-match-neet-paper-a-a463-c1001/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.859317"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर NEET परीक्षा रद्द झाल्याने विद्यार्थ्यांमध्ये संताप, मानसिक आणि आर्थिक ताण वाढला",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-exam-cancelled-sparked-outrage-among-students-mental-financial-stress-maharashtra-news-1423788",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.488187"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर उष्माघाताचा कहर! लातूरमध्ये 9 महिन्याच्या बाळाचा मृत्यूचा संशय; मृतांचा आकडा दोनवर",
+    "link": "https://marathi.abplive.com/news/latur/latur-heatstroke-9-year-baby-death-heatwave-ausa-gondri-temperature-rise-maharashtra-marathi-news-1421645",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.489039"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूर जिल्ह्यात उष्माघाताचा चौथा बळी; 75 वर्षीय शेतकऱ्याचा मृत्यू, अकोल्यात सर्वाधिक 47 अंश तापमान",
+    "link": "https://marathi.abplive.com/news/latur/summer-hit-sunstrok-fourth-victim-of-heatstroke-in-latur-district-highest-temperature-in-akola-at-47-degrees-1422052",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.488942"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर इंस्टाग्रामवरील धमक्यांना कंटाळून तरुणानं टोकाचं पाऊल, सुसाईड नोटमधून धक्कादायक माहिती समोर",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-fed-up-with-threats-on-instagram-young-man-ends-his-life-in-latur-1423414",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.488557"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर वेतनाचे पैसे वळवले स्वतःच्या बँक खात्यात; पोलीस अधीक्षक कार्यालयात 2 कोटी 38 लाखांवर डल्ला; PSIसह चौघांवर गुन्हा, लातूर पोलिस दलातील घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-crime-news-salary-money-transferred-to-own-bank-account-rs-2-crore-38-lakhs-stolen-in-superintendent-of-police-office-crime-against-four-including-psi-incident-in-latur-police-force-1423585",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.488293"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.489134"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ना गॅस गोडाऊन, ना कुठला ओटीपी; निलंग्यात चक्क माळरानावर गॅस सिलेंडरची बोगस विक्री, अधिकाऱ्यांकडून व्हिडिओची दखल",
+    "link": "https://marathi.abplive.com/news/latur/latur-bogus-gas-cylinder-shortage-no-gas-godown-no-otp-fake-sale-of-gas-cylinders-on-farm-in-nilanga-officials-take-note-of-the-video-1422929",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.488751"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22531/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-05-16T10:42:07.083822"
   },
   {
     "source": "ABP Majha",
@@ -181,7 +189,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-accident-news-horrific-accident-on-udgir-nanded-national-highway-two-wheeler-rider-dies-on-the-spot-after-being-struck-by-a-car-1423545",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.538952"
+    "timestamp": "2026-05-16T10:42:02.488408"
   },
   {
     "source": "Dainik Ekmat",
@@ -196,7 +204,15 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-05-16T09:10:28.305549"
+    "timestamp": "2026-05-16T10:42:07.550431"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये 3 हजारांच्या वर डिझेल देईनात, पेट्रोल पंपावर गर्दी; शेतकऱ्यांना नांगरटीला अडचणी, बीडमध्येही रांगा",
+    "link": "https://marathi.abplive.com/news/latur/diesel-shortage-above-rs-3-000-will-not-be-sold-in-latur-crowd-at-petrol-pump-farmers-difficulties-in-ploughing-diesel-petrol-shortage-1422915",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-16T10:42:02.488847"
   },
   {
     "source": "Lokmat",
@@ -204,15 +220,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/neet-paper-leak-case-retired-professor-p-v-kulkarni-detained-by-cbi-in-latur-links-found-with-pune-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.594138"
+    "timestamp": "2026-05-16T10:42:02.859186"
   },
   {
-    "source": "ABP Majha",
-    "title": "लातूर वेतनाचे पैसे वळवले स्वतःच्या बँक खात्यात; पोलीस अधीक्षक कार्यालयात 2 कोटी 38 लाखांवर डल्ला; PSIसह चौघांवर गुन्हा, लातूर पोलिस दलातील घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-crime-news-salary-money-transferred-to-own-bank-account-rs-2-crore-38-lakhs-stolen-in-superintendent-of-police-office-crime-against-four-including-psi-incident-in-latur-police-force-1423585",
+    "source": "Lokmat",
+    "title": "\"तू स्वतः मर, नाहीतर कुटुंबाला मारू!\" प्रेयसीच्या नातेवाईकांच्या छळाने तरुणाने जीवनयात्रा संपली - Marathi News | \"Die yourself, or I'll kill your family!\" Tragic End in Latur: 25-Year-Old Ends Life After Constant Harassment from girl friend's family; WhatsApp Suicide Note Exposes Accused. | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/die-yourself-or-ill-kill-your-family-tragic-end-in-latur-25-year-old-ends-life-after-constant-harassment-from-girl-friends-family-whatsapp-suicide-note-exposes-accused-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.538854"
+    "timestamp": "2026-05-16T10:42:02.859693"
   },
   {
     "source": "Lokmat",
@@ -220,22 +236,14 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-crime-news-238-crores-of-salary-stolen-case-registered-against-four-police-personnel-in-embezzlement-case-excitement-in-latur-police-force-a-a463-c301/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.594478"
+    "timestamp": "2026-05-16T10:42:02.859549"
   },
   {
     "source": "Lokmat",
-    "title": "नांदेड-बीदर महामार्गावर काळाचा घाला; कारच्या भीषण धडकेत तरुण जागीच ठार - Marathi News | Time flies on Nanded-Bidar highway; Youth killed on the spot in a horrific car collision | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/time-flies-on-nanded-bidar-highway-youth-killed-on-the-spot-in-a-horrific-car-collision-a-a463-c301/",
+    "title": "बीदर मार्गावर भीषण अपघात; नळगीरचा तरुण जागीच ठार - Marathi News | 24 Year Old Youth Killed in Head on Collision Between Car and Truck Near Udgir | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/24-year-old-youth-killed-in-head-on-collision-between-car-and-truck-near-udgir-a-a463-c1001/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.594405"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूर जिल्ह्यात उष्माघाताचा चौथा बळी; 75 वर्षीय शेतकऱ्याचा मृत्यू, अकोल्यात सर्वाधिक 47 अंश तापमान",
-    "link": "https://marathi.abplive.com/news/latur/summer-hit-sunstrok-fourth-victim-of-heatstroke-in-latur-district-highest-temperature-in-akola-at-47-degrees-1422052",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-16T09:10:23.539440"
+    "timestamp": "2026-05-16T10:42:02.859620"
   }
 ];
