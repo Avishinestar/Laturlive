@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-05-18/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-18T17:14:49.487655"
+    "timestamp": "2026-05-18T19:10:15.723364"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1149/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-05/page-1-2259557.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-18T17:14:50.106970"
+    "timestamp": "2026-05-18T19:10:16.451171"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1149/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-05/page-2-7566481.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-18T17:14:50.106979"
+    "timestamp": "2026-05-18T19:10:16.451178"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1149/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-05/page-3-1581718.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-18T17:14:50.106981"
+    "timestamp": "2026-05-18T19:10:16.451180"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1149/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-05/page-4-6392240.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-18T17:14:50.106983"
+    "timestamp": "2026-05-18T19:10:16.451182"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1149/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-05/page-5-7643219.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-18T17:14:50.106984"
+    "timestamp": "2026-05-18T19:10:16.451184"
   },
   {
     "source": "Latur Samachar",
@@ -53,31 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1149/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-05/page-6-9235194.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-18T17:14:50.106987"
-  },
-  {
-    "source": "Lokmat",
-    "title": "संतापजनक! कार-टमटम अपघातात ५ जण गंभीर जखमी; अर्धा तास उलटूनही रुग्णवाहिकेचा पत्ताच नाही...",
-    "link": "https://www.lokmat.com/latur/outrageous-5-people-seriously-injured-in-car-gig-accident-no-ambulance-found-even-after-half-an-hour-a-a461-c747/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-accident-1805_2026051705144.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.108154"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर इंस्टाग्रामवरील धमक्यांना कंटाळून तरुणानं टोकाचं पाऊल, सुसाईड नोटमधून धक्कादायक माहिती समोर",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-fed-up-with-threats-on-instagram-young-man-ends-his-life-in-latur-1423414",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066848"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर अपघाताच्या दोन भीषण घटनेत तीन ठार, 1 बेपत्ता; परभणीत देवदर्शनाहून परतणाऱ्या पती-पत्नीचा जागीच मृत्यू",
-    "link": "https://marathi.abplive.com/news/latur/parbhani-bus-accident-three-killed-1-missing-in-two-horrific-accidents-husband-and-wife-returning-from-devdarshan-police-1423408",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066925"
+    "timestamp": "2026-05-18T19:10:16.451186"
   },
   {
     "source": "Lokmat",
@@ -85,15 +61,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/illegal-storage-of-chemical-fertilizer-flying-squad-raids-renapur-a-a463-c607/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.108327"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर Latur Pattern : ज्ञानार्जनाच्या ध्येयापासून पेपरफुटीच्या अर्थकारणापर्यंत, 'लातूर पॅटर्न' चं बदललेलं रसायनशास्त्र",
-    "link": "https://marathi.abplive.com/news/latur/latur-pattern-news-following-the-neet-paper-leak-scandal-the-latur-pattern-is-being-widely-discussed-across-the-state-get-the-detailed-information-here-1424339",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066474"
+    "timestamp": "2026-05-18T19:10:14.153777"
   },
   {
     "source": "Lokmat",
@@ -101,79 +69,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/neet-paper-leak-case-retired-professor-p-v-kulkarni-detained-by-cbi-in-latur-links-found-with-pune-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.108441"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर मोठी बातमी! NEET पेपरफुटी, लातूरमधून सेवानिवृत्त प्राध्यापकाच्या घराची झडती; मोबाईल आणि कागदपत्रे ताब्यात",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-latur-retired-professor-house-searched-cbi-raid-latur-professor-mobile-and-documents-seized-1424084",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066554"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरलातूरमधील कोचिंग क्लासेसवाल्या शिवराज मोटेगावकरच्या अटकेची कारणे; सीबीआयच्या तपासात काय घडलं?",
-    "link": "https://marathi.abplive.com/news/latur/cbi-arrest-shivraj-motegaonkar-who-runs-coaching-classes-in-latur-reasons-of-arrest-latur-motegaonkar-neet-paper-leak-1424551",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066232"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर धक्कादायक! चेंडू काढण्यासाठी पाण्याच्या हौदाजवळ गेलेल्या दोन चिमुकल्यांचा बुडून मृत्यू, नागरिक संतप्त, लातूरमध्ये घडली घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-two-young-children-drown-after-going-near-water-tank-to-retrieve-ball-citizens-outraged-1424455",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066323"
-  },
-  {
-    "source": "Lokmat",
-    "title": "NEET Paper Leak: लातुरात काेचिंग क्लासच्या सराव परीक्षेतील ४२ प्रश्न सारखे; पालकाची तक्रार - Marathi News | Complaint Filed in Latur After 42 Questions in Coaching Mock Test Allegedly Match NEET Paper | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/complaint-filed-in-latur-after-42-questions-in-coaching-mock-test-allegedly-match-neet-paper-a-a463-c1001/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.108494"
-  },
-  {
-    "source": "Lokmat",
-    "title": "खेळता खेळता काळाचा घाला; पाण्याच्या हौदात बुडून दोन चिमुकल्यांचा दुर्दैवी मृत्यू - Marathi News | Time flies while playing; Two toddlers die tragically after drowning in a water tank | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/time-flies-while-playing-two-toddlers-die-tragically-after-drowning-in-a-water-tank-a-a463-c607/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.108275"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर सीबीआयचे ट्युशन संचालकाच्या कार्यालयात छापे, NEET पेपरफुटीप्रकरणात लातूरमध्ये पुन्हा झाडाझडती; कागदपत्रे जप्त",
-    "link": "https://marathi.abplive.com/news/latur/cbi-raids-tuition-director-office-neet-paper-leak-case-again-in-latur-police-documents-seized-neet-latur-connection-1424451",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066399"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22548/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-05-18T17:14:51.788656"
-  },
-  {
-    "source": "Lokmat",
-    "title": "नीटची '३ मे'ची परीक्षा, '१ मे' रोजीच प्रश्न हातात? सीबीआयकडून लातुरात क्लास चालकाची चौकशी - Marathi News | NEET Exam on May 3, but question paper on mobile on May 1? CBI interrogates private class driver in Latur for 9 hours | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/neet-exam-on-may-3-but-question-paper-on-mobile-on-may-1-cbi-interrogates-private-class-driver-in-latur-for-9-hours-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.108385"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर ना गॅस गोडाऊन, ना कुठला ओटीपी; निलंग्यात चक्क माळरानावर गॅस सिलेंडरची बोगस विक्री, अधिकाऱ्यांकडून व्हिडिओची दखल",
-    "link": "https://marathi.abplive.com/news/latur/latur-bogus-gas-cylinder-shortage-no-gas-godown-no-otp-fake-sale-of-gas-cylinders-on-farm-in-nilanga-officials-take-note-of-the-video-1422929",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066999"
+    "timestamp": "2026-05-18T19:10:14.153941"
   },
   {
     "source": "Lokmat",
@@ -181,15 +77,39 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/tirupatis-devdarshan-ends-bus-driver-dies-after-being-crushed-under-train-a-a463-c607/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.108220"
+    "timestamp": "2026-05-18T19:10:14.153616"
+  },
+  {
+    "source": "Lokmat",
+    "title": "संतापजनक! कार-टमटम अपघातात ५ जण गंभीर जखमी; अर्धा तास उलटूनही रुग्णवाहिकेचा पत्ताच नाही...",
+    "link": "https://www.lokmat.com/latur/outrageous-5-people-seriously-injured-in-car-gig-accident-no-ambulance-found-even-after-half-an-hour-a-a461-c747/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-accident-1805_2026051705144.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.153531"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर वेतनाचे पैसे वळवले स्वतःच्या बँक खात्यात; पोलीस अधीक्षक कार्यालयात 2 कोटी 38 लाखांवर डल्ला; PSIसह चौघांवर गुन्हा, लातूर पोलिस दलातील घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-crime-news-salary-money-transferred-to-own-bank-account-rs-2-crore-38-lakhs-stolen-in-superintendent-of-police-office-crime-against-four-including-psi-incident-in-latur-police-force-1423585",
+    "title": "लातूर NEET परीक्षा रद्द झाल्याने विद्यार्थ्यांमध्ये संताप, मानसिक आणि आर्थिक ताण वाढला",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-exam-cancelled-sparked-outrage-among-students-mental-financial-stress-maharashtra-news-1423788",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066705"
+    "timestamp": "2026-05-18T19:10:14.096293"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर इंस्टाग्रामवरील धमक्यांना कंटाळून तरुणानं टोकाचं पाऊल, सुसाईड नोटमधून धक्कादायक माहिती समोर",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-fed-up-with-threats-on-instagram-young-man-ends-his-life-in-latur-1423414",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.096574"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर Latur Pattern : ज्ञानार्जनाच्या ध्येयापासून पेपरफुटीच्या अर्थकारणापर्यंत, 'लातूर पॅटर्न' चं बदललेलं रसायनशास्त्र",
+    "link": "https://marathi.abplive.com/news/latur/latur-pattern-news-following-the-neet-paper-leak-scandal-the-latur-pattern-is-being-widely-discussed-across-the-state-get-the-detailed-information-here-1424339",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.096100"
   },
   {
     "source": "Dainik Ekmat",
@@ -204,15 +124,7 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-05-18T17:14:52.230363"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर NEET परीक्षा रद्द झाल्याने विद्यार्थ्यांमध्ये संताप, मानसिक आणि आर्थिक ताण वाढला",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-exam-cancelled-sparked-outrage-among-students-mental-financial-stress-maharashtra-news-1423788",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066629"
+    "timestamp": "2026-05-18T19:10:18.965885"
   },
   {
     "source": "ABP Majha",
@@ -220,7 +132,39 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-accident-news-horrific-accident-on-udgir-nanded-national-highway-two-wheeler-rider-dies-on-the-spot-after-being-struck-by-a-car-1423545",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.066777"
+    "timestamp": "2026-05-18T19:10:14.096482"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर धक्कादायक! चेंडू काढण्यासाठी पाण्याच्या हौदाजवळ गेलेल्या दोन चिमुकल्यांचा बुडून मृत्यू, नागरिक संतप्त, लातूरमध्ये घडली घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-two-young-children-drown-after-going-near-water-tank-to-retrieve-ball-citizens-outraged-1424455",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.095908"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोठी बातमी! NEET पेपरफुटी, लातूरमधून सेवानिवृत्त प्राध्यापकाच्या घराची झडती; मोबाईल आणि कागदपत्रे ताब्यात",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-latur-retired-professor-house-searched-cbi-raid-latur-professor-mobile-and-documents-seized-1424084",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.096196"
+  },
+  {
+    "source": "Lokmat",
+    "title": "खेळता खेळता काळाचा घाला; पाण्याच्या हौदात बुडून दोन चिमुकल्यांचा दुर्दैवी मृत्यू - Marathi News | Time flies while playing; Two toddlers die tragically after drowning in a water tank | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/time-flies-while-playing-two-toddlers-die-tragically-after-drowning-in-a-water-tank-a-a463-c607/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.153691"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूरमधील कोचिंग क्लासेसवाल्या शिवराज मोटेगावकरच्या अटकेची कारणे; सीबीआयच्या तपासात काय घडलं?",
+    "link": "https://marathi.abplive.com/news/latur/cbi-arrest-shivraj-motegaonkar-who-runs-coaching-classes-in-latur-reasons-of-arrest-latur-motegaonkar-neet-paper-leak-1424551",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.095794"
   },
   {
     "source": "Lokmat",
@@ -228,6 +172,62 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/if-helmets-and-seatbelts-had-been-used-many-lives-would-have-been-saved-384-people-died-in-849-accidents-in-latur-district-in-a-year-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-18T17:14:48.108552"
+    "timestamp": "2026-05-18T19:10:14.154101"
+  },
+  {
+    "source": "Lokmat",
+    "title": "नीटची '३ मे'ची परीक्षा, '१ मे' रोजीच प्रश्न हातात? सीबीआयकडून लातुरात क्लास चालकाची चौकशी - Marathi News | NEET Exam on May 3, but question paper on mobile on May 1? CBI interrogates private class driver in Latur for 9 hours | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/neet-exam-on-may-3-but-question-paper-on-mobile-on-may-1-cbi-interrogates-private-class-driver-in-latur-for-9-hours-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.153862"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22548/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-05-18T19:10:18.561359"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर ना गॅस गोडाऊन, ना कुठला ओटीपी; निलंग्यात चक्क माळरानावर गॅस सिलेंडरची बोगस विक्री, अधिकाऱ्यांकडून व्हिडिओची दखल",
+    "link": "https://marathi.abplive.com/news/latur/latur-bogus-gas-cylinder-shortage-no-gas-godown-no-otp-fake-sale-of-gas-cylinders-on-farm-in-nilanga-officials-take-note-of-the-video-1422929",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.096818"
+  },
+  {
+    "source": "Lokmat",
+    "title": "NEET Paper Leak: लातुरात काेचिंग क्लासच्या सराव परीक्षेतील ४२ प्रश्न सारखे; पालकाची तक्रार - Marathi News | Complaint Filed in Latur After 42 Questions in Coaching Mock Test Allegedly Match NEET Paper | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/complaint-filed-in-latur-after-42-questions-in-coaching-mock-test-allegedly-match-neet-paper-a-a463-c1001/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.154020"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर सीबीआयचे ट्युशन संचालकाच्या कार्यालयात छापे, NEET पेपरफुटीप्रकरणात लातूरमध्ये पुन्हा झाडाझडती; कागदपत्रे जप्त",
+    "link": "https://marathi.abplive.com/news/latur/cbi-raids-tuition-director-office-neet-paper-leak-case-again-in-latur-police-documents-seized-neet-latur-connection-1424451",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.096005"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर वेतनाचे पैसे वळवले स्वतःच्या बँक खात्यात; पोलीस अधीक्षक कार्यालयात 2 कोटी 38 लाखांवर डल्ला; PSIसह चौघांवर गुन्हा, लातूर पोलिस दलातील घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-crime-news-salary-money-transferred-to-own-bank-account-rs-2-crore-38-lakhs-stolen-in-superintendent-of-police-office-crime-against-four-including-psi-incident-in-latur-police-force-1423585",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.096389"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर अपघाताच्या दोन भीषण घटनेत तीन ठार, 1 बेपत्ता; परभणीत देवदर्शनाहून परतणाऱ्या पती-पत्नीचा जागीच मृत्यू",
+    "link": "https://marathi.abplive.com/news/latur/parbhani-bus-accident-three-killed-1-missing-in-two-horrific-accidents-husband-and-wife-returning-from-devdarshan-police-1423408",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-18T19:10:14.096671"
   }
 ];
