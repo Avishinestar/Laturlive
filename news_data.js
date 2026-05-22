@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-05-22/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-22T21:56:25.287498"
+    "timestamp": "2026-05-22T22:50:59.446287"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1157/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-05/page-1-3286174.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-22T21:56:25.941433"
+    "timestamp": "2026-05-22T22:51:00.087244"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1157/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-05/page-2-3548386.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-22T21:56:25.941444"
+    "timestamp": "2026-05-22T22:51:00.087255"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1157/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-05/page-3-9781971.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-22T21:56:25.941448"
+    "timestamp": "2026-05-22T22:51:00.087257"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1157/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-05/page-4-8901503.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-22T21:56:25.941450"
+    "timestamp": "2026-05-22T22:51:00.087259"
   },
   {
     "source": "Divya Marathi",
@@ -45,39 +45,7 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/aurangabad/osmanabad/news/dr-shirure-who-provided-a-house-for-paper-breaking-classes-is-a-cbi-witness-latur-pediatrician-dr-shirure-was-taken-into-custody-for-questioning-in-the-neet-case-dbp-137997163.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/05/22/orig_new-project-2026-05-22t065252940_1779413042.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:28.956671"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमधील कोचिंग क्लासेसवाल्या शिवराज मोटेगावकरच्या अटकेची कारणे; सीबीआयच्या तपासात काय घडलं?",
-    "link": "https://marathi.abplive.com/news/latur/cbi-arrest-shivraj-motegaonkar-who-runs-coaching-classes-in-latur-reasons-of-arrest-latur-motegaonkar-neet-paper-leak-1424551",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:23.748772"
-  },
-  {
-    "source": "Lokmat",
-    "title": "खोपेगाव ग्रामपंचायत हद्दीतील बांधकाम प्रकरणी शिवराज मोटेगावकरला लातूर जिल्हाधिकाऱ्यांची नोटीस - Marathi News | Latur District Magistrate issues notice to Shivraj Motegaonkar in connection with construction in Khopegaon Gram Panchayat area | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-district-magistrate-issues-notice-to-shivraj-motegaonkar-in-connection-with-construction-in-khopegaon-gram-panchayat-area-a-a463-c747/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:24.018995"
-  },
-  {
-    "source": "Lokmat",
-    "title": "डॉ. मनोज शिरूरेला अटक; लातुरात सीबीआयची झाडाझडती; सर्व आरोपींना आणले पुण्यात - Marathi News | NEET Paper Leak: Dr. Manoj Shirure arrested; CBI raids Latur; All accused brought to Pune | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/neet-paper-leak-dr-manoj-shirure-arrested-cbi-raids-latur-all-accused-brought-to-pune-a-a607/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:24.019266"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
-    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
-    "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/22/441ea83422c908381781c3faa6db6c441779467878581989_original.jpg?impolicy=abp_cdn&imwidth=470",
-    "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:23.748495"
+    "timestamp": "2026-05-22T22:51:02.508560"
   },
   {
     "source": "Lokmat",
@@ -85,7 +53,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/four-doctors-from-latur-under-investigation-in-neet-paper-leak-case-a-a463-c747/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:24.018831"
+    "timestamp": "2026-05-22T22:50:57.988625"
   },
   {
     "source": "ABP Majha",
@@ -93,23 +61,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-news-two-young-children-drown-after-going-near-water-tank-to-retrieve-ball-citizens-outraged-1424455",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:23.748885"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22589/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-05-22T21:56:28.287725"
-  },
-  {
-    "source": "Lokmat",
-    "title": "विद्यार्थ्यांच्या भविष्यात अंधार, मोटेगावकरने बांधला महाल - Marathi News | NEET Paper Leak Investigation 2026: Darkness in the future of students, Shivraj Motegaonkar built a palace | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/neet-paper-leak-investigation-2026-darkness-in-the-future-of-students-shivraj-motegaonkar-built-a-palace-a-a607/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:24.019359"
+    "timestamp": "2026-05-22T22:50:57.686164"
   },
   {
     "source": "Dainik Ekmat",
@@ -124,7 +76,7 @@ window.newsData = [
       "full_width": 2008.0000000000005
     },
     "time_str": "Short News",
-    "timestamp": "2026-05-22T21:56:28.756615"
+    "timestamp": "2026-05-22T22:51:02.343255"
   },
   {
     "source": "Lokmat",
@@ -132,15 +84,39 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/dialysis-treatment-but-vishwajit-still-has-the-dream-of-becoming-a-doctor-in-his-eyes-three-years-of-painful-struggle-a-a463-c747/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:24.019089"
+    "timestamp": "2026-05-22T22:50:57.988770"
   },
   {
     "source": "Lokmat",
-    "title": "कलाकेंद्राबाहेर तलवारीचे पाते चमकले अन् सुरक्षारक्षकाने ११२ वर फोन केला; ६ दरोडेखोर जेरबंद - Marathi News | A sword blade flashed outside the Radhika Kalakendra and the security guard called 112 for police; 6 robbers arrested | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/a-sword-blade-flashed-outside-the-radhika-kalakendra-and-the-security-guard-called-112-for-police-6-robbers-arrested-a-a320/",
+    "title": "विद्यार्थ्यांच्या भविष्यात अंधार, मोटेगावकरने बांधला महाल - Marathi News | NEET Paper Leak Investigation 2026: Darkness in the future of students, Shivraj Motegaonkar built a palace | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/neet-paper-leak-investigation-2026-darkness-in-the-future-of-students-shivraj-motegaonkar-built-a-palace-a-a607/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:24.019448"
+    "timestamp": "2026-05-22T22:50:57.988898"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
+    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
+    "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/22/441ea83422c908381781c3faa6db6c441779467878581989_original.jpg?impolicy=abp_cdn&imwidth=470",
+    "time_str": "Recent",
+    "timestamp": "2026-05-22T22:50:57.685977"
+  },
+  {
+    "source": "Lokmat",
+    "title": "डॉ. मनोज शिरूरेला अटक; लातुरात सीबीआयची झाडाझडती; सर्व आरोपींना आणले पुण्यात - Marathi News | NEET Paper Leak: Dr. Manoj Shirure arrested; CBI raids Latur; All accused brought to Pune | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/neet-paper-leak-dr-manoj-shirure-arrested-cbi-raids-latur-all-accused-brought-to-pune-a-a607/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-22T22:50:57.988854"
+  },
+  {
+    "source": "Lokmat",
+    "title": "खोपेगाव ग्रामपंचायत हद्दीतील बांधकाम प्रकरणी शिवराज मोटेगावकरला लातूर जिल्हाधिकाऱ्यांची नोटीस - Marathi News | Latur District Magistrate issues notice to Shivraj Motegaonkar in connection with construction in Khopegaon Gram Panchayat area | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-district-magistrate-issues-notice-to-shivraj-motegaonkar-in-connection-with-construction-in-khopegaon-gram-panchayat-area-a-a463-c747/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-22T22:50:57.988725"
   },
   {
     "source": "Lokmat",
@@ -148,7 +124,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-crime-two-dutiful-female-supervisors-were-hit-by-a-car-beeds-daughter-died-on-the-spot-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:24.019179"
+    "timestamp": "2026-05-22T22:50:57.988813"
+  },
+  {
+    "source": "Lokmat",
+    "title": "कलाकेंद्राबाहेर तलवारीचे पाते चमकले अन् सुरक्षारक्षकाने ११२ वर फोन केला; ६ दरोडेखोर जेरबंद - Marathi News | A sword blade flashed outside the Radhika Kalakendra and the security guard called 112 for police; 6 robbers arrested | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/a-sword-blade-flashed-outside-the-radhika-kalakendra-and-the-security-guard-called-112-for-police-6-robbers-arrested-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-22T22:50:57.988939"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22589/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-05-22T22:51:01.894476"
   },
   {
     "source": "ABP Majha",
@@ -156,6 +148,14 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-will-the-rcc-reopen-students-in-limbo-parents-face-financial-and-mental-crisis-1424718",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-22T21:56:23.748654"
+    "timestamp": "2026-05-22T22:50:57.686052"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमधील कोचिंग क्लासेसवाल्या शिवराज मोटेगावकरच्या अटकेची कारणे; सीबीआयच्या तपासात काय घडलं?",
+    "link": "https://marathi.abplive.com/news/latur/cbi-arrest-shivraj-motegaonkar-who-runs-coaching-classes-in-latur-reasons-of-arrest-latur-motegaonkar-neet-paper-leak-1424551",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-22T22:50:57.686109"
   }
 ];
