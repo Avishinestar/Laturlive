@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-05-23/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-23T20:54:32.883960"
+    "timestamp": "2026-05-23T21:43:14.848209"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1159/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-05/page-1-6331358.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-23T20:54:33.558316"
+    "timestamp": "2026-05-23T21:43:15.560967"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1159/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-05/page-2-7140084.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-23T20:54:33.558323"
+    "timestamp": "2026-05-23T21:43:15.560977"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1159/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-05/page-3-1919402.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-23T20:54:33.558326"
+    "timestamp": "2026-05-23T21:43:15.560980"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1159/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-05/page-4-3922863.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-23T20:54:33.558328"
+    "timestamp": "2026-05-23T21:43:15.560982"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1159/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-05/page-5-6526033.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-23T20:54:33.558330"
+    "timestamp": "2026-05-23T21:43:15.560984"
   },
   {
     "source": "Latur Samachar",
@@ -53,15 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1159/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-05/page-6-2211375.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-23T20:54:33.558332"
-  },
-  {
-    "source": "Lokmat",
-    "title": "डॉ. मनोज शिरूरेला अटक; लातुरात सीबीआयची झाडाझडती; सर्व आरोपींना आणले पुण्यात - Marathi News | NEET Paper Leak: Dr. Manoj Shirure arrested; CBI raids Latur; All accused brought to Pune | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/neet-paper-leak-dr-manoj-shirure-arrested-cbi-raids-latur-all-accused-brought-to-pune-a-a607/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.541861"
+    "timestamp": "2026-05-23T21:43:15.560985"
   },
   {
     "source": "Lokmat",
@@ -69,15 +61,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/four-doctors-from-latur-under-investigation-in-neet-paper-leak-case-a-a463-c747/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.541488"
-  },
-  {
-    "source": "Lokmat",
-    "title": "खोपेगाव ग्रामपंचायत हद्दीतील बांधकाम प्रकरणी शिवराज मोटेगावकरला लातूर जिल्हाधिकाऱ्यांची नोटीस - Marathi News | Latur District Magistrate issues notice to Shivraj Motegaonkar in connection with construction in Khopegaon Gram Panchayat area | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-district-magistrate-issues-notice-to-shivraj-motegaonkar-in-connection-with-construction-in-khopegaon-gram-panchayat-area-a-a463-c747/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.541578"
+    "timestamp": "2026-05-23T21:43:13.425233"
   },
   {
     "source": "Lokmat",
@@ -85,7 +69,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/dialysis-treatment-but-vishwajit-still-has-the-dream-of-becoming-a-doctor-in-his-eyes-three-years-of-painful-struggle-a-a463-c747/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.541675"
+    "timestamp": "2026-05-23T21:43:13.425384"
   },
   {
     "source": "ABP Majha",
@@ -93,15 +77,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/cbi-arrest-shivraj-motegaonkar-who-runs-coaching-classes-in-latur-reasons-of-arrest-latur-motegaonkar-neet-paper-leak-1424551",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.226255"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur Crime: दोन कर्तव्यदक्ष महिला पर्यवेक्षिकांना कारने उडवले; बीडच्या लेकीचा जागीच मृत्यू - Marathi News | Latur Crime: Two dutiful female supervisors were hit by a car; Beed's daughter died on the spot | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-crime-two-dutiful-female-supervisors-were-hit-by-a-car-beeds-daughter-died-on-the-spot-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.541765"
+    "timestamp": "2026-05-23T21:43:13.175643"
   },
   {
     "source": "Lokmat",
@@ -109,39 +85,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/ahmedpur-crime-2-seriously-injured-as-hotel-owner-attacks-customer-with-sickle-and-iron-rod-over-water-bottle-price-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.541309"
+    "timestamp": "2026-05-23T21:43:13.425088"
   },
   {
-    "source": "Lokmat",
-    "title": "पेपरफूट प्रकरणात चार डॉक्टर अडकले चौकशीच्या फेऱ्यात; पी. व्ही. कुलकर्णीशी कनेक्शन असल्याचा संशय - Marathi News | Four doctors under investigation in Paperfoot case; Suspected of connection with P. V. Kulkarni | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/four-doctors-under-investigation-in-paperfoot-case-suspected-of-connection-with-p-v-kulkarni-a-a607/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.541400"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर धक्कादायक! चेंडू काढण्यासाठी पाण्याच्या हौदाजवळ गेलेल्या दोन चिमुकल्यांचा बुडून मृत्यू, नागरिक संतप्त, लातूरमध्ये घडली घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-two-young-children-drown-after-going-near-water-tank-to-retrieve-ball-citizens-outraged-1424455",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.226369"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर NEET पेपरफुटी प्रकरण! RCC पुन्हा सुरु होणार का? विद्यार्थी संभ्रमात, पालकांसमोरही आर्थिक आणि मानसिक संकट",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-will-the-rcc-reopen-students-in-limbo-parents-face-financial-and-mental-crisis-1424718",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.226135"
-  },
-  {
-    "source": "Lokmat",
-    "title": "अजब कारभार! तहसीलमधून ७.५ लाखांच्या दंडाची जप्त JCB गायब, महिनाभराने पोलिसांत गुन्हा",
-    "link": "https://www.lokmat.com/latur/latur-crime-seized-jcb-worth-rs-75-lakh-fine-goes-missing-from-dewani-tehsil-fir-filed-after-one-month-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/jcb-dewani-tahasil-latur-fea_2026051708749.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.541205"
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22597/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-05-23T21:43:17.966829"
   },
   {
     "source": "Dainik Ekmat",
@@ -156,7 +108,31 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-05-23T20:54:36.240237"
+    "timestamp": "2026-05-23T21:43:18.424015"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur Crime: दोन कर्तव्यदक्ष महिला पर्यवेक्षिकांना कारने उडवले; बीडच्या लेकीचा जागीच मृत्यू - Marathi News | Latur Crime: Two dutiful female supervisors were hit by a car; Beed's daughter died on the spot | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-crime-two-dutiful-female-supervisors-were-hit-by-a-car-beeds-daughter-died-on-the-spot-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-23T21:43:13.425458"
+  },
+  {
+    "source": "Lokmat",
+    "title": "खोपेगाव ग्रामपंचायत हद्दीतील बांधकाम प्रकरणी शिवराज मोटेगावकरला लातूर जिल्हाधिकाऱ्यांची नोटीस - Marathi News | Latur District Magistrate issues notice to Shivraj Motegaonkar in connection with construction in Khopegaon Gram Panchayat area | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-district-magistrate-issues-notice-to-shivraj-motegaonkar-in-connection-with-construction-in-khopegaon-gram-panchayat-area-a-a463-c747/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-23T21:43:13.425309"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर NEET पेपरफुटी प्रकरण! RCC पुन्हा सुरु होणार का? विद्यार्थी संभ्रमात, पालकांसमोरही आर्थिक आणि मानसिक संकट",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-will-the-rcc-reopen-students-in-limbo-parents-face-financial-and-mental-crisis-1424718",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-23T21:43:13.175527"
   },
   {
     "source": "ABP Majha",
@@ -164,14 +140,38 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
     "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/22/441ea83422c908381781c3faa6db6c441779467878581989_original.jpg?impolicy=abp_cdn&imwidth=470",
     "time_str": "Recent",
-    "timestamp": "2026-05-23T20:54:31.225982"
+    "timestamp": "2026-05-23T21:43:13.175398"
   },
   {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22597/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-05-23T20:54:35.856258"
+    "source": "Lokmat",
+    "title": "अजब कारभार! तहसीलमधून ७.५ लाखांच्या दंडाची जप्त JCB गायब, महिनाभराने पोलिसांत गुन्हा",
+    "link": "https://www.lokmat.com/latur/latur-crime-seized-jcb-worth-rs-75-lakh-fine-goes-missing-from-dewani-tehsil-fir-filed-after-one-month-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/jcb-dewani-tahasil-latur-fea_2026051708749.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-05-23T21:43:13.424997"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पेपरफूट प्रकरणात चार डॉक्टर अडकले चौकशीच्या फेऱ्यात; पी. व्ही. कुलकर्णीशी कनेक्शन असल्याचा संशय - Marathi News | Four doctors under investigation in Paperfoot case; Suspected of connection with P. V. Kulkarni | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/four-doctors-under-investigation-in-paperfoot-case-suspected-of-connection-with-p-v-kulkarni-a-a607/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-23T21:43:13.425161"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर धक्कादायक! चेंडू काढण्यासाठी पाण्याच्या हौदाजवळ गेलेल्या दोन चिमुकल्यांचा बुडून मृत्यू, नागरिक संतप्त, लातूरमध्ये घडली घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-two-young-children-drown-after-going-near-water-tank-to-retrieve-ball-citizens-outraged-1424455",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-23T21:43:13.175743"
+  },
+  {
+    "source": "Lokmat",
+    "title": "डॉ. मनोज शिरूरेला अटक; लातुरात सीबीआयची झाडाझडती; सर्व आरोपींना आणले पुण्यात - Marathi News | NEET Paper Leak: Dr. Manoj Shirure arrested; CBI raids Latur; All accused brought to Pune | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/neet-paper-leak-dr-manoj-shirure-arrested-cbi-raids-latur-all-accused-brought-to-pune-a-a607/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-23T21:43:13.425527"
   }
 ];
