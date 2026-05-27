@@ -5,95 +5,55 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-05-27/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-27T06:45:20.357903"
+    "timestamp": "2026-05-27T10:44:51.637376"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 1 (27-05-2026)",
-    "link": "https://www.latursamachar.com/view/1163/latur-main/1",
-    "image": "https://www.latursamachar.com/media/2026-05/page-1-9576437.jpg",
+    "link": "https://www.latursamachar.com/view/1165/latur-main/1",
+    "image": "https://www.latursamachar.com/media/2026-05/page-1-2055583.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-27T06:45:21.885428"
+    "timestamp": "2026-05-27T10:44:52.322145"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 2 (27-05-2026)",
-    "link": "https://www.latursamachar.com/view/1163/latur-main/2",
-    "image": "https://www.latursamachar.com/media/2026-05/page-2-2178534.jpg",
+    "link": "https://www.latursamachar.com/view/1165/latur-main/2",
+    "image": "https://www.latursamachar.com/media/2026-05/page-2-2867716.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-27T06:45:21.885437"
+    "timestamp": "2026-05-27T10:44:52.322154"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 3 (27-05-2026)",
-    "link": "https://www.latursamachar.com/view/1163/latur-main/3",
-    "image": "https://www.latursamachar.com/media/2026-05/page-3-2738773.jpg",
+    "link": "https://www.latursamachar.com/view/1165/latur-main/3",
+    "image": "https://www.latursamachar.com/media/2026-05/page-3-4567862.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-27T06:45:21.885439"
+    "timestamp": "2026-05-27T10:44:52.322159"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 4 (27-05-2026)",
-    "link": "https://www.latursamachar.com/view/1163/latur-main/4",
-    "image": "https://www.latursamachar.com/media/2026-05/page-4-3108989.jpg",
+    "link": "https://www.latursamachar.com/view/1165/latur-main/4",
+    "image": "https://www.latursamachar.com/media/2026-05/page-4-8883439.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-27T06:45:21.885441"
+    "timestamp": "2026-05-27T10:44:52.322162"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 5 (27-05-2026)",
-    "link": "https://www.latursamachar.com/view/1163/latur-main/5",
-    "image": "https://www.latursamachar.com/media/2026-05/page-5-5438881.jpg",
+    "link": "https://www.latursamachar.com/view/1165/latur-main/5",
+    "image": "https://www.latursamachar.com/media/2026-05/page-5-7186509.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-27T06:45:21.885442"
+    "timestamp": "2026-05-27T10:44:52.322164"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 6 (27-05-2026)",
-    "link": "https://www.latursamachar.com/view/1163/latur-main/6",
-    "image": "https://www.latursamachar.com/media/2026-05/page-6-6733820.jpg",
+    "link": "https://www.latursamachar.com/view/1165/latur-main/6",
+    "image": "https://www.latursamachar.com/media/2026-05/page-6-8122721.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-05-27T06:45:21.885444"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरNEET पेपरफुटी, लातूर पॅटर्न, मोटेगावकर; अमित देशमुखांची पहिली प्रतिक्रिया, म्हणाले, मी टिपण्णी करावी असे...",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-amit-deshmukh-first-reaction-latur-pattern-shivraj-motegaonkar-neet-paper-leak-latur-connection-1425449",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.666451"
-  },
-  {
-    "source": "Lokmat",
-    "title": "NEET Paper Leak : नीट प्रकरणात ट्विस्ट; परीक्षेनंतर नाेट्स, कागदपत्रे रद्दीत विकली - Marathi News | NEET Paper Leak: Twist in NEET case; NEETs, papers sold as scrap after exam | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/neet-paper-leak-twist-in-neet-case-neets-papers-sold-as-scrap-after-exam-a-a463-c1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.955080"
-  },
-  {
-    "source": "Lokmat",
-    "title": "बाप-लेकाची शेवटची सफर; पेट्रोल संपल्याने थांबलेल्या दुचाकीला भरधाव कारची धडक!",
-    "link": "https://www.lokmat.com/latur/father-and-daughters-last-journey-a-speeding-car-hits-a-two-wheeler-that-had-stopped-due-to-running-out-of-petrol-a-a463-c1013/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-accident-2_2026051710664.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.954786"
-  },
-  {
-    "source": "Lokmat",
-    "title": "शेतकऱ्याच्या मुलीला व्हायचे होते डॉक्टर; नीट रद्द झाल्याच्या तणावातून गळफास - Marathi News | Farmer's daughter wanted to become a doctor; hanged herself due to stress of NEET cancellation | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/farmers-daughter-wanted-to-become-a-doctor-hanged-herself-due-to-stress-of-neet-cancellation-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.954918"
-  },
-  {
-    "source": "Lokmat",
-    "title": "NEET Paper Leak : ‘सीबीआय’ पथक लातुरात ठाण मांडून! आरसीसी क्लासमध्ये पुन्हा पडताळणी - Marathi News | NEET Paper Leak: ‘CBI’ team sets up camp in Latur! Re-verification in RCC class | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/neet-paper-leak-cbi-team-sets-up-camp-in-latur-re-verification-in-rcc-class-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.955254"
+    "timestamp": "2026-05-27T10:44:52.322166"
   },
   {
     "source": "ABP Majha",
@@ -101,23 +61,39 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-cbi-team-enters-motegaonkar-coaching-classes-interrogation-of-relatives-underway-1425443",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.666499"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22621/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-05-27T06:45:23.545693"
+    "timestamp": "2026-05-27T10:44:50.042885"
   },
   {
     "source": "Lokmat",
-    "title": "सीबीआय पुन्हा लातुरात आरसीसीमध्ये धडकले; बाराव्या दिवशीही पथक शहरात ठाण मांडून - Marathi News | CBI again raids RCC in Latur; Team continues to be present in the city for the twelfth day | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/cbi-again-raids-rcc-in-latur-team-continues-to-be-present-in-the-city-for-the-twelfth-day-a-a1013/",
+    "title": "लातुरात दररोज ६० जणांना श्वानदंश! साडेचार महिन्यांत ९७८९ जणांना मोकाट कुत्र्यांचा चावा - Marathi News | 60 people are bitten by dogs every day in Latur! 9789 people bitten by stray dogs in four and a half months | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/60-people-are-bitten-by-dogs-every-day-in-latur-9789-people-bitten-by-stray-dogs-in-four-and-a-half-months-a-a1013/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.954855"
+    "timestamp": "2026-05-27T10:44:50.096574"
+  },
+  {
+    "source": "Lokmat",
+    "title": "शेतकऱ्याच्या मुलीला व्हायचे होते डॉक्टर; नीट रद्द झाल्याच्या तणावातून गळफास - Marathi News | Farmer's daughter wanted to become a doctor; hanged herself due to stress of NEET cancellation | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/farmers-daughter-wanted-to-become-a-doctor-hanged-herself-due-to-stress-of-neet-cancellation-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-27T10:44:50.096291"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-27T10:44:50.042988"
+  },
+  {
+    "source": "Lokmat",
+    "title": "'३ वर्षांची जेल होईल, लक्षात ठेवा!'; जनगणनेचे काम डावलणाऱ्यांना तहसीलदारांची थेट नोटिस - Marathi News | 'You will be jailed for 3 years, remember!'; Latur Administration: Shirur Anantpal Tehsildar Issues Notices to 4 School Teachers for Defying Census Duties | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/you-will-be-jailed-for-3-years-remember-latur-administration-shirur-anantpal-tehsildar-issues-notices-to-4-school-teachers-for-defying-census-duties-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-27T10:44:50.096437"
   },
   {
     "source": "ABP Majha",
@@ -125,7 +101,15 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-will-the-rcc-reopen-students-in-limbo-parents-face-financial-and-mental-crisis-1424718",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.666738"
+    "timestamp": "2026-05-27T10:44:50.043186"
+  },
+  {
+    "source": "Lokmat",
+    "title": "बाप-लेकाची शेवटची सफर; पेट्रोल संपल्याने थांबलेल्या दुचाकीला भरधाव कारची धडक! - Marathi News | Father and daughter's last journey; A speeding car hits a two-wheeler that had stopped due to running out of petrol! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/father-and-daughters-last-journey-a-speeding-car-hits-a-two-wheeler-that-had-stopped-due-to-running-out-of-petrol-a-a463-c1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-27T10:44:50.096082"
   },
   {
     "source": "ABP Majha",
@@ -133,15 +117,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/major-update-in-neet-paper-leak-case-prominent-doctor-from-latur-also-on-cbi-radar-inquiry-underway-1425456",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.666389"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur: बैलजोडी खरेदी करून गावी जाणाऱ्या शेतकऱ्यांवरच दाखल केला गुन्हा - Marathi News | Latur: A case was registered against farmers who bought a pair of bullocks and went to their village. | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-a-case-was-registered-against-farmers-who-bought-a-pair-of-bullocks-and-went-to-their-village-a-a463-c301/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.954974"
+    "timestamp": "2026-05-27T10:44:50.042751"
   },
   {
     "source": "Dainik Ekmat",
@@ -156,7 +132,15 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-05-27T06:45:23.882198"
+    "timestamp": "2026-05-27T10:44:54.815083"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22621/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-05-27T10:44:54.420142"
   },
   {
     "source": "ABP Majha",
@@ -164,7 +148,15 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.666654"
+    "timestamp": "2026-05-27T10:44:50.043084"
+  },
+  {
+    "source": "Lokmat",
+    "title": "सीबीआय पुन्हा लातुरात आरसीसीमध्ये धडकले; बाराव्या दिवशीही पथक शहरात ठाण मांडून - Marathi News | CBI again raids RCC in Latur; Team continues to be present in the city for the twelfth day | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/cbi-again-raids-rcc-in-latur-team-continues-to-be-present-in-the-city-for-the-twelfth-day-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-27T10:44:50.096207"
   },
   {
     "source": "Lokmat",
@@ -172,38 +164,38 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-crime-gang-selling-fake-gold-biscuits-arrested-in-latur-goods-worth-rs-5-lakh-seized-8-crimes-exposed-a-a463-c1013/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.955202"
-  },
-  {
-    "source": "Lokmat",
-    "title": "'३ वर्षांची जेल होईल, लक्षात ठेवा!'; जनगणनेचे काम डावलणाऱ्यांना तहसीलदारांची थेट नोटिस - Marathi News | 'You will be jailed for 3 years, remember!'; Latur Administration: Shirur Anantpal Tehsildar Issues Notices to 4 School Teachers for Defying Census Duties | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/you-will-be-jailed-for-3-years-remember-latur-administration-shirur-anantpal-tehsildar-issues-notices-to-4-school-teachers-for-defying-census-duties-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.955029"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातुरात दररोज ६० जणांना श्वानदंश! साडेचार महिन्यांत ९७८९ जणांना मोकाट कुत्र्यांचा चावा - Marathi News | 60 people are bitten by dogs every day in Latur! 9789 people bitten by stray dogs in four and a half months | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/60-people-are-bitten-by-dogs-every-day-in-latur-9789-people-bitten-by-stray-dogs-in-four-and-a-half-months-a-a1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.955138"
+    "timestamp": "2026-05-27T10:44:50.096645"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "title": "लातूरNEET पेपरफुटी, लातूर पॅटर्न, मोटेगावकर; अमित देशमुखांची पहिली प्रतिक्रिया, म्हणाले, मी टिपण्णी करावी असे...",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-amit-deshmukh-first-reaction-latur-pattern-shivraj-motegaonkar-neet-paper-leak-latur-connection-1425449",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.666578"
+    "timestamp": "2026-05-27T10:44:50.042824"
   },
   {
     "source": "Lokmat",
-    "title": "अजब कारभार! तहसीलमधून ७.५ लाखांच्या दंडाची जप्त JCB गायब, महिनाभराने पोलिसांत गुन्हा - Marathi News | Latur Crime: Seized JCB worth Rs 7.5 Lakh Fine Goes Missing From Dewani Tehsil; FIR Filed After One Month | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-crime-seized-jcb-worth-rs-75-lakh-fine-goes-missing-from-dewani-tehsil-fir-filed-after-one-month-a-a320/",
+    "title": "NEET Paper Leak : नीट प्रकरणात ट्विस्ट; परीक्षेनंतर नाेट्स, कागदपत्रे रद्दीत विकली - Marathi News | NEET Paper Leak: Twist in NEET case; NEETs, papers sold as scrap after exam | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/neet-paper-leak-twist-in-neet-case-neets-papers-sold-as-scrap-after-exam-a-a463-c1013/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-05-27T06:45:18.955307"
+    "timestamp": "2026-05-27T10:44:50.096505"
+  },
+  {
+    "source": "Lokmat",
+    "title": "NEET Paper Leak : ‘सीबीआय’ पथक लातुरात ठाण मांडून! आरसीसी क्लासमध्ये पुन्हा पडताळणी - Marathi News | NEET Paper Leak: ‘CBI’ team sets up camp in Latur! Re-verification in RCC class | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/neet-paper-leak-cbi-team-sets-up-camp-in-latur-re-verification-in-rcc-class-a-a1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-27T10:44:50.096711"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur: बैलजोडी खरेदी करून गावी जाणाऱ्या शेतकऱ्यांवरच दाखल केला गुन्हा - Marathi News | Latur: A case was registered against farmers who bought a pair of bullocks and went to their village. | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-a-case-was-registered-against-farmers-who-bought-a-pair-of-bullocks-and-went-to-their-village-a-a463-c301/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-05-27T10:44:50.096361"
   }
 ];
