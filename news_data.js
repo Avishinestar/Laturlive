@@ -1,67 +1,75 @@
 window.newsData = [
   {
     "source": "Punyanagari E-Paper",
-    "title": "Punyanagari E-Paper (2026-06-04)",
-    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-06-04/page/1",
+    "title": "Punyanagari E-Paper (2026-06-05)",
+    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-06-05/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-04T23:41:45.170362"
+    "timestamp": "2026-06-05T02:08:58.153703"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 1 (04-06-2026)",
+    "title": "Latur Samachar - Page 1 (05-06-2026)",
     "link": "https://www.latursamachar.com/view/1179/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-06/page-1-5660256.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-04T23:41:45.867889"
+    "timestamp": "2026-06-05T02:08:58.926065"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 2 (04-06-2026)",
+    "title": "Latur Samachar - Page 2 (05-06-2026)",
     "link": "https://www.latursamachar.com/view/1179/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-06/page-2-6049122.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-04T23:41:45.867898"
+    "timestamp": "2026-06-05T02:08:58.926076"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 3 (04-06-2026)",
+    "title": "Latur Samachar - Page 3 (05-06-2026)",
     "link": "https://www.latursamachar.com/view/1179/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-06/page-3-1259274.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-04T23:41:45.867901"
+    "timestamp": "2026-06-05T02:08:58.926079"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 4 (04-06-2026)",
+    "title": "Latur Samachar - Page 4 (05-06-2026)",
     "link": "https://www.latursamachar.com/view/1179/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-06/page-4-5674411.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-04T23:41:45.867903"
+    "timestamp": "2026-06-05T02:08:58.926081"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 5 (04-06-2026)",
+    "title": "Latur Samachar - Page 5 (05-06-2026)",
     "link": "https://www.latursamachar.com/view/1179/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-06/page-5-8818543.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-04T23:41:45.867905"
+    "timestamp": "2026-06-05T02:08:58.926085"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 6 (04-06-2026)",
+    "title": "Latur Samachar - Page 6 (05-06-2026)",
     "link": "https://www.latursamachar.com/view/1179/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-06/page-6-1373349.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-04T23:41:45.867906"
+    "timestamp": "2026-06-05T02:08:58.926089"
   },
   {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22694/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-06-04T23:41:46.253962"
+    "source": "ABP Majha",
+    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-05T02:08:56.316592"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur Accident: दुचाकी-टेम्पोची भीषण धडक; ब्रम्हवाडीचे माजी सरपंच ठार, लातूररोड-घरणी रस्त्यावरील घटना - Marathi News | One killed in bike-tempo collision; Accident on Latur Road-Gharni Road! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/one-killed-in-bike-tempo-collision-accident-on-latur-road-gharni-road-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-05T02:08:56.626783"
   },
   {
     "source": "Lokmat",
@@ -69,23 +77,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/body-of-seven-year-old-boy-from-ausa-found-in-lake-after-24-hours-a-a463-c607/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.938096"
-  },
-  {
-    "source": "Lokmat",
-    "title": "शेतरस्त्यासाठी तहसीलदारांच्या दालनात आत्महत्येचा प्रयत्न; तत्काळ रस्ता खुला करण्याचे दिले आदेश",
-    "link": "https://www.lokmat.com/latur/farmer-attempts-self-immolation-in-tehsildars-office-over-farm-access-road-authorities-order-immediate-action-a-a1012/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/renapur-police-station_2026061715904.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.937608"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर NEET पेपरफुटी, लातूर पॅटर्न, मोटेगावकर; अमित देशमुखांची पहिली प्रतिक्रिया, म्हणाले, मी टिपण्णी करावी असे...",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-amit-deshmukh-first-reaction-latur-pattern-shivraj-motegaonkar-neet-paper-leak-latur-connection-1425449",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.881692"
+    "timestamp": "2026-06-05T02:08:56.627041"
   },
   {
     "source": "Lokmat",
@@ -93,7 +85,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/finally-dr-manoj-shirure-in-cbi-custody-shivraj-motegaonkar-p-v-kulkarni-in-judicial-custody-a-a463-c301/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.938234"
+    "timestamp": "2026-06-05T02:08:56.627214"
   },
   {
     "source": "Lokmat",
@@ -101,23 +93,55 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/shocking-incident-in-latur-death-of-only-child-after-falling-into-silt-in-well-a-a1012/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.937941"
+    "timestamp": "2026-06-05T02:08:56.626872"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर नीट पेपरफुटी प्रकरणी महत्वाची अपडेट, लातूरमधील प्रसिद्ध डॉक्टर देखील CBI च्या रडारवर, चौकशी सुरु",
-    "link": "https://marathi.abplive.com/news/latur/major-update-in-neet-paper-leak-case-prominent-doctor-from-latur-also-on-cbi-radar-inquiry-underway-1425456",
+    "title": "लातूर NEET पेपरफुटी, लातूर पॅटर्न, मोटेगावकर; अमित देशमुखांची पहिली प्रतिक्रिया, म्हणाले, मी टिपण्णी करावी असे...",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-amit-deshmukh-first-reaction-latur-pattern-shivraj-motegaonkar-neet-paper-leak-latur-connection-1425449",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.881581"
+    "timestamp": "2026-06-05T02:08:56.316356"
+  },
+  {
+    "source": "Lokmat",
+    "title": "आजार बरे करण्याच्या नावाखाली जादूटोणा; लातूरमध्ये गुन्हा दाखल - Marathi News | Witchcraft in the name of curing diseases; Case registered in Latur | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/witchcraft-in-the-name-of-curing-diseases-case-registered-in-latur-a-a463-c1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-05T02:08:56.626957"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूरलातूर पुन्हा चर्चेत! इन्स्टावर 32 हजार फॉलोअर्स असलेली 'क्वीन रील स्टार' चक्क चोरटी निघाली; कॉपर वायरवर डल्ला मारल्याने पोलिसांनी मुसक्या आवळल्या",
-    "link": "https://marathi.abplive.com/news/latur/in-latur-queen-reel-star-boasting-32-thousand-rupees-followers-on-instagram-turns-out-to-be-a-thief-latest-marathi-news-1425866",
+    "title": "लातूर नीट पेपरफुटी प्रकरण! CBI चे पथक मोटेगावकरच्या क्लासेसमध्ये दाखल, नातेवाईकांची चौकशी सुरु",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-cbi-team-enters-motegaonkar-coaching-classes-interrogation-of-relatives-underway-1425443",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.881411"
+    "timestamp": "2026-06-05T02:08:56.316479"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur: लातुरात अन्न व औषध प्रशासनाची धडक कारवाई; ३.४३ लाखांचे खाद्यतेल व निकृष्ट साहित्य जप्त - Marathi News | Food Safety Department Raids 5 Locations in Latur, Seizes Adulterated Edible Oil and Food Products Worth ₹3.43 Lakh | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/food-safety-department-raids-5-locations-in-latur-seizes-adulterated-edible-oil-and-food-products-worth-rs343-lakh-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-05T02:08:56.626689"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22694/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-06-05T02:08:59.249860"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
+    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-05T02:08:56.316702"
   },
   {
     "source": "Dainik Ekmat",
@@ -132,39 +156,7 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-06-04T23:41:46.852664"
-  },
-  {
-    "source": "Lokmat",
-    "title": "उदगीरातील एका पेट्रोल पंपावर कारवाई, सात दिवस इंधन पुरवठा बंद - Marathi News | Fuel Supply Suspended for 7 Days at Udgir Petrol Pump After Viral Video Sparks Probe | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/fuel-supply-suspended-for-7-days-at-udgir-petrol-pump-after-viral-video-sparks-probe-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.937695"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur Accident: दुचाकी-टेम्पोची भीषण धडक; ब्रम्हवाडीचे माजी सरपंच ठार, लातूररोड-घरणी रस्त्यावरील घटना - Marathi News | One killed in bike-tempo collision; Accident on Latur Road-Gharni Road! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/one-killed-in-bike-tempo-collision-accident-on-latur-road-gharni-road-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.937867"
-  },
-  {
-    "source": "Lokmat",
-    "title": "आजार बरे करण्याच्या नावाखाली जादूटोणा; लातूरमध्ये गुन्हा दाखल - Marathi News | Witchcraft in the name of curing diseases; Case registered in Latur | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/witchcraft-in-the-name-of-curing-diseases-case-registered-in-latur-a-a463-c1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.938026"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
-    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.882011"
+    "timestamp": "2026-06-05T02:08:59.685294"
   },
   {
     "source": "Lokmat",
@@ -172,30 +164,38 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-neet-paper-leak-cbi-reaches-bank-lockers-of-accused-investigates-financial-transactions-of-three-suspicious-parents-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.938166"
+    "timestamp": "2026-06-05T02:08:56.627127"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर नीट पेपरफुटी प्रकरण! CBI चे पथक मोटेगावकरच्या क्लासेसमध्ये दाखल, नातेवाईकांची चौकशी सुरु",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-cbi-team-enters-motegaonkar-coaching-classes-interrogation-of-relatives-underway-1425443",
+    "title": "लातूरलातूर पुन्हा चर्चेत! इन्स्टावर 32 हजार फॉलोअर्स असलेली 'क्वीन रील स्टार' चक्क चोरटी निघाली; कॉपर वायरवर डल्ला मारल्याने पोलिसांनी मुसक्या आवळल्या",
+    "link": "https://marathi.abplive.com/news/latur/in-latur-queen-reel-star-boasting-32-thousand-rupees-followers-on-instagram-turns-out-to-be-a-thief-latest-marathi-news-1425866",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.881793"
+    "timestamp": "2026-06-05T02:08:56.316089"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर नीट पेपरफुटी प्रकरणी महत्वाची अपडेट, लातूरमधील प्रसिद्ध डॉक्टर देखील CBI च्या रडारवर, चौकशी सुरु",
+    "link": "https://marathi.abplive.com/news/latur/major-update-in-neet-paper-leak-case-prominent-doctor-from-latur-also-on-cbi-radar-inquiry-underway-1425456",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-05T02:08:56.316223"
   },
   {
     "source": "Lokmat",
-    "title": "Latur: लातुरात अन्न व औषध प्रशासनाची धडक कारवाई; ३.४३ लाखांचे खाद्यतेल व निकृष्ट साहित्य जप्त - Marathi News | Food Safety Department Raids 5 Locations in Latur, Seizes Adulterated Edible Oil and Food Products Worth ₹3.43 Lakh | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/food-safety-department-raids-5-locations-in-latur-seizes-adulterated-edible-oil-and-food-products-worth-rs343-lakh-a-a1012/",
+    "title": "उदगीरातील एका पेट्रोल पंपावर कारवाई, सात दिवस इंधन पुरवठा बंद - Marathi News | Fuel Supply Suspended for 7 Days at Udgir Petrol Pump After Viral Video Sparks Probe | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/fuel-supply-suspended-for-7-days-at-udgir-petrol-pump-after-viral-video-sparks-probe-a-a1012/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.937774"
+    "timestamp": "2026-06-05T02:08:56.626590"
   },
   {
-    "source": "ABP Majha",
-    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
-    "image": null,
+    "source": "Lokmat",
+    "title": "शेतरस्त्यासाठी तहसीलदारांच्या दालनात आत्महत्येचा प्रयत्न; तत्काळ रस्ता खुला करण्याचे दिले आदेश",
+    "link": "https://www.lokmat.com/latur/farmer-attempts-self-immolation-in-tehsildars-office-over-farm-access-road-authorities-order-immediate-action-a-a1012/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/renapur-police-station_2026061715904.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-06-04T23:41:43.881906"
+    "timestamp": "2026-06-05T02:08:56.626481"
   }
 ];
