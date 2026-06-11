@@ -5,71 +5,55 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-06-11/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-11T06:38:30.542210"
+    "timestamp": "2026-06-11T11:16:23.100140"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 1 (11-06-2026)",
-    "link": "https://www.latursamachar.com/view/1189/latur-main/1",
-    "image": "https://www.latursamachar.com/media/2026-06/page-1-9117615.jpg",
+    "link": "https://www.latursamachar.com/view/1192/latur-main/1",
+    "image": "https://www.latursamachar.com/media/2026-06/page-1-7454510.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-11T06:38:31.280987"
+    "timestamp": "2026-06-11T11:16:23.805289"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 2 (11-06-2026)",
-    "link": "https://www.latursamachar.com/view/1189/latur-main/2",
-    "image": "https://www.latursamachar.com/media/2026-06/page-2-9786921.jpg",
+    "link": "https://www.latursamachar.com/view/1192/latur-main/2",
+    "image": "https://www.latursamachar.com/media/2026-06/page-2-7402907.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-11T06:38:31.281005"
+    "timestamp": "2026-06-11T11:16:23.805296"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 3 (11-06-2026)",
-    "link": "https://www.latursamachar.com/view/1189/latur-main/3",
-    "image": "https://www.latursamachar.com/media/2026-06/page-3-2904319.jpg",
+    "link": "https://www.latursamachar.com/view/1192/latur-main/3",
+    "image": "https://www.latursamachar.com/media/2026-06/page-3-3772694.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-11T06:38:31.281008"
+    "timestamp": "2026-06-11T11:16:23.805298"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 4 (11-06-2026)",
-    "link": "https://www.latursamachar.com/view/1189/latur-main/4",
-    "image": "https://www.latursamachar.com/media/2026-06/page-4-5098868.jpg",
+    "link": "https://www.latursamachar.com/view/1192/latur-main/4",
+    "image": "https://www.latursamachar.com/media/2026-06/page-4-5757078.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-11T06:38:31.281009"
+    "timestamp": "2026-06-11T11:16:23.805301"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 5 (11-06-2026)",
-    "link": "https://www.latursamachar.com/view/1189/latur-main/5",
-    "image": "https://www.latursamachar.com/media/2026-06/page-5-2080029.jpg",
+    "link": "https://www.latursamachar.com/view/1192/latur-main/5",
+    "image": "https://www.latursamachar.com/media/2026-06/page-5-4917779.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-11T06:38:31.281010"
+    "timestamp": "2026-06-11T11:16:23.805303"
   },
   {
     "source": "Latur Samachar",
     "title": "Latur Samachar - Page 6 (11-06-2026)",
-    "link": "https://www.latursamachar.com/view/1189/latur-main/6",
-    "image": "https://www.latursamachar.com/media/2026-06/page-6-2905139.jpg",
+    "link": "https://www.latursamachar.com/view/1192/latur-main/6",
+    "image": "https://www.latursamachar.com/media/2026-06/page-6-1903346.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-11T06:38:31.281012"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22742/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-06-11T06:38:31.660842"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर नीट पेपरफुटी प्रकरणी महत्वाची अपडेट, लातूरमधील प्रसिद्ध डॉक्टर देखील CBI च्या रडारवर, चौकशी सुरु",
-    "link": "https://marathi.abplive.com/news/latur/major-update-in-neet-paper-leak-case-prominent-doctor-from-latur-also-on-cbi-radar-inquiry-underway-1425456",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.409592"
+    "timestamp": "2026-06-11T11:16:23.805305"
   },
   {
     "source": "ABP Majha",
@@ -77,71 +61,23 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-amit-deshmukh-first-reaction-latur-pattern-shivraj-motegaonkar-neet-paper-leak-latur-connection-1425449",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.409666"
+    "timestamp": "2026-06-11T11:16:21.816384"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूरबैल गेला अन् संसार अडला! पेरणीसाठी अर्धांगिनीने खांद्यावर घेतले जू; व्हिडीओ व्हायरल झाल्यानंतर मुख्यमंत्र्यांच्या संवेदनशीलतेने शेतकऱ्याला मिळालं 'बैलजोड'",
-    "link": "https://marathi.abplive.com/news/latur/bull-killed-by-lightning-latur-farmer-gets-bull-after-cm-intervention-viral-video-cm-responds-after-farmer-viral-video-1427504",
-    "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/10/9f811a3e5b9b5bac2752a21be8381e4017810724149651075_original.jpg?impolicy=abp_cdn&imwidth=470",
+    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
+    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
+    "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.409370"
+    "timestamp": "2026-06-11T11:16:21.816699"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूरवीज कोसळून बैल मेला, माय जुंपली नांगराला; शेतकरी दाम्पत्याचा पोटात कालवणारा व्हिडिओ व्हायरल, सर्वत्र हळहळ",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-video-viral-women-farming-with-ox-heart-wrenching-video-ox-killed-by-lightning-strike-mother-yoked-to-the-plough-1427439",
+    "title": "लातूर नीट पेपरफुटी प्रकरण! CBI चे पथक मोटेगावकरच्या क्लासेसमध्ये दाखल, नातेवाईकांची चौकशी सुरु",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-cbi-team-enters-motegaonkar-coaching-classes-interrogation-of-relatives-underway-1425443",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.409434"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरात मे महिन्यात विशेष ‘मोहीम’; ५५६ गुन्हेगारांना ‘दणका’, ९७ लाखांचा मुद्देमाल जप्त - Marathi News | Latur Police Crackdown: 556 Criminals Booked, Seized ₹97 Lakh Worth Illicit Goods in May | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-police-crackdown-556-criminals-booked-seized-rs97-lakh-worth-illicit-goods-in-may-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754287"
-  },
-  {
-    "source": "Lokmat",
-    "title": "ओव्हरलोड वाहनांवर राज्यव्यापी धडक मोहीम!, २१९ पथकांची नियुक्ती - Marathi News | Statewide crackdown on overloaded vehicles! 219 teams appointed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/statewide-crackdown-on-overloaded-vehicles-219-teams-appointed-a-a732/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754337"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पेरणीच्या तोंडावर वीज पडून बैल दगावला; हतबल शेतकऱ्याने पत्नीलाच जुंपले औताला - Marathi News | Latur Farmer Tragedy: Poor Farmer Forced To Use Wife To Plough Field After Bull Dies Due To Lightning | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-farmer-tragedy-poor-farmer-forced-to-use-wife-to-plough-field-after-bull-dies-due-to-lightning-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754186"
-  },
-  {
-    "source": "Lokmat",
-    "title": "हरिनाम सप्ताहात ३.६५ कोटींचा अपहार; अखेर किशोर जाधवविरुद्ध गुन्हा दाखल! - Marathi News | embezzlement of Rs 3.65 crores during Harinam week; Finally a case registered against Kishore Jadhav! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/embezzlement-of-rs-365-crores-during-harinam-week-finally-a-case-registered-against-kishore-jadhav-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754441"
-  },
-  {
-    "source": "Lokmat",
-    "title": "बैल गेला अन् संसार अडला; पेरणीसाठी अर्धांगिनीने खांद्यावर घेतले जू; लातूर जिल्ह्यातील भूमिहीन शेतकऱ्याचा विदारक संघर्ष - Marathi News | The bull dead and the world was at a standstill; A wife took the yoke on his shoulder for sowing; The heartbreaking struggle of a landless farmer in Latur district | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/the-bull-dead-and-the-world-was-at-a-standstill-a-wife-took-the-yoke-on-his-shoulder-for-sowing-the-heartbreaking-struggle-of-a-landless-farmer-in-latur-district-a-a653/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754081"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.409813"
+    "timestamp": "2026-06-11T11:16:21.816488"
   },
   {
     "source": "Dainik Ekmat",
@@ -156,47 +92,39 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-06-11T06:38:32.155689"
+    "timestamp": "2026-06-11T11:16:24.621889"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
-    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
-    "image": null,
+    "title": "लातूरबैल गेला अन् संसार अडला! पेरणीसाठी अर्धांगिनीने खांद्यावर घेतले जू; व्हिडीओ व्हायरल झाल्यानंतर मुख्यमंत्र्यांच्या संवेदनशीलतेने शेतकऱ्याला मिळालं 'बैलजोड'",
+    "link": "https://marathi.abplive.com/news/latur/bull-killed-by-lightning-latur-farmer-gets-bull-after-cm-intervention-viral-video-cm-responds-after-farmer-viral-video-1427504",
+    "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/10/9f811a3e5b9b5bac2752a21be8381e4017810724149651075_original.jpg?impolicy=abp_cdn&imwidth=470",
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.409885"
+    "timestamp": "2026-06-11T11:16:21.815952"
   },
   {
     "source": "Lokmat",
-    "title": "जास्त व्याजाचे आमिष देऊन ठेवीदारांचे करोडो लुटले! 'छत्रपती मल्टीस्टेट'च्या २ संचालकांना अटक - Marathi News | Jalna Multistate Fraud: Two Directors of Chhatrapati Multistate Arrested by EOW For Defrauding Depositors | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/jalna-multistate-fraud-two-directors-of-chhatrapati-multistate-arrested-by-eow-for-defrauding-depositors-a-a320/",
+    "title": "पेरणीच्या तोंडावर वीज पडून बैल दगावला; हतबल शेतकऱ्याने पत्नीलाच जुंपले औताला - Marathi News | Latur Farmer Tragedy: Poor Farmer Forced To Use Wife To Plough Field After Bull Dies Due To Lightning | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-farmer-tragedy-poor-farmer-forced-to-use-wife-to-plough-field-after-bull-dies-due-to-lightning-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754134"
-  },
-  {
-    "source": "Lokmat",
-    "title": "हरिनाम सप्ताहात ३.६५ कोटींचा अपहार; अखेर गुन्हा दाखल - Marathi News | 3 crores 65 lakh embezzled during Harinam week; finally a case registered | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/3-crores-65-lakh-embezzled-during-harinam-week-finally-a-case-registered-a-a653/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754386"
-  },
-  {
-    "source": "Lokmat",
-    "title": "नातू-पणतू विरुद्धच्या दाव्यात आजीबाई जिंकल्या! नोंदणीकृत बक्षीसपत्र; फेरफार रद्द करण्याचे आदेश - Marathi News | Grandmother wins in lawsuit against grandson! Registered gift deed; Order to cancel alteration | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/grandmother-wins-in-lawsuit-against-grandson-registered-gift-deed-order-to-cancel-alteration-a-a653/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754237"
+    "timestamp": "2026-06-11T11:16:22.098039"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर नीट पेपरफुटी प्रकरण! CBI चे पथक मोटेगावकरच्या क्लासेसमध्ये दाखल, नातेवाईकांची चौकशी सुरु",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-scandal-cbi-team-enters-motegaonkar-coaching-classes-interrogation-of-relatives-underway-1425443",
+    "title": "लातूर नीट पेपरफुटी प्रकरणी महत्वाची अपडेट, लातूरमधील प्रसिद्ध डॉक्टर देखील CBI च्या रडारवर, चौकशी सुरु",
+    "link": "https://marathi.abplive.com/news/latur/major-update-in-neet-paper-leak-case-prominent-doctor-from-latur-also-on-cbi-radar-inquiry-underway-1425456",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.409739"
+    "timestamp": "2026-06-11T11:16:21.816274"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22742/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-06-11T11:16:24.091166"
   },
   {
     "source": "Lokmat",
@@ -204,7 +132,31 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/landless-farmers-yoke-comes-off-wifes-shoulders-chief-ministers-sensitivity-baliraja-gets-bull-a-a653/",
     "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-farmer-news-cm-devendra-fadnavis_2026061720434.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.753934"
+    "timestamp": "2026-06-11T11:16:22.097646"
+  },
+  {
+    "source": "Lokmat",
+    "title": "नातू-पणतू विरुद्धच्या दाव्यात आजीबाई जिंकल्या! नोंदणीकृत बक्षीसपत्र; फेरफार रद्द करण्याचे आदेश - Marathi News | Grandmother wins in lawsuit against grandson! Registered gift deed; Order to cancel alteration | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/grandmother-wins-in-lawsuit-against-grandson-registered-gift-deed-order-to-cancel-alteration-a-a653/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:22.098124"
+  },
+  {
+    "source": "Lokmat",
+    "title": "बैल गेला अन् संसार अडला; पेरणीसाठी अर्धांगिनीने खांद्यावर घेतले जू; लातूर जिल्ह्यातील भूमिहीन शेतकऱ्याचा विदारक संघर्ष - Marathi News | The bull dead and the world was at a standstill; A wife took the yoke on his shoulder for sowing; The heartbreaking struggle of a landless farmer in Latur district | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/the-bull-dead-and-the-world-was-at-a-standstill-a-wife-took-the-yoke-on-his-shoulder-for-sowing-the-heartbreaking-struggle-of-a-landless-farmer-in-latur-district-a-a653/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:22.097840"
+  },
+  {
+    "source": "Lokmat",
+    "title": "ओव्हरलोड वाहनांवर राज्यव्यापी धडक मोहीम!, २१९ पथकांची नियुक्ती - Marathi News | Statewide crackdown on overloaded vehicles! 219 teams appointed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/statewide-crackdown-on-overloaded-vehicles-219-teams-appointed-a-a732/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:22.098284"
   },
   {
     "source": "Lokmat",
@@ -212,7 +164,55 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-news-80-year-old-grandmother-wins-against-grandson-gift-deed-cancelled-over-lack-of-maintenance-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.754017"
+    "timestamp": "2026-06-11T11:16:22.097741"
+  },
+  {
+    "source": "Lokmat",
+    "title": "जास्त व्याजाचे आमिष देऊन ठेवीदारांचे करोडो लुटले! 'छत्रपती मल्टीस्टेट'च्या २ संचालकांना अटक - Marathi News | Jalna Multistate Fraud: Two Directors of Chhatrapati Multistate Arrested by EOW For Defrauding Depositors | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/jalna-multistate-fraud-two-directors-of-chhatrapati-multistate-arrested-by-eow-for-defrauding-depositors-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:22.097946"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:21.816595"
+  },
+  {
+    "source": "Lokmat",
+    "title": "हरिनाम सप्ताहात ३.६५ कोटींचा अपहार; अखेर किशोर जाधवविरुद्ध गुन्हा दाखल! - Marathi News | embezzlement of Rs 3.65 crores during Harinam week; Finally a case registered against Kishore Jadhav! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/embezzlement-of-rs-365-crores-during-harinam-week-finally-a-case-registered-against-kishore-jadhav-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:22.098449"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरात मे महिन्यात विशेष ‘मोहीम’; ५५६ गुन्हेगारांना ‘दणका’, ९७ लाखांचा मुद्देमाल जप्त - Marathi News | Latur Police Crackdown: 556 Criminals Booked, Seized ₹97 Lakh Worth Illicit Goods in May | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-police-crackdown-556-criminals-booked-seized-rs97-lakh-worth-illicit-goods-in-may-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:22.098206"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरवीज कोसळून बैल मेला, माय जुंपली नांगराला; शेतकरी दाम्पत्याचा पोटात कालवणारा व्हिडिओ व्हायरल, सर्वत्र हळहळ",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-video-viral-women-farming-with-ox-heart-wrenching-video-ox-killed-by-lightning-strike-mother-yoked-to-the-plough-1427439",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:21.816036"
+  },
+  {
+    "source": "Lokmat",
+    "title": "हरिनाम सप्ताहात ३.६५ कोटींचा अपहार; अखेर गुन्हा दाखल - Marathi News | 3 crores 65 lakh embezzled during Harinam week; finally a case registered | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/3-crores-65-lakh-embezzled-during-harinam-week-finally-a-case-registered-a-a653/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-11T11:16:22.098364"
   },
   {
     "source": "ABP Majha",
@@ -220,6 +220,6 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/in-latur-queen-reel-star-boasting-32-thousand-rupees-followers-on-instagram-turns-out-to-be-a-thief-latest-marathi-news-1425866",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-11T06:38:28.409514"
+    "timestamp": "2026-06-11T11:16:21.816155"
   }
 ];
