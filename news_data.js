@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-06-22/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-22T00:01:54.394316"
+    "timestamp": "2026-06-22T05:37:54.754842"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1208/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-06/page-1-2025680.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-22T00:01:55.132932"
+    "timestamp": "2026-06-22T05:37:55.492897"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1208/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-06/page-2-6113319.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-22T00:01:55.132941"
+    "timestamp": "2026-06-22T05:37:55.492906"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1208/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-06/page-3-9646154.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-22T00:01:55.132943"
+    "timestamp": "2026-06-22T05:37:55.492908"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1208/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-06/page-4-2937609.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-22T00:01:55.132945"
+    "timestamp": "2026-06-22T05:37:55.492910"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1208/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-06/page-5-2231550.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-22T00:01:55.132947"
+    "timestamp": "2026-06-22T05:37:55.492912"
   },
   {
     "source": "Latur Samachar",
@@ -53,7 +53,15 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1208/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-06/page-6-1110333.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-22T00:01:55.132949"
+    "timestamp": "2026-06-22T05:37:55.492914"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर वीज कोसळून बैल मेला, माय जुंपली नांगराला; शेतकरी दाम्पत्याचा पोटात कालवणारा व्हिडिओ व्हायरल, सर्वत्र हळहळ",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-video-viral-women-farming-with-ox-heart-wrenching-video-ox-killed-by-lightning-strike-mother-yoked-to-the-plough-1427439",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-22T05:37:43.942457"
   },
   {
     "source": "ABP Majha",
@@ -61,7 +69,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/in-latur-queen-reel-star-boasting-32-thousand-rupees-followers-on-instagram-turns-out-to-be-a-thief-latest-marathi-news-1425866",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.496936"
+    "timestamp": "2026-06-22T05:37:43.942570"
   },
   {
     "source": "ABP Majha",
@@ -69,15 +77,15 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-crime-news-migrant-laborer-brutally-beaten-and-dies-on-the-spot-case-registered-against-the-farm-owner-1428585",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.496113"
+    "timestamp": "2026-06-22T05:37:43.941762"
   },
   {
     "source": "Lokmat",
-    "title": "दोन कार अडवून दरोडा टाकत साडेतीन लाखांचा ऐवज पळविला; घरणीजवळील घटना, प्रवाशांना बेदम मारहाण - Marathi News | Two cars were stopped and robbed, and three and a half lakhs worth of goods were stolen; Incident near the house, passengers were brutally beaten | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/two-cars-were-stopped-and-robbed-and-three-and-a-half-lakhs-worth-of-goods-were-stolen-incident-near-the-house-passengers-were-brutally-beaten-a-a941/",
+    "title": "लातूर जिल्ह्यात महिनाभरात १५ भीषण अपघात; हेल्मेट, सीट बेल्टअभावी १८ ठार ! - Marathi News | Latur Traffic Report: 15 Major Accidents Kill 18 in One Month; Missing Helmets and Seatbelts Cause Fatalities | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-traffic-report-15-major-accidents-kill-18-in-one-month-missing-helmets-and-seatbelts-cause-fatalities-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835205"
+    "timestamp": "2026-06-22T05:37:44.001079"
   },
   {
     "source": "ABP Majha",
@@ -85,31 +93,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-nanded-horrific-three-vehicle-accident-in-latur-couple-on-two-wheeler-killed-one-dead-and-two-injured-in-wagonr-1427941",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.496240"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर नीट पेपरफुटी प्रकरणी महत्वाची अपडेट, लातूरमधील प्रसिद्ध डॉक्टर देखील CBI च्या रडारवर, चौकशी सुरु",
-    "link": "https://marathi.abplive.com/news/latur/major-update-in-neet-paper-leak-case-prominent-doctor-from-latur-also-on-cbi-radar-inquiry-underway-1425456",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.497049"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22830/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-06-22T00:01:55.528219"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर NEET पेपरफुटी, लातूर पॅटर्न, मोटेगावकर; अमित देशमुखांची पहिली प्रतिक्रिया, म्हणाले, मी टिपण्णी करावी असे...",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-amit-deshmukh-first-reaction-latur-pattern-shivraj-motegaonkar-neet-paper-leak-latur-connection-1425449",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.497155"
+    "timestamp": "2026-06-22T05:37:43.941900"
   },
   {
     "source": "ABP Majha",
@@ -117,31 +101,39 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/bull-killed-by-lightning-latur-farmer-gets-bull-after-cm-intervention-viral-video-cm-responds-after-farmer-viral-video-1427504",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.496712"
+    "timestamp": "2026-06-22T05:37:43.942350"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर राज्य सरकारने शेतकऱ्याला दिलेला बैल आजारी निघाला, नांगर ओढताना खाली बसला, उपचाराचा भुर्दंड शेतकऱ्याच्या माथी",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-compensation-controversy-rohit-pawar-criticizes-maharashtra-government-marathi-news-1427736",
+    "title": "लातूर बैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.496591"
+    "timestamp": "2026-06-22T05:37:43.942119"
   },
   {
     "source": "Lokmat",
-    "title": "लातुरात ‘क्रेटा’तून गुटख्याची तस्करी; पोलिसांचा मध्यरात्री थरारक सापळा ! एका आराेपीला अटक : १५ लाखांचा मुद्देमाल जप्त... - Marathi News | Gutkha smuggling from 'Creta' in Latur; Police make a thrilling trap in the middle of the night! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/gutkha-smuggling-from-creta-in-latur-police-make-a-thrilling-trap-in-the-middle-of-the-night-a-a941/",
+    "title": "तर्रर होऊन हुल्लडबाजांचा ११२ वर फेक कॉल; पोलिसांनी थेट धाब्यावर येऊन नशाच उतरविली! - Marathi News | atur Crime: Four Drunk Men Booked for Making Fake Brawl Call to Police Helpline 112 at Hali Dhaba | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/atur-crime-four-drunk-men-booked-for-making-fake-brawl-call-to-police-helpline-112-at-hali-dhaba-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835391"
+    "timestamp": "2026-06-22T05:37:44.001164"
   },
   {
-    "source": "Lokmat",
-    "title": "लातूर बोर्डाच्या चुकीने नापास २१ विद्यार्थी रिचेकिंगमध्ये उत्तीर्ण; ८० % मुलांचे गुण बदलले! - Marathi News | Latur Board Blunder: 21 Failed Students Declared Pass in Revaluation; Marks Changed for 80% Applicants | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-board-blunder-21-failed-students-declared-pass-in-revaluation-marks-changed-for-80-applicants-a-a320/",
+    "source": "ABP Majha",
+    "title": "लातूर नीट पेपरफुटी प्रकरणी महत्वाची अपडेट, लातूरमधील प्रसिद्ध डॉक्टर देखील CBI च्या रडारवर, चौकशी सुरु",
+    "link": "https://marathi.abplive.com/news/latur/major-update-in-neet-paper-leak-case-prominent-doctor-from-latur-also-on-cbi-radar-inquiry-underway-1425456",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835589"
+    "timestamp": "2026-06-22T05:37:43.942676"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर NEET पेपरफुटी, लातूर पॅटर्न, मोटेगावकर; अमित देशमुखांची पहिली प्रतिक्रिया, म्हणाले, मी टिपण्णी करावी असे...",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-amit-deshmukh-first-reaction-latur-pattern-shivraj-motegaonkar-neet-paper-leak-latur-connection-1425449",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-22T05:37:43.942783"
   },
   {
     "source": "Dainik Ekmat",
@@ -156,7 +148,23 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-06-22T00:01:55.953816"
+    "timestamp": "2026-06-22T05:37:56.558454"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22830/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-06-22T05:37:55.997735"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातुरात ‘काेयता गॅग’चा धुमाकूळ; तिघांवर हल्ला, ९ जणांविरुद्ध गुन्हा, भाजी मार्केटमध्ये सिनेस्टाइल थरार : केस मागे घेण्यावरून केली मारहाण - Marathi News | 'Koyata Gag' stir in Latur; Three attacked, 9 booked, Cinestyle thrill in vegetable market: Beaten up for withdrawing case | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/koyata-gag-stir-in-latur-three-attacked-9-booked-cinestyle-thrill-in-vegetable-market-beaten-up-for-withdrawing-case-a-a941/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-22T05:37:44.000368"
   },
   {
     "source": "Lokmat",
@@ -164,63 +172,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-crime-19-year-old-migrant-worker-beaten-to-death-over-open-defecation-in-sugarcane-field-at-ausa-farmer-detained-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835677"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातुरात ‘काेयता गॅग’चा धुमाकूळ; तिघांवर हल्ला, ९ जणांविरुद्ध गुन्हा, भाजी मार्केटमध्ये सिनेस्टाइल थरार : केस मागे घेण्यावरून केली मारहाण",
-    "link": "https://www.lokmat.com/latur/koyata-gag-stir-in-latur-three-attacked-9-booked-cinestyle-thrill-in-vegetable-market-beaten-up-for-withdrawing-case-a-a941/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-crime-news-story_2026061726939.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835103"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर जिल्ह्यात महिनाभरात १५ भीषण अपघात; हेल्मेट, सीट बेल्टअभावी १८ ठार ! - Marathi News | Latur Traffic Report: 15 Major Accidents Kill 18 in One Month; Missing Helmets and Seatbelts Cause Fatalities | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-traffic-report-15-major-accidents-kill-18-in-one-month-missing-helmets-and-seatbelts-cause-fatalities-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835768"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर आधी गोशाळेतला आजारी बैल, नंतर मुख्यमंत्र्यांचे थेट निर्देश, अखेर लातूरच्या शेतकऱ्याला मिळाला पसंतीचा बैल; गावात ओवाळून स्वागत",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-gets-new-healthy-bull-after-cm-devendra-fadnavis-order-maharashtra-marathi-news-1427838",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.496359"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर बैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.496468"
-  },
-  {
-    "source": "Lokmat",
-    "title": "तर्रर होऊन हुल्लडबाजांचा ११२ वर फेक कॉल; पोलिसांनी थेट धाब्यावर येऊन नशाच उतरविली! - Marathi News | atur Crime: Four Drunk Men Booked for Making Fake Brawl Call to Police Helpline 112 at Hali Dhaba | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/atur-crime-four-drunk-men-booked-for-making-fake-brawl-call-to-police-helpline-112-at-hali-dhaba-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835853"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर वीज कोसळून बैल मेला, माय जुंपली नांगराला; शेतकरी दाम्पत्याचा पोटात कालवणारा व्हिडिओ व्हायरल, सर्वत्र हळहळ",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-video-viral-women-farming-with-ox-heart-wrenching-video-ox-killed-by-lightning-strike-mother-yoked-to-the-plough-1427439",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.496819"
-  },
-  {
-    "source": "Lokmat",
-    "title": "निलंग्यातील पानचिंचोलीत फटाक्यांच्या कारखान्याला भीषण आग, सुदैवाने जीवितहानी नाही - Marathi News | Latur Fire Breakout: Massive Fire Guts Illegal Firework Factory at Panchincholi in Nilanga; No Casualties Reported | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-fire-breakout-massive-fire-guts-illegal-firework-factory-at-panchincholi-in-nilanga-no-casualties-reported-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835479"
+    "timestamp": "2026-06-22T05:37:44.000995"
   },
   {
     "source": "Lokmat",
@@ -228,14 +180,54 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/farm-road-dispute-one-killed-guilty-accused-sentenced-to-life-imprisonment-verdict-of-additional-sessions-court-in-nilanga-a-a941/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835293"
+    "timestamp": "2026-06-22T05:37:44.000604"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर राज्य सरकारने शेतकऱ्याला दिलेला बैल आजारी निघाला, नांगर ओढताना खाली बसला, उपचाराचा भुर्दंड शेतकऱ्याच्या माथी",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-compensation-controversy-rohit-pawar-criticizes-maharashtra-government-marathi-news-1427736",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-22T05:37:43.942231"
   },
   {
     "source": "Lokmat",
-    "title": "देवदर्शनासाठी निघालेल्या भाविकांना मृत्युने रस्त्यातच गाठले; कार-जीप अपघातात तीन महिला जागीच ठार - Marathi News | Death overtakes devotees on the road for darshan; Three women killed on the spot in car-jeep accident | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/death-overtakes-devotees-on-the-road-for-darshan-three-women-killed-on-the-spot-in-car-jeep-accident-a-a464-c571/",
+    "title": "दोन कार अडवून दरोडा टाकत साडेतीन लाखांचा ऐवज पळविला; घरणीजवळील घटना, प्रवाशांना बेदम मारहाण - Marathi News | Two cars were stopped and robbed, and three and a half lakhs worth of goods were stolen; Incident near the house, passengers were brutally beaten | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/two-cars-were-stopped-and-robbed-and-three-and-a-half-lakhs-worth-of-goods-were-stolen-incident-near-the-house-passengers-were-brutally-beaten-a-a941/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-22T00:01:52.835938"
+    "timestamp": "2026-06-22T05:37:44.000514"
+  },
+  {
+    "source": "Lokmat",
+    "title": "निलंग्यातील पानचिंचोलीत फटाक्यांच्या कारखान्याला भीषण आग, सुदैवाने जीवितहानी नाही - Marathi News | Latur Fire Breakout: Massive Fire Guts Illegal Firework Factory at Panchincholi in Nilanga; No Casualties Reported | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-fire-breakout-massive-fire-guts-illegal-firework-factory-at-panchincholi-in-nilanga-no-casualties-reported-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-22T05:37:44.000807"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर आधी गोशाळेतला आजारी बैल, नंतर मुख्यमंत्र्यांचे थेट निर्देश, अखेर लातूरच्या शेतकऱ्याला मिळाला पसंतीचा बैल; गावात ओवाळून स्वागत",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-gets-new-healthy-bull-after-cm-devendra-fadnavis-order-maharashtra-marathi-news-1427838",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-22T05:37:43.942012"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर बोर्डाच्या चुकीने नापास २१ विद्यार्थी रिचेकिंगमध्ये उत्तीर्ण; ८० % मुलांचे गुण बदलले! - Marathi News | Latur Board Blunder: 21 Failed Students Declared Pass in Revaluation; Marks Changed for 80% Applicants | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-board-blunder-21-failed-students-declared-pass-in-revaluation-marks-changed-for-80-applicants-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-22T05:37:44.000903"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातुरात ‘क्रेटा’तून गुटख्याची तस्करी; पोलिसांचा मध्यरात्री थरारक सापळा ! एका आराेपीला अटक : १५ लाखांचा मुद्देमाल जप्त... - Marathi News | Gutkha smuggling from 'Creta' in Latur; Police make a thrilling trap in the middle of the night! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/gutkha-smuggling-from-creta-in-latur-police-make-a-thrilling-trap-in-the-middle-of-the-night-a-a941/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-22T05:37:44.000699"
   }
 ];
