@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-06-29/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-29T18:57:03.727615"
+    "timestamp": "2026-06-29T20:47:22.157565"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1222/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-06/page-1-2513620.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-29T18:57:04.774544"
+    "timestamp": "2026-06-29T20:47:22.875764"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1222/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-06/page-2-7118799.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-29T18:57:04.774553"
+    "timestamp": "2026-06-29T20:47:22.875772"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1222/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-06/page-3-8979782.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-29T18:57:04.774555"
+    "timestamp": "2026-06-29T20:47:22.875774"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,15 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1222/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-06/page-4-6720739.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-29T18:57:04.774557"
+    "timestamp": "2026-06-29T20:47:22.875777"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-29T20:47:18.988129"
   },
   {
     "source": "Lokmat",
@@ -45,7 +53,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/udgir-mandi-news-operations-resume-after-12-day-strike-as-market-committee-settles-hamal-munim-dispute-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.581774"
+    "timestamp": "2026-06-29T20:47:19.322868"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
+    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-29T20:47:18.988235"
   },
   {
     "source": "Lokmat",
@@ -53,7 +69,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-temple-theft-daring-burglary-at-renapur-balaji-temple-gold-ornaments-and-cash-box-stolen-cctv-dvr-stolen-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.581949"
+    "timestamp": "2026-06-29T20:47:19.323038"
   },
   {
     "source": "ABP Majha",
@@ -61,23 +77,23 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-compensation-controversy-rohit-pawar-criticizes-maharashtra-government-marathi-news-1427736",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.268615"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरमध्ये महिलांचा रुद्रावतार! शिवपूरचा अवैध दारू अड्डा बेचिराख, फर्निचर फेकले रस्त्यावर - Marathi News | Latur Women Protest: Furious Villagers Attack and Ransack Illegal Liquor Den on Highway in Shirur Anantpal | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-women-protest-furious-villagers-attack-and-ransack-illegal-liquor-den-on-highway-in-shirur-anantpal-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.581861"
+    "timestamp": "2026-06-29T20:47:18.988022"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
+    "title": "लातूरशेतात शौचास गेल्याच्या कारणावरुन परप्रांतीय मजुराला मारहाण, मजुराचा जागीच मृत्यू, शेतमालकाविरुद्ध गुन्हा दाखल",
+    "link": "https://marathi.abplive.com/news/latur/latur-crime-news-migrant-laborer-brutally-beaten-and-dies-on-the-spot-case-registered-against-the-farm-owner-1428585",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.268950"
+    "timestamp": "2026-06-29T20:47:18.987809"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरमध्ये गुन्हेगारांवर मोठी कारवाई! ४ सराईत गुन्हेगार एका वर्षासाठी जिल्ह्यातून तडीपार! - Marathi News | Latur Crime: 4 Notorious Criminals Externed for One Year by Gandhi Chowk Police and SDM Rohini Narhe | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-crime-4-notorious-criminals-externed-for-one-year-by-gandhi-chowk-police-and-sdm-rohini-narhe-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-29T20:47:19.323120"
   },
   {
     "source": "Dainik Ekmat",
@@ -92,7 +108,7 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-06-29T18:57:05.657520"
+    "timestamp": "2026-06-29T20:47:23.817927"
   },
   {
     "source": "Lokmat",
@@ -100,23 +116,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-mumbai-express-gets-3-additional-coaches-to-reduce-waiting-list-relief-for-latur-dharashiv-and-bidar-passengers-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.582237"
+    "timestamp": "2026-06-29T20:47:19.323313"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "title": "लातूर लातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.268723"
+    "timestamp": "2026-06-29T20:47:18.988369"
   },
   {
-    "source": "ABP Majha",
-    "title": "लातूरशेतात शौचास गेल्याच्या कारणावरुन परप्रांतीय मजुराला मारहाण, मजुराचा जागीच मृत्यू, शेतमालकाविरुद्ध गुन्हा दाखल",
-    "link": "https://marathi.abplive.com/news/latur/latur-crime-news-migrant-laborer-brutally-beaten-and-dies-on-the-spot-case-registered-against-the-farm-owner-1428585",
+    "source": "Lokmat",
+    "title": "लातूरमध्ये महिलांचा रुद्रावतार! शिवपूरचा अवैध दारू अड्डा बेचिराख, फर्निचर फेकले रस्त्यावर - Marathi News | Latur Women Protest: Furious Villagers Attack and Ransack Illegal Liquor Den on Highway in Shirur Anantpal | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-women-protest-furious-villagers-attack-and-ransack-illegal-liquor-den-on-highway-in-shirur-anantpal-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.268412"
+    "timestamp": "2026-06-29T20:47:19.322953"
   },
   {
     "source": "Dainik Ekmat",
@@ -124,7 +140,7 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/22895/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-06-29T18:57:05.238265"
+    "timestamp": "2026-06-29T20:47:23.287756"
   },
   {
     "source": "Lokmat",
@@ -132,39 +148,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-school-timings-changed-all-schools-to-run-in-morning-shift-from-today-due-to-extreme-heat-wave-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.582118"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर जिल्ह्यात खळबळ: येरोळ सोसायटीच्या चेअरमनचा जिल्हा बँकेत आत्मदहनाचा प्रयत्न - Marathi News | Latur DCC Bank Chaos: Yerola Society Chairman Attempts Self-Immolation as Bank Refuses to Accept Loan Repayment | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-dcc-bank-chaos-yerola-society-chairman-attempts-self-immolation-as-bank-refuses-to-accept-loan-repayment-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.581533"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
-    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.268830"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरबैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.268499"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरमध्ये गुन्हेगारांवर मोठी कारवाई! ४ सराईत गुन्हेगार एका वर्षासाठी जिल्ह्यातून तडीपार! - Marathi News | Latur Crime: 4 Notorious Criminals Externed for One Year by Gandhi Chowk Police and SDM Rohini Narhe | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-crime-4-notorious-criminals-externed-for-one-year-by-gandhi-chowk-police-and-sdm-rohini-narhe-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.582034"
+    "timestamp": "2026-06-29T20:47:19.323203"
   },
   {
     "source": "Lokmat",
@@ -172,6 +156,22 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-highway-robbery-case-lcb-arrests-one-gang-member-seizes-assets-worth-rs-1722-lakh-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-06-29T18:57:02.581684"
+    "timestamp": "2026-06-29T20:47:19.322783"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरबैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-29T20:47:18.987909"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर जिल्ह्यात खळबळ: येरोळ सोसायटीच्या चेअरमनचा जिल्हा बँकेत आत्मदहनाचा प्रयत्न - Marathi News | Latur DCC Bank Chaos: Yerola Society Chairman Attempts Self-Immolation as Bank Refuses to Accept Loan Repayment | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-dcc-bank-chaos-yerola-society-chairman-attempts-self-immolation-as-bank-refuses-to-accept-loan-repayment-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-06-29T20:47:19.322639"
   }
 ];
