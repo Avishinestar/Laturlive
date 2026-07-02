@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-07-02/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T17:24:25.682581"
+    "timestamp": "2026-07-02T18:54:04.413313"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1229/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-07/page-1-8420370.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T17:24:26.491457"
+    "timestamp": "2026-07-02T18:54:05.128917"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1229/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-07/page-2-8285934.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T17:24:26.491466"
+    "timestamp": "2026-07-02T18:54:05.128925"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1229/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-07/page-3-4232735.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T17:24:26.491468"
+    "timestamp": "2026-07-02T18:54:05.128928"
   },
   {
     "source": "Latur Samachar",
@@ -37,15 +37,23 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1229/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-07/page-4-4571695.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T17:24:26.491471"
+    "timestamp": "2026-07-02T18:54:05.128931"
+  },
+  {
+    "source": "Lokmat",
+    "title": "'७५ किमीची पायपीट कशासाठी?'; किल्लारी अप्पर तहसीलच्या निर्णयाविरोधात मातोळा गाव एकवटले - Marathi News | Latur News: \"Why the 75 km walk?\"; Matola Villagers Oppose Inclusion in Proposed Killari Upper Tehsil Office; Pass ZP Resolution | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-news-why-the-75-km-walk-matola-villagers-oppose-inclusion-in-proposed-killari-upper-tehsil-office-pass-zp-resolution-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:03.041349"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
+    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:23.992257"
+    "timestamp": "2026-07-02T18:54:02.981806"
   },
   {
     "source": "Lokmat",
@@ -53,23 +61,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/instant-justice-in-latur-angry-public-beats-up-3-youths-for-eveteasing-near-murud-bus-standcase-filed-under-pocso-act-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.084806"
+    "timestamp": "2026-07-02T18:54:03.041610"
   },
   {
-    "source": "ABP Majha",
-    "title": "लातूरबैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
-    "image": null,
+    "source": "Lokmat",
+    "title": "अवैध दारूविक्रीवरून ढाबा तोडला, आता शिवपूरच्या रणरागिणींचा पोलीस ठाण्यावर धडक मोर्चा",
+    "link": "https://www.lokmat.com/latur/latur-news-500-women-launch-protest-march-at-shirur-anantpal-police-station-demanding-action-against-illegal-liquor-den-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/shivpur-latur-mahila-morcha-daru-fea_2026071734202.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:23.992035"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:23.992495"
+    "timestamp": "2026-07-02T18:54:03.041160"
   },
   {
     "source": "Dainik Ekmat",
@@ -84,55 +84,7 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-07-02T17:24:27.533819"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
-    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:23.992363"
-  },
-  {
-    "source": "Lokmat",
-    "title": "'७५ किमीची पायपीट कशासाठी?'; किल्लारी अप्पर तहसीलच्या निर्णयाविरोधात मातोळा गाव एकवटले - Marathi News | Latur News: \"Why the 75 km walk?\"; Matola Villagers Oppose Inclusion in Proposed Killari Upper Tehsil Office; Pass ZP Resolution | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-news-why-the-75-km-walk-matola-villagers-oppose-inclusion-in-proposed-killari-upper-tehsil-office-pass-zp-resolution-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.084540"
-  },
-  {
-    "source": "Lokmat",
-    "title": "मजुरीच्या पैशांवरून वाद, दारूच्या नशेत मित्रानेच टॉवेलने हात बांधून गमज्याने गळा आवळला! - Marathi News | Latur Crime: Ahmedpur Murder Case Solved: Latur LCB Arrests Accused Balaji Jadhav for Strangling Govind Fatate Over Wage Dispute | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-crime-ahmedpur-murder-case-solved-latur-lcb-arrests-accused-balaji-jadhav-for-strangling-govind-fatate-over-wage-dispute-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.084718"
-  },
-  {
-    "source": "Lokmat",
-    "title": "अवैध दारूविक्रीवरून ढाबा तोडला, आता शिवपूरच्या रणरागिणींचा पोलीस ठाण्यावर धडक मोर्चा",
-    "link": "https://www.lokmat.com/latur/latur-news-500-women-launch-protest-march-at-shirur-anantpal-police-station-demanding-action-against-illegal-liquor-den-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/shivpur-latur-mahila-morcha-daru-fea_2026071734202.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.084322"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरशेतात शौचास गेल्याच्या कारणावरुन परप्रांतीय मजुराला मारहाण, मजुराचा जागीच मृत्यू, शेतमालकाविरुद्ध गुन्हा दाखल",
-    "link": "https://marathi.abplive.com/news/latur/latur-crime-news-migrant-laborer-brutally-beaten-and-dies-on-the-spot-case-registered-against-the-farm-owner-1428585",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:23.991947"
-  },
-  {
-    "source": "Lokmat",
-    "title": "बोधन-मुखेड-लातूर रोड रेल्वे मार्ग अखेर नकाशावर! २४०९ कोटींच्या 'बूस्टर डोस'ची गरज! - Marathi News | Bodhan-Mukhed-Latur Road railway route finally on the map! Need for a 'booster dose' of Rs 2409 crore! | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/bodhan-mukhed-latur-road-railway-route-finally-on-the-map-need-for-a-booster-dose-of-rs-2409-crore-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.084907"
+    "timestamp": "2026-07-02T18:54:06.169600"
   },
   {
     "source": "Dainik Ekmat",
@@ -140,15 +92,7 @@ window.newsData = [
     "link": "https://epaper.dainikekmat.com/edition/22911/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T17:24:27.064042"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर जिल्ह्यात खळबळ: येरोळ सोसायटीच्या चेअरमनचा जिल्हा बँकेत आत्मदहनाचा प्रयत्न - Marathi News | Latur DCC Bank Chaos: Yerola Society Chairman Attempts Self-Immolation as Bank Refuses to Accept Loan Repayment | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-dcc-bank-chaos-yerola-society-chairman-attempts-self-immolation-as-bank-refuses-to-accept-loan-repayment-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.085085"
+    "timestamp": "2026-07-02T18:54:05.656814"
   },
   {
     "source": "ABP Majha",
@@ -156,23 +100,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-compensation-controversy-rohit-pawar-criticizes-maharashtra-government-marathi-news-1427736",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:23.992146"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरमध्ये भरचौकात मोठे झाड उन्मळून पडले; पोलीस कर्मचारी गंभीर जखमी, सिग्नलचे नुकसान - Marathi News | Latur Traffic Update: Falling Tree Injures Police Officer Vijay Kalangire and One Civilian at Renapur Naka | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-traffic-update-falling-tree-injures-police-officer-vijay-kalangire-and-one-civilian-at-renapur-naka-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.084999"
-  },
-  {
-    "source": "Lokmat",
-    "title": "ऐन पेरणीत गोरक्षकांच्या संशयाने शेतकऱ्यावर संकट; जप्त जोडी परत मिळताच बैलांची केली पूजा - Marathi News | Latur News: Kasarshirsi Police Return Farmer's Bulls Seized Over False Slaughter Suspicion | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-news-kasarshirsi-police-return-farmers-bulls-seized-over-false-slaughter-suspicion-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.084447"
+    "timestamp": "2026-07-02T18:54:02.981593"
   },
   {
     "source": "Lokmat",
@@ -180,6 +108,78 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/udgir-illegal-money-lending-case-fir-registered-against-piraji-balure-under-maharashtra-moneylending-act-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T17:24:24.084627"
+    "timestamp": "2026-07-02T18:54:03.041436"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरबैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:02.981480"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर जिल्ह्यात खळबळ: येरोळ सोसायटीच्या चेअरमनचा जिल्हा बँकेत आत्मदहनाचा प्रयत्न - Marathi News | Latur DCC Bank Chaos: Yerola Society Chairman Attempts Self-Immolation as Bank Refuses to Accept Loan Repayment | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-dcc-bank-chaos-yerola-society-chairman-attempts-self-immolation-as-bank-refuses-to-accept-loan-repayment-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:03.041851"
+  },
+  {
+    "source": "Lokmat",
+    "title": "ऐन पेरणीत गोरक्षकांच्या संशयाने शेतकऱ्यावर संकट; जप्त जोडी परत मिळताच बैलांची केली पूजा - Marathi News | Latur News: Kasarshirsi Police Return Farmer's Bulls Seized Over False Slaughter Suspicion | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-news-kasarshirsi-police-return-farmers-bulls-seized-over-false-slaughter-suspicion-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:03.041253"
+  },
+  {
+    "source": "Lokmat",
+    "title": "मजुरीच्या पैशांवरून वाद, दारूच्या नशेत मित्रानेच टॉवेलने हात बांधून गमज्याने गळा आवळला! - Marathi News | Latur Crime: Ahmedpur Murder Case Solved: Latur LCB Arrests Accused Balaji Jadhav for Strangling Govind Fatate Over Wage Dispute | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-crime-ahmedpur-murder-case-solved-latur-lcb-arrests-accused-balaji-jadhav-for-strangling-govind-fatate-over-wage-dispute-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:03.041525"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये उष्माघाताचा पहिला बळी, शेतकऱ्याचा दुर्दैवी अंत; उन्हात राबताना शरीरातील पाण्याची पातळी घटली",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:02.981914"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:02.981700"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरमध्ये भरचौकात मोठे झाड उन्मळून पडले; पोलीस कर्मचारी गंभीर जखमी, सिग्नलचे नुकसान - Marathi News | Latur Traffic Update: Falling Tree Injures Police Officer Vijay Kalangire and One Civilian at Renapur Naka | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-traffic-update-falling-tree-injures-police-officer-vijay-kalangire-and-one-civilian-at-renapur-naka-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:03.041771"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरशेतात शौचास गेल्याच्या कारणावरुन परप्रांतीय मजुराला मारहाण, मजुराचा जागीच मृत्यू, शेतमालकाविरुद्ध गुन्हा दाखल",
+    "link": "https://marathi.abplive.com/news/latur/latur-crime-news-migrant-laborer-brutally-beaten-and-dies-on-the-spot-case-registered-against-the-farm-owner-1428585",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:02.981397"
+  },
+  {
+    "source": "Lokmat",
+    "title": "बोधन-मुखेड-लातूर रोड रेल्वे मार्ग अखेर नकाशावर! २४०९ कोटींच्या 'बूस्टर डोस'ची गरज! - Marathi News | Bodhan-Mukhed-Latur Road railway route finally on the map! Need for a 'booster dose' of Rs 2409 crore! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/bodhan-mukhed-latur-road-railway-route-finally-on-the-map-need-for-a-booster-dose-of-rs-2409-crore-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T18:54:03.041692"
   }
 ];
