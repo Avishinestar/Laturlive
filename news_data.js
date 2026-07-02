@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-07-02/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T18:54:04.413313"
+    "timestamp": "2026-07-02T20:13:37.091446"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1229/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-07/page-1-8420370.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T18:54:05.128917"
+    "timestamp": "2026-07-02T20:13:37.832135"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1229/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-07/page-2-8285934.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T18:54:05.128925"
+    "timestamp": "2026-07-02T20:13:37.832144"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1229/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-07/page-3-4232735.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T18:54:05.128928"
+    "timestamp": "2026-07-02T20:13:37.832147"
   },
   {
     "source": "Latur Samachar",
@@ -37,94 +37,15 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1229/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-07/page-4-4571695.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T18:54:05.128931"
-  },
-  {
-    "source": "Lokmat",
-    "title": "'७५ किमीची पायपीट कशासाठी?'; किल्लारी अप्पर तहसीलच्या निर्णयाविरोधात मातोळा गाव एकवटले - Marathi News | Latur News: \"Why the 75 km walk?\"; Matola Villagers Oppose Inclusion in Proposed Killari Upper Tehsil Office; Pass ZP Resolution | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-news-why-the-75-km-walk-matola-villagers-oppose-inclusion-in-proposed-killari-upper-tehsil-office-pass-zp-resolution-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041349"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
-    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:02.981806"
-  },
-  {
-    "source": "Lokmat",
-    "title": "मुरुडमध्ये ट्यूशनला जाणाऱ्या मुलीची छेड; संतप्त नागरिकांनी तीन रोडरोमिओंना भररस्त्यात बदडले - Marathi News | Instant Justice In Latur! Angry Public Beats Up 3 Youths For Eveteasing Near Murud Bus Stand,Case Filed Under POCSO Act | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/instant-justice-in-latur-angry-public-beats-up-3-youths-for-eveteasing-near-murud-bus-standcase-filed-under-pocso-act-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041610"
-  },
-  {
-    "source": "Lokmat",
-    "title": "अवैध दारूविक्रीवरून ढाबा तोडला, आता शिवपूरच्या रणरागिणींचा पोलीस ठाण्यावर धडक मोर्चा",
-    "link": "https://www.lokmat.com/latur/latur-news-500-women-launch-protest-march-at-shirur-anantpal-police-station-demanding-action-against-illegal-liquor-den-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/shivpur-latur-mahila-morcha-daru-fea_2026071734202.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041160"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Ekmat News Clip",
-    "link": "https://epaper.dainikekmat.com/edition/22911/latur/page/3",
-    "image": "https://epaper.dainikekmat.com/uploads/epaper/2026-07/6a455d4417e60.jpg",
-    "clip": {
-      "x": 1199.78,
-      "y": 1164.64,
-      "w": 765.55,
-      "h": 655.11,
-      "full_width": 2007.9999999999998
-    },
-    "time_str": "Short News",
-    "timestamp": "2026-07-02T18:54:06.169600"
+    "timestamp": "2026-07-02T20:13:37.832150"
   },
   {
     "source": "Dainik Ekmat",
     "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22911/latur",
+    "link": "https://epaper.dainikekmat.com/edition/22919/latur",
     "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-02T18:54:05.656814"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर राज्य सरकारने शेतकऱ्याला दिलेला बैल आजारी निघाला, नांगर ओढताना खाली बसला, उपचाराचा भुर्दंड शेतकऱ्याच्या माथी",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-compensation-controversy-rohit-pawar-criticizes-maharashtra-government-marathi-news-1427736",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:02.981593"
-  },
-  {
-    "source": "Lokmat",
-    "title": "१० टक्के व्याजाने गरिबांचे शोषण! उदगीरमध्ये बड्या सावकाराचे बिंग फुटले; कोरे धनादेश, बाँड जप्त! - Marathi News | Udgir Illegal Money Lending Case: FIR Registered Against Piraji Balure Under Maharashtra Moneylending Act | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/udgir-illegal-money-lending-case-fir-registered-against-piraji-balure-under-maharashtra-moneylending-act-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041436"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरबैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:02.981480"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूर जिल्ह्यात खळबळ: येरोळ सोसायटीच्या चेअरमनचा जिल्हा बँकेत आत्मदहनाचा प्रयत्न - Marathi News | Latur DCC Bank Chaos: Yerola Society Chairman Attempts Self-Immolation as Bank Refuses to Accept Loan Repayment | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-dcc-bank-chaos-yerola-society-chairman-attempts-self-immolation-as-bank-refuses-to-accept-loan-repayment-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041851"
+    "timestamp": "2026-07-02T20:13:38.418214"
   },
   {
     "source": "Lokmat",
@@ -132,7 +53,30 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-news-kasarshirsi-police-return-farmers-bulls-seized-over-false-slaughter-suspicion-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041253"
+    "timestamp": "2026-07-02T20:13:36.117205"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूर जिल्ह्यात खळबळ: येरोळ सोसायटीच्या चेअरमनचा जिल्हा बँकेत आत्मदहनाचा प्रयत्न - Marathi News | Latur DCC Bank Chaos: Yerola Society Chairman Attempts Self-Immolation as Bank Refuses to Accept Loan Repayment | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-dcc-bank-chaos-yerola-society-chairman-attempts-self-immolation-as-bank-refuses-to-accept-loan-repayment-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T20:13:36.117813"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Ekmat News Clip",
+    "link": "https://epaper.dainikekmat.com/edition/22919/latur/page/3",
+    "image": "https://epaper.dainikekmat.com/uploads/epaper/2026-07/6a46acdc7683b.jpg",
+    "clip": {
+      "x": 1194.76,
+      "y": 1260.02,
+      "w": 780.61,
+      "h": 828.3,
+      "full_width": 2008.0000000000002
+    },
+    "time_str": "Short News",
+    "timestamp": "2026-07-02T20:13:38.944878"
   },
   {
     "source": "Lokmat",
@@ -140,7 +84,31 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-crime-ahmedpur-murder-case-solved-latur-lcb-arrests-accused-balaji-jadhav-for-strangling-govind-fatate-over-wage-dispute-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041525"
+    "timestamp": "2026-07-02T20:13:36.117477"
+  },
+  {
+    "source": "Lokmat",
+    "title": "'७५ किमीची पायपीट कशासाठी?'; किल्लारी अप्पर तहसीलच्या निर्णयाविरोधात मातोळा गाव एकवटले - Marathi News | Latur News: \"Why the 75 km walk?\"; Matola Villagers Oppose Inclusion in Proposed Killari Upper Tehsil Office; Pass ZP Resolution | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-news-why-the-75-km-walk-matola-villagers-oppose-inclusion-in-proposed-killari-upper-tehsil-office-pass-zp-resolution-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T20:13:36.117297"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरबैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T20:13:36.052173"
+  },
+  {
+    "source": "Lokmat",
+    "title": "अवैध दारूविक्रीवरून ढाबा तोडला, आता शिवपूरच्या रणरागिणींचा पोलीस ठाण्यावर धडक मोर्चा",
+    "link": "https://www.lokmat.com/latur/latur-news-500-women-launch-protest-march-at-shirur-anantpal-police-station-demanding-action-against-illegal-liquor-den-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/shivpur-latur-mahila-morcha-daru-fea_2026071734202.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T20:13:36.117100"
   },
   {
     "source": "ABP Majha",
@@ -148,15 +116,31 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-news-nilanga-farmer-death-due-to-heat-stroke-aurad-shahajani-maharashtra-1421096",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:02.981914"
+    "timestamp": "2026-07-02T20:13:36.052608"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "title": "लातूर राज्य सरकारने शेतकऱ्याला दिलेला बैल आजारी निघाला, नांगर ओढताना खाली बसला, उपचाराचा भुर्दंड शेतकऱ्याच्या माथी",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-compensation-controversy-rohit-pawar-criticizes-maharashtra-government-marathi-news-1427736",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:02.981700"
+    "timestamp": "2026-07-02T20:13:36.052284"
+  },
+  {
+    "source": "Lokmat",
+    "title": "मुरुडमध्ये ट्यूशनला जाणाऱ्या मुलीची छेड; संतप्त नागरिकांनी तीन रोडरोमिओंना भररस्त्यात बदडले - Marathi News | Instant Justice In Latur! Angry Public Beats Up 3 Youths For Eveteasing Near Murud Bus Stand,Case Filed Under POCSO Act | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/instant-justice-in-latur-angry-public-beats-up-3-youths-for-eveteasing-near-murud-bus-standcase-filed-under-pocso-act-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T20:13:36.117563"
+  },
+  {
+    "source": "Lokmat",
+    "title": "१० टक्के व्याजाने गरिबांचे शोषण! उदगीरमध्ये बड्या सावकाराचे बिंग फुटले; कोरे धनादेश, बाँड जप्त! - Marathi News | Udgir Illegal Money Lending Case: FIR Registered Against Piraji Balure Under Maharashtra Moneylending Act | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/udgir-illegal-money-lending-case-fir-registered-against-piraji-balure-under-maharashtra-moneylending-act-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T20:13:36.117383"
   },
   {
     "source": "Lokmat",
@@ -164,7 +148,7 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-traffic-update-falling-tree-injures-police-officer-vijay-kalangire-and-one-civilian-at-renapur-naka-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041771"
+    "timestamp": "2026-07-02T20:13:36.117730"
   },
   {
     "source": "ABP Majha",
@@ -172,7 +156,15 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-crime-news-migrant-laborer-brutally-beaten-and-dies-on-the-spot-case-registered-against-the-farm-owner-1428585",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:02.981397"
+    "timestamp": "2026-07-02T20:13:36.052091"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोटेगावकरांचा तांब्यातून विद्यार्थ्यांवर पाणी शिंपडण्याचा व्हिडिओ व्हायरल; अंनिसचा संताप, कसून चौकशीची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/neet-paper-leak-video-of-motegaonkar-spraying-water-on-students-from-a-copper-pot-goes-viral-anis-madhav-bagwe-furious-demands-investigation-1425318",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T20:13:36.052391"
   },
   {
     "source": "Lokmat",
@@ -180,6 +172,14 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/bodhan-mukhed-latur-road-railway-route-finally-on-the-map-need-for-a-booster-dose-of-rs-2409-crore-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-02T18:54:03.041692"
+    "timestamp": "2026-07-02T20:13:36.117648"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरच्या ट्युशन एरियावर प्रशासनाचा दणका, उद्योग भवन मधील क्लासेस, हॉस्टेल तात्काळ बंद करण्याचे आदेश",
+    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-latur-administration-order-to-close-classes-hostels-from-udyog-bhavan-marathi-news-1425105",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-02T20:13:36.052497"
   }
 ];
