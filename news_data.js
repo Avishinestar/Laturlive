@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-07-12/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-12T12:52:19.242797"
+    "timestamp": "2026-07-12T14:21:36.350663"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1247/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-07/page-1-5456399.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-12T12:52:19.994822"
+    "timestamp": "2026-07-12T14:21:36.968225"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1247/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-07/page-2-1025167.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-12T12:52:19.994833"
+    "timestamp": "2026-07-12T14:21:36.968233"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1247/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-07/page-3-8826779.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-12T12:52:19.994836"
+    "timestamp": "2026-07-12T14:21:36.968236"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1247/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-07/page-4-1443759.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-07-12T12:52:19.994838"
+    "timestamp": "2026-07-12T14:21:36.968238"
   },
   {
     "source": "ABP Majha",
@@ -45,159 +45,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-crime-news-migrant-laborer-brutally-beaten-and-dies-on-the-spot-case-registered-against-the-farm-owner-1428585",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728392"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Pradhanmantri Awaas Yogna",
-    "link": "https://mclatur.org/wp-content/uploads/2023/06/10-PAMY-Ramai-Gharkul-Divyang-Kalyan.pdf",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241681"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातूरमध्ये वाहनाला साईड देताना घात झाला! स्कूल बस उलटली, २८ विद्यार्थी बालंबाल बचावले - Marathi News | Latur School Bus Accident: 28 Students Narrowly Escape as Bus Flips into Ditch Near Renapur | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-school-bus-accident-28-students-narrowly-escape-as-bus-flips-into-ditch-near-renapur-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.023551"
-  },
-  {
-    "source": "Lokmat",
-    "title": "कुष्ठरोगाने बोटे निखळली, 'आधार' अपडेटअभावी ३ वर्षांपासून अनुदान बंद! वृद्धाची उपासमार! - Marathi News | Latur News: Leprosy Patient Denied Gharkul and Sanjay Gandhi Pension For 3 Years Over Biometric & Aadhar Update Failure | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-news-leprosy-patient-denied-gharkul-and-sanjay-gandhi-pension-for-3-years-over-biometric-aadhar-update-failure-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.023349"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरलातूरच्या उदगीरमध्ये धक्कादायक घटना, युवकानं उचलंलं टोकाचं जीवन, पोलीस ठाण्यात अकस्मात मृत्यूची नोंद",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-shocking-incident-in-udgir-latur-young-man-ends-his-life-1431163",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728133"
-  },
-  {
-    "source": "Lokmat",
-    "title": "बनावट दिव्यांग प्रमाणपत्रावर ग्रामसेवक झालेल्यांना कारावास; लातूर न्यायालयाचा मोठा निकाल - Marathi News | Latur Court Sentences Two to 3 Years in Prison for Submitting Fake Disability Certificates in Gram Sevak Recruitment | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-court-sentences-two-to-3-years-in-prison-for-submitting-fake-disability-certificates-in-gram-sevak-recruitment-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.023483"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Parliamentary Election-2024",
-    "link": "https://mclatur.org/parliamentary-election-2024/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241647"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Ongoing projects/works",
-    "link": "https://mclatur.org/#",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241565"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Register Your complaint",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241601"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Assembly Election 2024",
-    "link": "https://mclatur.org/assembly-election-2024/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241653"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर बैल गेला अन् संसार अडला! पेरणीसाठी अर्धांगिनीने खांद्यावर घेतले जू; व्हिडीओ व्हायरल झाल्यानंतर मुख्यमंत्र्यांच्या संवेदनशीलतेने शेतकऱ्याला मिळालं 'बैलजोड'",
-    "link": "https://marathi.abplive.com/news/latur/bull-killed-by-lightning-latur-farmer-gets-bull-after-cm-intervention-viral-video-cm-responds-after-farmer-viral-video-1427504",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728865"
-  },
-  {
-    "source": "Lokmat",
-    "title": "शेतमजुराच्या कुटुंबाला ७ वर्षांनी मिळाला न्याय! ॲट्रॉसिटीसह खुनाच्या गुन्ह्यात आरोपिस जन्मठेप - Marathi News | Ax Attack Over House Keys! Nilanga Court Jails Accused For Life In 2019 Atrocity & Murder Case | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/ax-attack-over-house-keys-nilanga-court-jails-accused-for-life-in-2019-atrocity-murder-case-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.023212"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पादुकादर्शन सोहळा आर्थिक अपहारातील आराेपीला अटक; लातुरातील राहत्या घरातून आवळल्या मुसक्या - Marathi News | Accused of financial fraud during Paduka Darshan ceremony arrested; Scammers arrested from Latur residence | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/accused-of-financial-fraud-during-paduka-darshan-ceremony-arrested-scammers-arrested-from-latur-residence-a-a463-c1013/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.023141"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूररेणापूरमध्ये चोरीप्रकरणी अल्पवयीन मुलांना खांबाला बांधून अमानुष मारहाण, व्हिडिओ व्हायरल, दोघांवर गुन्हा दाखल",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-renapur-minors-were-tied-to-a-pole-and-subjected-to-brutal-beatings-over-a-theft-incident-a-video-of-the-assault-has-gone-viral-and-a-case-has-been-registered-against-two-individuals-1431373",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728056"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर राष्ट्रवादी शरद पवार गटाचा एकही आमदार फुटणार नाही, रोहित पवारांना विश्वास, संजय दिना पाटलांवरही टीका",
-    "link": "https://marathi.abplive.com/news/latur/rohit-pawar-is-confident-that-not-a-single-mla-from-the-ncp-sharad-pawar-faction-will-split-1429404",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728295"
-  },
-  {
-    "source": "Lokmat",
-    "title": "दुचाकी टाकून शेतात पळाला; लातूर पोलिसांनी सिनेस्टाईल पाठलाग करत अट्टल चोरटा पकडला - Marathi News | Latur Housebreaking Case: LCB Arrests Notorious Thief Vijay Kale After 4-KM Cinematic Chase; Rs 13.59 Lakh Recovered | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-housebreaking-case-lcb-arrests-notorious-thief-vijay-kale-after-4-km-cinematic-chase-rs-1359-lakh-recovered-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.023282"
-  },
-  {
-    "source": "Lokmat",
-    "title": "केबल वायर चोरणाऱ्या तीन अल्पवयीन मुलांना खांबाला बांधून अमानुष मारहाण, रेणापूर तालुक्यातील घटना",
-    "link": "https://www.lokmat.com/latur/three-minors-tied-to-a-pole-and-brutally-beaten-for-stealing-cable-wires-incident-in-renapur-taluka-a-a732/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/renapur-crimeee_2026071740270.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.022993"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरधक्कादायक! मित्राच्या 1.5 लाख रुपयांसाठी जामीन राहिला; खासगी सावकाराने सव्वा कोटीची जमीन घेतली, अजूनही 70 लाखांची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/latur-nilanga-shocking-mony-lander-exploitation-stood-surety-for-a-friend-loan-of-1-5-lakh-private-moneylender-seized-land-worth-1-25-crore-1430388",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728193"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पोरांना खांबाला आणि झाडाला बांधले आणि बेदम मारलं, कारण...; लातूरमधील भयंकर घटनेचा व्हिडीओ",
-    "link": "https://www.lokmat.com/latur/latur-video-boys-tied-to-a-pole-and-a-tree-and-beaten-because-video-of-the-horrific-incident-in-latur-a-a571/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.022839"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर वीज कोसळून बैल मेला, माय जुंपली नांगराला; शेतकरी दाम्पत्याचा पोटात कालवणारा व्हिडिओ व्हायरल, सर्वत्र हळहळ",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-video-viral-women-farming-with-ox-heart-wrenching-video-ox-killed-by-lightning-strike-mother-yoked-to-the-plough-1427439",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728974"
+    "timestamp": "2026-07-12T14:21:32.713674"
   },
   {
     "source": "Dainik Ekmat",
@@ -212,87 +60,7 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-07-12T12:52:20.949091"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Tourism specific information",
-    "link": "https://mclatur.org/#",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241624"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur Video: पोरांना खांबाला आणि झाडाला बांधले आणि बेदम मारलं, कारण...; लातूरमधील भयंकर घटनेचा व्हिडीओ - Marathi News | Latur Video: Boys tied to a pole and a tree and beaten because...; Video of the horrific incident in Latur | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-video-boys-tied-to-a-pole-and-a-tree-and-beaten-because-video-of-the-horrific-incident-in-latur-a-a571/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.023070"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर बैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728679"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर आधी गोशाळेतला आजारी बैल, नंतर मुख्यमंत्र्यांचे थेट निर्देश, अखेर लातूरच्या शेतकऱ्याला मिळाला पसंतीचा बैल; गावात ओवाळून स्वागत",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-gets-new-healthy-bull-after-cm-devendra-fadnavis-order-maharashtra-marathi-news-1427838",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728586"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "RTI 2005 4 1 B Electrical dept.",
-    "link": "https://mclatur.org/rti-2005-4-1-b-electrical-dept/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241671"
-  },
-  {
-    "source": "Lokmat",
-    "title": "चालकाचा निष्काळजीपणा चिमूकल्यांच्या जिवावर; चाकूरजवळ स्कूलबस उलटून २२ विद्यार्थी जखमी - Marathi News | Latur School Bus Accident: 22 Students Injured as Bus Overturns Into Nallah Near Chakur | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-school-bus-accident-22-students-injured-as-bus-overturns-into-nallah-near-chakur-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:15.023415"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/22998/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-07-12T12:52:20.494258"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरमध्ये तीन गाड्यांचा भीषण अपघात; दुचाकीवर पत्नी-पत्नीचा मृत्यू, वॅगनॉरमधील 1 ठार, 2 जखमी",
-    "link": "https://marathi.abplive.com/news/latur/latur-nanded-horrific-three-vehicle-accident-in-latur-couple-on-two-wheeler-killed-one-dead-and-two-injured-in-wagonr-1427941",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728490"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर राज्य सरकारने शेतकऱ्याला दिलेला बैल आजारी निघाला, नांगर ओढताना खाली बसला, उपचाराचा भुर्दंड शेतकऱ्याच्या माथी",
-    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-compensation-controversy-rohit-pawar-criticizes-maharashtra-government-marathi-news-1427736",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-07-12T12:52:14.728772"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "General Election-2025",
-    "link": "https://mclatur.org/general-election-2025/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241582"
+    "timestamp": "2026-07-12T14:21:37.864768"
   },
   {
     "source": "MCLatur (Govt)",
@@ -300,7 +68,151 @@ window.newsData = [
     "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
     "image": "https://mclatur.org/images/logo.png",
     "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241611"
+    "timestamp": "2026-07-12T14:21:36.349611"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Parliamentary Election-2024",
+    "link": "https://mclatur.org/parliamentary-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-07-12T14:21:36.349647"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "General Election-2025",
+    "link": "https://mclatur.org/general-election-2025/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-07-12T14:21:36.349582"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Assembly Election 2024",
+    "link": "https://mclatur.org/assembly-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-07-12T14:21:36.349652"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पोरांना खांबाला आणि झाडाला बांधले आणि बेदम मारलं, कारण...; लातूरमधील भयंकर घटनेचा व्हिडीओ",
+    "link": "https://www.lokmat.com/latur/latur-video-boys-tied-to-a-pole-and-a-tree-and-beaten-because-video-of-the-horrific-incident-in-latur-a-a571/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.773388"
+  },
+  {
+    "source": "Lokmat",
+    "title": "चालकाचा निष्काळजीपणा चिमूकल्यांच्या जिवावर; चाकूरजवळ स्कूलबस उलटून २२ विद्यार्थी जखमी - Marathi News | Latur School Bus Accident: 22 Students Injured as Bus Overturns Into Nallah Near Chakur | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-school-bus-accident-22-students-injured-as-bus-overturns-into-nallah-near-chakur-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.774105"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Ongoing projects/works",
+    "link": "https://mclatur.org/#",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-07-12T14:21:36.349566"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur Video: पोरांना खांबाला आणि झाडाला बांधले आणि बेदम मारलं, कारण...; लातूरमधील भयंकर घटनेचा व्हिडीओ - Marathi News | Latur Video: Boys tied to a pole and a tree and beaten because...; Video of the horrific incident in Latur | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-video-boys-tied-to-a-pole-and-a-tree-and-beaten-because-video-of-the-horrific-incident-in-latur-a-a571/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.773665"
+  },
+  {
+    "source": "Lokmat",
+    "title": "केबल वायर चोरणाऱ्या तीन अल्पवयीन मुलांना खांबाला बांधून अमानुष मारहाण, रेणापूर तालुक्यातील घटना",
+    "link": "https://www.lokmat.com/latur/three-minors-tied-to-a-pole-and-brutally-beaten-for-stealing-cable-wires-incident-in-renapur-taluka-a-a732/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/renapur-crimeee_2026071740270.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.773559"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरमध्ये तीन गाड्यांचा भीषण अपघात; दुचाकीवर पत्नी-पत्नीचा मृत्यू, वॅगनॉरमधील 1 ठार, 2 जखमी",
+    "link": "https://marathi.abplive.com/news/latur/latur-nanded-horrific-three-vehicle-accident-in-latur-couple-on-two-wheeler-killed-one-dead-and-two-injured-in-wagonr-1427941",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.713789"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Tourism specific information",
+    "link": "https://mclatur.org/#",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-07-12T14:21:36.349623"
+  },
+  {
+    "source": "Lokmat",
+    "title": "दुचाकी टाकून शेतात पळाला; लातूर पोलिसांनी सिनेस्टाईल पाठलाग करत अट्टल चोरटा पकडला - Marathi News | Latur Housebreaking Case: LCB Arrests Notorious Thief Vijay Kale After 4-KM Cinematic Chase; Rs 13.59 Lakh Recovered | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-housebreaking-case-lcb-arrests-notorious-thief-vijay-kale-after-4-km-cinematic-chase-rs-1359-lakh-recovered-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.773932"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Register Your complaint",
+    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-07-12T14:21:36.349600"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "RTI 2005 4 1 B Electrical dept.",
+    "link": "https://mclatur.org/rti-2005-4-1-b-electrical-dept/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-07-12T14:21:36.349670"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर बैल गेला अन् संसार अडला! पेरणीसाठी अर्धांगिनीने खांद्यावर घेतले जू; व्हिडीओ व्हायरल झाल्यानंतर मुख्यमंत्र्यांच्या संवेदनशीलतेने शेतकऱ्याला मिळालं 'बैलजोड'",
+    "link": "https://marathi.abplive.com/news/latur/bull-killed-by-lightning-latur-farmer-gets-bull-after-cm-intervention-viral-video-cm-responds-after-farmer-viral-video-1427504",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.714229"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरलातूरच्या उदगीरमध्ये धक्कादायक घटना, युवकानं उचलंलं टोकाचं जीवन, पोलीस ठाण्यात अकस्मात मृत्यूची नोंद",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-shocking-incident-in-udgir-latur-young-man-ends-his-life-1431163",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.713346"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूररेणापूरमध्ये चोरीप्रकरणी अल्पवयीन मुलांना खांबाला बांधून अमानुष मारहाण, व्हिडिओ व्हायरल, दोघांवर गुन्हा दाखल",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-renapur-minors-were-tied-to-a-pole-and-subjected-to-brutal-beatings-over-a-theft-incident-a-video-of-the-assault-has-gone-viral-and-a-case-has-been-registered-against-two-individuals-1431373",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.713264"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर राष्ट्रवादी शरद पवार गटाचा एकही आमदार फुटणार नाही, रोहित पवारांना विश्वास, संजय दिना पाटलांवरही टीका",
+    "link": "https://marathi.abplive.com/news/latur/rohit-pawar-is-confident-that-not-a-single-mla-from-the-ncp-sharad-pawar-faction-will-split-1429404",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.713537"
+  },
+  {
+    "source": "Lokmat",
+    "title": "बनावट दिव्यांग प्रमाणपत्रावर ग्रामसेवक झालेल्यांना कारावास; लातूर न्यायालयाचा मोठा निकाल - Marathi News | Latur Court Sentences Two to 3 Years in Prison for Submitting Fake Disability Certificates in Gram Sevak Recruitment | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-court-sentences-two-to-3-years-in-prison-for-submitting-fake-disability-certificates-in-gram-sevak-recruitment-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.774191"
   },
   {
     "source": "MCLatur (Govt)",
@@ -308,6 +220,94 @@ window.newsData = [
     "link": "https://mclatur.org/corporation-initiatives/",
     "image": "https://mclatur.org/images/logo.png",
     "time_str": "Official Update",
-    "timestamp": "2026-07-12T12:52:19.241638"
+    "timestamp": "2026-07-12T14:21:36.349637"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातूरमध्ये वाहनाला साईड देताना घात झाला! स्कूल बस उलटली, २८ विद्यार्थी बालंबाल बचावले - Marathi News | Latur School Bus Accident: 28 Students Narrowly Escape as Bus Flips into Ditch Near Renapur | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-school-bus-accident-28-students-narrowly-escape-as-bus-flips-into-ditch-near-renapur-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.774277"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरधक्कादायक! मित्राच्या 1.5 लाख रुपयांसाठी जामीन राहिला; खासगी सावकाराने सव्वा कोटीची जमीन घेतली, अजूनही 70 लाखांची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/latur-nilanga-shocking-mony-lander-exploitation-stood-surety-for-a-friend-loan-of-1-5-lakh-private-moneylender-seized-land-worth-1-25-crore-1430388",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.713420"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर राज्य सरकारने शेतकऱ्याला दिलेला बैल आजारी निघाला, नांगर ओढताना खाली बसला, उपचाराचा भुर्दंड शेतकऱ्याच्या माथी",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-compensation-controversy-rohit-pawar-criticizes-maharashtra-government-marathi-news-1427736",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.714118"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर आधी गोशाळेतला आजारी बैल, नंतर मुख्यमंत्र्यांचे थेट निर्देश, अखेर लातूरच्या शेतकऱ्याला मिळाला पसंतीचा बैल; गावात ओवाळून स्वागत",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-gets-new-healthy-bull-after-cm-devendra-fadnavis-order-maharashtra-marathi-news-1427838",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.713901"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/22998/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-07-12T14:21:37.509158"
+  },
+  {
+    "source": "Lokmat",
+    "title": "कुष्ठरोगाने बोटे निखळली, 'आधार' अपडेटअभावी ३ वर्षांपासून अनुदान बंद! वृद्धाची उपासमार! - Marathi News | Latur News: Leprosy Patient Denied Gharkul and Sanjay Gandhi Pension For 3 Years Over Biometric & Aadhar Update Failure | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-news-leprosy-patient-denied-gharkul-and-sanjay-gandhi-pension-for-3-years-over-biometric-aadhar-update-failure-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.774019"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर वीज कोसळून बैल मेला, माय जुंपली नांगराला; शेतकरी दाम्पत्याचा पोटात कालवणारा व्हिडिओ व्हायरल, सर्वत्र हळहळ",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-video-viral-women-farming-with-ox-heart-wrenching-video-ox-killed-by-lightning-strike-mother-yoked-to-the-plough-1427439",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.714336"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर बैल दिला की थट्टा केली? सरकारने दिलेल्या आजारी बैलाने औत लावताच मान टाकली, लातूरच्या शेतकऱ्याची मोठी मागणी",
+    "link": "https://marathi.abplive.com/news/latur/latur-farmer-kashinath-gaikwad-sick-bull-administration-cm-devendra-fadnavis-marathi-news-1427772",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.714009"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Pradhanmantri Awaas Yogna",
+    "link": "https://mclatur.org/wp-content/uploads/2023/06/10-PAMY-Ramai-Gharkul-Divyang-Kalyan.pdf",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-07-12T14:21:36.349680"
+  },
+  {
+    "source": "Lokmat",
+    "title": "शेतमजुराच्या कुटुंबाला ७ वर्षांनी मिळाला न्याय! ॲट्रॉसिटीसह खुनाच्या गुन्ह्यात आरोपिस जन्मठेप - Marathi News | Ax Attack Over House Keys! Nilanga Court Jails Accused For Life In 2019 Atrocity & Murder Case | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/ax-attack-over-house-keys-nilanga-court-jails-accused-for-life-in-2019-atrocity-murder-case-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.773844"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पादुकादर्शन सोहळा आर्थिक अपहारातील आराेपीला अटक; लातुरातील राहत्या घरातून आवळल्या मुसक्या - Marathi News | Accused of financial fraud during Paduka Darshan ceremony arrested; Scammers arrested from Latur residence | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/accused-of-financial-fraud-during-paduka-darshan-ceremony-arrested-scammers-arrested-from-latur-residence-a-a463-c1013/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-07-12T14:21:32.773755"
   }
 ];
