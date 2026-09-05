@@ -1,75 +1,59 @@
 window.newsData = [
   {
     "source": "Punyanagari E-Paper",
-    "title": "Punyanagari E-Paper (2026-09-04)",
-    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-09-04/page/1",
+    "title": "Punyanagari E-Paper (2026-09-05)",
+    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-09-05/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-04T23:31:24.492467"
+    "timestamp": "2026-09-05T01:47:52.647040"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 1 (04-09-2026)",
+    "title": "Latur Samachar - Page 1 (05-09-2026)",
     "link": "https://www.latursamachar.com/view/1339/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-09/page-1-2134526.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-04T23:31:25.167749"
+    "timestamp": "2026-09-05T01:47:53.915808"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 2 (04-09-2026)",
+    "title": "Latur Samachar - Page 2 (05-09-2026)",
     "link": "https://www.latursamachar.com/view/1339/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-09/page-2-6995208.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-04T23:31:25.167755"
+    "timestamp": "2026-09-05T01:47:53.915816"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 3 (04-09-2026)",
+    "title": "Latur Samachar - Page 3 (05-09-2026)",
     "link": "https://www.latursamachar.com/view/1339/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-09/page-3-7481234.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-04T23:31:25.167757"
+    "timestamp": "2026-09-05T01:47:53.915819"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 4 (04-09-2026)",
+    "title": "Latur Samachar - Page 4 (05-09-2026)",
     "link": "https://www.latursamachar.com/view/1339/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-09/page-4-3764711.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-04T23:31:25.167759"
+    "timestamp": "2026-09-05T01:47:53.915821"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 5 (04-09-2026)",
+    "title": "Latur Samachar - Page 5 (05-09-2026)",
     "link": "https://www.latursamachar.com/view/1339/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-09/page-5-8310702.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-04T23:31:25.167761"
+    "timestamp": "2026-09-05T01:47:53.915823"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 6 (04-09-2026)",
+    "title": "Latur Samachar - Page 6 (05-09-2026)",
     "link": "https://www.latursamachar.com/view/1339/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-09/page-6-5746444.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-04T23:31:25.167766"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर 15 वर्षे बंद असलेला कारखाना सहकारातून पुनर्जीवित, शेतकऱ्यांच्या हितासाठी अपवादात्मक निर्णय; अभिमन्यू पवारांनी स्पष्टच सांगितलं",
-    "link": "https://marathi.abplive.com/news/latur/abhimanyu-pawar-nilkantheshwar-killari-sugar-factory-ncdc-loan-cabinet-decision-marathi-news-1435269",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.120601"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/23454/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-09-04T23:31:26.165875"
+    "timestamp": "2026-09-05T01:47:53.915825"
   },
   {
     "source": "ABP Majha",
@@ -77,7 +61,79 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/education-minister-dada-bhuse-should-accept-moral-responsibility-and-resign-abhijeet-dipke-says-after-observing-the-condition-of-zilla-parishad-schools-latur-news-1436233",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.120335"
+    "timestamp": "2026-09-05T01:47:48.768830"
+  },
+  {
+    "source": "Lokmat",
+    "title": "MBBS प्रवेशात लातूर पुन्हा नंबर वन; AIMSपासून गव्हर्मेंटपर्यंत झळकले १ हजारहून अधिक तारे !",
+    "link": "https://www.lokmat.com/latur/latur-pattern-shines-again-over-1000-students-secure-mbbs-seats-in-first-round-outpacing-pune-mumbai-a-a462-c320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-pattern-mbbs-education-fea_2026091774988.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:49.100459"
+  },
+  {
+    "source": "Lokmat",
+    "title": "२,१४३ कोटींच्या महाघोटाळ्यात ‘पुणे कनेक्शन’ समोर ! सीए कलानीला ९ दिवसांची पोलिस कोठडी - Marathi News | Udgir ₹2,143-Cr Scam: CA Shyam Kalani Remanded To 9-Day Police Custody In Form 15-CB Fraud Case, Pune Connection Exposed | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/udgir-rs2143-cr-scam-ca-shyam-kalani-remanded-to-9-day-police-custody-in-form-15-cb-fraud-case-pune-connection-exposed-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:49.100849"
+  },
+  {
+    "source": "Lokmat",
+    "title": "चोरलेल्या गाडीचे तुकडे करायचे अन् सुट्टे पार्ट भंगारात विकायचे! लातुरात अट्टल चोरटा गजाआड - Marathi News | Shocking Modus Operandi! Latur LCB Nabs Thief Who Chopped Stolen Bikes Into Scrap; 12 Cases Solved, ₹2.93 Lakh Seized | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/shocking-modus-operandi-latur-lcb-nabs-thief-who-chopped-stolen-bikes-into-scrap-12-cases-solved-rs293-lakh-seized-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:49.100737"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/23454/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-09-05T01:47:54.794609"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर नीट पेपरफुटी प्रकरणातील आरोपी मोटगावकरांच्या 'RCC'ची नीट निकालात भरारी; 550 विद्यार्थ्यांना 530 हून अधिक गुण",
+    "link": "https://marathi.abplive.com/news/latur/rcc-latur-re-neet-result-shivraj-motegaonkar-coaching-centre-class-student-success-marathi-news-1432176",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.769820"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Pradhanmantri Awaas Yogna",
+    "link": "https://mclatur.org/wp-content/uploads/2023/06/10-PAMY-Ramai-Gharkul-Divyang-Kalyan.pdf",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.646073"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "RTI 2005 4 1 B Electrical dept.",
+    "link": "https://mclatur.org/rti-2005-4-1-b-electrical-dept/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.646063"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Corporation Initiatives",
+    "link": "https://mclatur.org/corporation-initiatives/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.646031"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Know Complaint escalation",
+    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.646005"
   },
   {
     "source": "ABP Majha",
@@ -85,7 +141,127 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/latur-news-one-has-to-pay-officials-to-avail-the-benefits-of-government-schemes-latur-sarpanch-issues-a-red-card-warning-1436208",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.120492"
+    "timestamp": "2026-09-05T01:47:48.768950"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Parliamentary Election-2024",
+    "link": "https://mclatur.org/parliamentary-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.646040"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Tourism specific information",
+    "link": "https://mclatur.org/#",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.646017"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Ongoing projects/works",
+    "link": "https://mclatur.org/#",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.645956"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर नीट पेपरफुटी प्रकरणात सीबीआयचे पहिले चार्जशीट दाखल; लातूर कनेक्शनसह तपास निर्णायक टप्प्यात",
+    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-case-cbi-charge-sheet-filed-latur-class-connection-news-1433659",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.769378"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर गॅस सिलेंडरमध्ये गॅस नाही तर निघाले तब्बल 4 लिटर पाणी, इंडेन गॅसवर ग्राहकाचा गंभीर आरोप, लातूर जिल्ह्याती घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-instead-of-gas-a-cylinder-yielded-a-staggering-4-liters-of-water-a-customer-has-made-a-serious-allegation-against-indane-gas-an-incident-from-latur-district-1433937",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.769274"
+  },
+  {
+    "source": "Lokmat",
+    "title": "व्याजाचा पाश अन् जीवे मारण्याची धमकी! लातूरमध्ये अवैध सावकारांच्या त्रासाला कंटाळून शेतकऱ्याने संपवले जीवन - Marathi News | Illegal Moneylending Horror! Farmer Dies By Suicide In Latur Over Harassment & Threats; 3 Booked | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/illegal-moneylending-horror-farmer-dies-by-suicide-in-latur-over-harassment-threats-3-booked-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:49.100648"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर तुकाराम मुंढेंच्या FDA चा धडाका, बेंगलोर अय्यंगार बेकरीवर धाड, गलिच्छपणा पाहून अधिकारीही चक्रावले",
+    "link": "https://marathi.abplive.com/news/latur/renapur-bangalore-iyangars-bakery-raid-tukaram-mundhe-food-safety-officer-latur-marathi-news-1432263",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.769699"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Assembly Election 2024",
+    "link": "https://mclatur.org/assembly-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.646046"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर 15 वर्षे बंद असलेला कारखाना सहकारातून पुनर्जीवित, शेतकऱ्यांच्या हितासाठी अपवादात्मक निर्णय; अभिमन्यू पवारांनी स्पष्टच सांगितलं",
+    "link": "https://marathi.abplive.com/news/latur/abhimanyu-pawar-nilkantheshwar-killari-sugar-factory-ncdc-loan-cabinet-decision-marathi-news-1435269",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.769061"
+  },
+  {
+    "source": "Lokmat",
+    "title": "माहरेचं रक्षाबंधन अखेरचं ठरलं! लातूरात सख्ख्या बहीण-भावाला ट्रकने चिरडले, जागीच अंत - Marathi News | Heartbreaking Highway Crash Latur! Siblings On Way To Meet Sick Cousin Crushed To Death By Truck In Renapur | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/heartbreaking-highway-crash-latur-siblings-on-way-to-meet-sick-cousin-crushed-to-death-by-truck-in-renapur-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:49.100559"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर पावसानं मारली दडी, पिकं वाचवण्यासाठी बळीराजाला पाणी विकत घेण्याची वेळ, लातूर जिल्ह्यातील शेतकऱ्याचा संघर्ष",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-due-to-the-lack-of-rainfall-farmers-in-latur-district-have-been-forced-to-purchase-water-to-save-their-crops-1432515",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.769483"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर परवाना निलंबित, तरीही बेकरी सुरु, प्रशासनाची लातूर जिल्ह्यातील रेणापूर पोलिसांत गुन्हा दाखल",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-bakery-continues-to-operate-despite-license-suspension-administration-lodges-complaint-with-renapur-police-in-latur-district-case-registered-1432406",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.769592"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूरमोठी बातमी! शाळेत अनधिकृत प्रवेश, अभिजीत दिपकेंसह 6 जणांवर गुन्हा; सीजेपीला स्कुल चलो अभियान भोवलं",
+    "link": "https://marathi.abplive.com/news/latur/a-case-has-been-registered-at-the-ausa-police-station-latur-against-six-individuals-including-cjp-abhijit-dipke-for-trespassing-into-a-zilla-parishad-school-1436434",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.768726"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "General Election-2025",
+    "link": "https://mclatur.org/general-election-2025/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.645975"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरच्या जवळगा साकोळ यात्रेत भीषण अपघात, आकाश पाळण्यात केस अडकून 15 वर्षीय विद्यार्थिनी गंभीर जखमी",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-horrific-accident-at-the-javalga-sakol-fair-in-latur-15-year-old-schoolgirl-critically-injured-after-her-hair-got-caught-in-a-ferris-wheel-1434048",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-05T01:47:48.769167"
   },
   {
     "source": "Dainik Ekmat",
@@ -100,110 +276,14 @@ window.newsData = [
       "full_width": 2007.9999999999993
     },
     "time_str": "Short News",
-    "timestamp": "2026-09-04T23:31:26.603417"
+    "timestamp": "2026-09-05T01:47:55.263177"
   },
   {
-    "source": "ABP Majha",
-    "title": "लातूर नीट पेपरफुटी प्रकरणात सीबीआयचे पहिले चार्जशीट दाखल; लातूर कनेक्शनसह तपास निर्णायक टप्प्यात",
-    "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-case-cbi-charge-sheet-filed-latur-class-connection-news-1433659",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.120921"
-  },
-  {
-    "source": "Lokmat",
-    "title": "MBBS प्रवेशात लातूर पुन्हा नंबर वन; AIMSपासून गव्हर्मेंटपर्यंत झळकले १ हजारहून अधिक तारे !",
-    "link": "https://www.lokmat.com/latur/latur-pattern-shines-again-over-1000-students-secure-mbbs-seats-in-first-round-outpacing-pune-mumbai-a-a462-c320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-pattern-mbbs-education-fea_2026091774988.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.440547"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर नीट पेपरफुटी प्रकरणातील आरोपी मोटगावकरांच्या 'RCC'ची नीट निकालात भरारी; 550 विद्यार्थ्यांना 530 हून अधिक गुण",
-    "link": "https://marathi.abplive.com/news/latur/rcc-latur-re-neet-result-shivraj-motegaonkar-coaching-centre-class-student-success-marathi-news-1432176",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.121354"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरच्या जवळगा साकोळ यात्रेत भीषण अपघात, आकाश पाळण्यात केस अडकून 15 वर्षीय विद्यार्थिनी गंभीर जखमी",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-horrific-accident-at-the-javalga-sakol-fair-in-latur-15-year-old-schoolgirl-critically-injured-after-her-hair-got-caught-in-a-ferris-wheel-1434048",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.120705"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूरमोठी बातमी! शाळेत अनधिकृत प्रवेश, अभिजीत दिपकेंसह 6 जणांवर गुन्हा; सीजेपीला स्कुल चलो अभियान भोवलं",
-    "link": "https://marathi.abplive.com/news/latur/a-case-has-been-registered-at-the-ausa-police-station-latur-against-six-individuals-including-cjp-abhijit-dipke-for-trespassing-into-a-zilla-parishad-school-1436434",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.120257"
-  },
-  {
-    "source": "Lokmat",
-    "title": "२,१४३ कोटींच्या महाघोटाळ्यात ‘पुणे कनेक्शन’ समोर ! सीए कलानीला ९ दिवसांची पोलिस कोठडी - Marathi News | Udgir ₹2,143-Cr Scam: CA Shyam Kalani Remanded To 9-Day Police Custody In Form 15-CB Fraud Case, Pune Connection Exposed | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/udgir-rs2143-cr-scam-ca-shyam-kalani-remanded-to-9-day-police-custody-in-form-15-cb-fraud-case-pune-connection-exposed-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.440917"
-  },
-  {
-    "source": "Lokmat",
-    "title": "माहरेचं रक्षाबंधन अखेरचं ठरलं! लातूरात सख्ख्या बहीण-भावाला ट्रकने चिरडले, जागीच अंत - Marathi News | Heartbreaking Highway Crash Latur! Siblings On Way To Meet Sick Cousin Crushed To Death By Truck In Renapur | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/heartbreaking-highway-crash-latur-siblings-on-way-to-meet-sick-cousin-crushed-to-death-by-truck-in-renapur-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.440649"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर गॅस सिलेंडरमध्ये गॅस नाही तर निघाले तब्बल 4 लिटर पाणी, इंडेन गॅसवर ग्राहकाचा गंभीर आरोप, लातूर जिल्ह्याती घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-instead-of-gas-a-cylinder-yielded-a-staggering-4-liters-of-water-a-customer-has-made-a-serious-allegation-against-indane-gas-an-incident-from-latur-district-1433937",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.120814"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर परवाना निलंबित, तरीही बेकरी सुरु, प्रशासनाची लातूर जिल्ह्यातील रेणापूर पोलिसांत गुन्हा दाखल",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-bakery-continues-to-operate-despite-license-suspension-administration-lodges-complaint-with-renapur-police-in-latur-district-case-registered-1432406",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.121143"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर तुकाराम मुंढेंच्या FDA चा धडाका, बेंगलोर अय्यंगार बेकरीवर धाड, गलिच्छपणा पाहून अधिकारीही चक्रावले",
-    "link": "https://marathi.abplive.com/news/latur/renapur-bangalore-iyangars-bakery-raid-tukaram-mundhe-food-safety-officer-latur-marathi-news-1432263",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.121252"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर पावसानं मारली दडी, पिकं वाचवण्यासाठी बळीराजाला पाणी विकत घेण्याची वेळ, लातूर जिल्ह्यातील शेतकऱ्याचा संघर्ष",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-due-to-the-lack-of-rainfall-farmers-in-latur-district-have-been-forced-to-purchase-water-to-save-their-crops-1432515",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.121025"
-  },
-  {
-    "source": "Lokmat",
-    "title": "चोरलेल्या गाडीचे तुकडे करायचे अन् सुट्टे पार्ट भंगारात विकायचे! लातुरात अट्टल चोरटा गजाआड - Marathi News | Shocking Modus Operandi! Latur LCB Nabs Thief Who Chopped Stolen Bikes Into Scrap; 12 Cases Solved, ₹2.93 Lakh Seized | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/shocking-modus-operandi-latur-lcb-nabs-thief-who-chopped-stolen-bikes-into-scrap-12-cases-solved-rs293-lakh-seized-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.440831"
-  },
-  {
-    "source": "Lokmat",
-    "title": "व्याजाचा पाश अन् जीवे मारण्याची धमकी! लातूरमध्ये अवैध सावकारांच्या त्रासाला कंटाळून शेतकऱ्याने संपवले जीवन - Marathi News | Illegal Moneylending Horror! Farmer Dies By Suicide In Latur Over Harassment & Threats; 3 Booked | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/illegal-moneylending-horror-farmer-dies-by-suicide-in-latur-over-harassment-threats-3-booked-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-04T23:31:13.440742"
+    "source": "MCLatur (Govt)",
+    "title": "Register Your complaint",
+    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-05T01:47:52.645995"
   }
 ];
