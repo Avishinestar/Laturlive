@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-09-17/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-17T13:38:12.689796"
+    "timestamp": "2026-09-17T17:48:59.214194"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1366/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-09/page-1-7759568.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-17T13:38:13.379307"
+    "timestamp": "2026-09-17T17:49:00.067516"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1366/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-09/page-2-4226534.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-17T13:38:13.379315"
+    "timestamp": "2026-09-17T17:49:00.067525"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1366/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-09/page-3-2520111.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-17T13:38:13.379317"
+    "timestamp": "2026-09-17T17:49:00.067528"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1366/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-09/page-4-6011133.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-17T13:38:13.379320"
+    "timestamp": "2026-09-17T17:49:00.067530"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1366/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-09/page-5-7590323.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-17T13:38:13.379321"
+    "timestamp": "2026-09-17T17:49:00.067532"
   },
   {
     "source": "Latur Samachar",
@@ -53,7 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1366/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-09/page-6-1501861.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-17T13:38:13.379323"
+    "timestamp": "2026-09-17T17:49:00.067534"
   },
   {
     "source": "Divya Marathi",
@@ -61,7 +61,7 @@ window.newsData = [
     "link": "https://divyamarathi.bhaskar.com/local/maharashtra/aurangabad/osmanabad/news/latur-farmers-debt-waiver-shivendrasinhraje-bhosale-statement-139055352.html",
     "image": "https://images.bhaskarassets.com/web2images/5483/2026/09/17/new-project-2026-09-17t112848871_1789624843.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:15.070068"
+    "timestamp": "2026-09-17T17:49:01.705875"
   },
   {
     "source": "MCLatur (Govt)",
@@ -69,151 +69,15 @@ window.newsData = [
     "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
     "image": "https://mclatur.org/images/logo.png",
     "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688757"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Tourism specific information",
-    "link": "https://mclatur.org/#",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688777"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "General Election-2025",
-    "link": "https://mclatur.org/general-election-2025/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688743"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "RTI 2005 4 1 B Electrical dept.",
-    "link": "https://mclatur.org/rti-2005-4-1-b-electrical-dept/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688815"
+    "timestamp": "2026-09-17T17:48:59.213070"
   },
   {
     "source": "Lokmat",
-    "title": "वाळलेले सोयाबीन घेऊन लाडक्या बहिणी, शेतकऱ्यांचा आक्रोश! औसा तहसील कार्यालयावर माेर्चा - Marathi News | carrying dried soybeans, ladaki bahin and farmers' outcry! March on Ausa Tehsil office | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/carrying-dried-soybeans-ladaki-bahin-and-farmers-outcry-march-on-ausa-tehsil-office-a-a320/",
-    "image": null,
+    "title": "वाळूच्या पैश्यांच्या वादातून कोयता-चाकूने वार; परळीच्या व्यावसायिकाची लातुरात निर्घृण हत्या!",
+    "link": "https://www.lokmat.com/latur/latur-sand-businessman-from-parli-brutally-murdered-over-financial-dispute-two-injured-three-booked-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-murder-crime-parali-fea_2026091785635.jpg",
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.088101"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर लातूरच्या जवळगा साकोळ यात्रेत भीषण अपघात, आकाश पाळण्यात केस अडकून 15 वर्षीय विद्यार्थिनी गंभीर जखमी",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-horrific-accident-at-the-javalga-sakol-fair-in-latur-15-year-old-schoolgirl-critically-injured-after-her-hair-got-caught-in-a-ferris-wheel-1434048",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.027705"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पावसाचा दीर्घ खंड! दुष्काळाच्या मागणीसाठी लातूर- बार्शी महामार्गावर रास्तारोको - Marathi News | Long gap of rain! Road blockade on Latur-Barshi highway demanding drought relief | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/long-gap-of-rain-road-blockade-on-latur-barshi-highway-demanding-drought-relief-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.088049"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Pradhanmantri Awaas Yogna",
-    "link": "https://mclatur.org/wp-content/uploads/2023/06/10-PAMY-Ramai-Gharkul-Divyang-Kalyan.pdf",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688823"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर गॅस सिलेंडरमध्ये गॅस नाही तर निघाले तब्बल 4 लिटर पाणी, इंडेन गॅसवर ग्राहकाचा गंभीर आरोप, लातूर जिल्ह्याती घटना",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-instead-of-gas-a-cylinder-yielded-a-staggering-4-liters-of-water-a-customer-has-made-a-serious-allegation-against-indane-gas-an-incident-from-latur-district-1433937",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.027787"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Parliamentary Election-2024",
-    "link": "https://mclatur.org/parliamentary-election-2024/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688795"
-  },
-  {
-    "source": "Lokmat",
-    "title": "लातुरात हॉटेलमध्ये जेवण; शाब्दिक बाचाबाचीनंतर तरुणाचा खून, दोघे गंभीर जखमी",
-    "link": "https://www.lokmat.com/latur/a-young-man-was-murdered-after-a-verbal-altercation-while-eating-at-a-hotel-in-latur-a-a653/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/hjdrtc_2026091785031.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.087747"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पाऊस रुसल्याने ग्रामस्थांनी थेट नागनाथेश्वराची मूर्ती ठेवली पाण्यात; पिकांना वाचवण्यासाठी साकडे! - Marathi News | Drought Woes in Latur: Villagers Submerge Nagnatheshwar Idol in Water to Pray for Rain in Usturi Nilanga Taluka | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/drought-woes-in-latur-villagers-submerge-nagnatheshwar-idol-in-water-to-pray-for-rain-in-usturi-nilanga-taluka-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.087996"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/23553/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-09-17T13:38:14.433114"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर धर्मेंद्र प्रधानांच्या राजीनाम्यानंतर आता अभिजीत दिपकेंनी दादा भुसेंकडे मोर्चा वळवला, शाळांची अवस्था पाहून म्हटलं, 'नैतिक जबाबदारी स्वीकारून राजीनामा...'",
-    "link": "https://marathi.abplive.com/news/latur/education-minister-dada-bhuse-should-accept-moral-responsibility-and-resign-abhijeet-dipke-says-after-observing-the-condition-of-zilla-parishad-schools-latur-news-1436233",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.027464"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Sanjeev Sonawane: लातूरचे शिक्षण संस्थाचालक संजीव सोनवणे यांनी उचललं टोकाचं पाऊल, राहत्या घरातच...; शैक्षणिक क्षेत्रात शोककळा! - Marathi News | Latur educational institute director Sanjeev Sonawane committed suicide, shot himself in his residence | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-educational-institute-director-sanjeev-sonawane-committed-suicide-shot-himself-in-his-residence-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.088275"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर पावसानं मारली दडी, पिकं वाचवण्यासाठी बळीराजाला पाणी विकत घेण्याची वेळ, लातूर जिल्ह्यातील शेतकऱ्याचा संघर्ष",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-due-to-the-lack-of-rainfall-farmers-in-latur-district-have-been-forced-to-purchase-water-to-save-their-crops-1432515",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.027937"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Corporation Initiatives",
-    "link": "https://mclatur.org/corporation-initiatives/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688788"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Assembly Election 2024",
-    "link": "https://mclatur.org/assembly-election-2024/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688800"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर विहीर गोठा ते घरकुल! अधिकाऱ्यांना पैसे दिल्याशिवाय योजना मंजूर होईना, ग्रामसभेतच सरपंचानं वाचलं रेड कार्ड, कोणत्या कामासाठी किती पैसे?",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-one-has-to-pay-officials-to-avail-the-benefits-of-government-schemes-latur-sarpanch-issues-a-red-card-warning-1436208",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.027543"
+    "timestamp": "2026-09-17T17:48:56.216938"
   },
   {
     "source": "Lokmat",
@@ -221,7 +85,103 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/sambal-and-cymbals-rang-in-front-of-the-tehsil-office-congresss-wake-up-call-in-renapur-over-drought-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.087827"
+    "timestamp": "2026-09-17T17:48:56.217167"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "General Election-2025",
+    "link": "https://mclatur.org/general-election-2025/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213050"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/23553/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-09-17T17:49:01.177271"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पावसाचा दीर्घ खंड! दुष्काळाच्या मागणीसाठी लातूर- बार्शी महामार्गावर रास्तारोको - Marathi News | Long gap of rain! Road blockade on Latur-Barshi highway demanding drought relief | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/long-gap-of-rain-road-blockade-on-latur-barshi-highway-demanding-drought-relief-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:56.217523"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर लातूरच्या जवळगा साकोळ यात्रेत भीषण अपघात, आकाश पाळण्यात केस अडकून 15 वर्षीय विद्यार्थिनी गंभीर जखमी",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-horrific-accident-at-the-javalga-sakol-fair-in-latur-15-year-old-schoolgirl-critically-injured-after-her-hair-got-caught-in-a-ferris-wheel-1434048",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:55.898835"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोठी बातमी! शाळेत अनधिकृत प्रवेश, अभिजीत दिपकेंसह 6 जणांवर गुन्हा; सीजेपीला स्कुल चलो अभियान भोवलं",
+    "link": "https://marathi.abplive.com/news/latur/a-case-has-been-registered-at-the-ausa-police-station-latur-against-six-individuals-including-cjp-abhijit-dipke-for-trespassing-into-a-zilla-parishad-school-1436434",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:55.898381"
+  },
+  {
+    "source": "Lokmat",
+    "title": "'यासाठी कोणालाही जबाबदार धरू नका, चौकशीही करू नका', शिक्षण संस्थाचालक संजीव सोनवणेंनी मृत्यूपूर्वी काय लिहिले, 'त्या' चिठ्ठीत काय? - Marathi News | 'Don't hold anyone responsible for my death, don't even investigate', what did Sanjeev Sonawane write before his death, what was in 'that' note? | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/dont-hold-anyone-responsible-for-my-death-dont-even-investigate-what-did-sanjeev-sonawane-write-before-his-death-what-was-in-that-note-a-a463-c571/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:56.217264"
+  },
+  {
+    "source": "Lokmat",
+    "title": "लातुरात हॉटेलमध्ये जेवण; शाब्दिक बाचाबाचीनंतर तरुणाचा खून, दोघे गंभीर जखमी - Marathi News | A young man was murdered after a verbal altercation while eating at a hotel in Latur! | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/a-young-man-was-murdered-after-a-verbal-altercation-while-eating-at-a-hotel-in-latur-a-a653/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:56.217070"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर गॅस सिलेंडरमध्ये गॅस नाही तर निघाले तब्बल 4 लिटर पाणी, इंडेन गॅसवर ग्राहकाचा गंभीर आरोप, लातूर जिल्ह्याती घटना",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-instead-of-gas-a-cylinder-yielded-a-staggering-4-liters-of-water-a-customer-has-made-a-serious-allegation-against-indane-gas-an-incident-from-latur-district-1433937",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:55.898941"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Know Complaint escalation",
+    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213080"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर 15 वर्षे बंद असलेला कारखाना सहकारातून पुनर्जीवित, शेतकऱ्यांच्या हितासाठी अपवादात्मक निर्णय; अभिमन्यू पवारांनी स्पष्टच सांगितलं",
+    "link": "https://marathi.abplive.com/news/latur/abhimanyu-pawar-nilkantheshwar-killari-sugar-factory-ncdc-loan-cabinet-decision-marathi-news-1435269",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:55.898730"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पाऊस रुसल्याने ग्रामस्थांनी थेट नागनाथेश्वराची मूर्ती ठेवली पाण्यात; पिकांना वाचवण्यासाठी साकडे! - Marathi News | Drought Woes in Latur: Villagers Submerge Nagnatheshwar Idol in Water to Pray for Rain in Usturi Nilanga Taluka | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/drought-woes-in-latur-villagers-submerge-nagnatheshwar-idol-in-water-to-pray-for-rain-in-usturi-nilanga-taluka-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:56.217437"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर विहीर गोठा ते घरकुल! अधिकाऱ्यांना पैसे दिल्याशिवाय योजना मंजूर होईना, ग्रामसभेतच सरपंचानं वाचलं रेड कार्ड, कोणत्या कामासाठी किती पैसे?",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-one-has-to-pay-officials-to-avail-the-benefits-of-government-schemes-latur-sarpanch-issues-a-red-card-warning-1436208",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:55.898617"
   },
   {
     "source": "Dainik Ekmat",
@@ -236,15 +196,15 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-09-17T13:38:14.861871"
+    "timestamp": "2026-09-17T17:49:01.533256"
   },
   {
-    "source": "Lokmat",
-    "title": "निमंत्रण पत्रिका वाटल्या, तयारी झाली पण लातूर झेडपीचा शिक्षक पुरस्कारांचा मुहूर्त पुन्हा हुकला! - Marathi News | Latur Zilla Parishad Postpones District Teacher Awards Ceremony to September 17; Admin in Fix | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-zilla-parishad-postpones-district-teacher-awards-ceremony-to-september-17-admin-in-fix-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.087943"
+    "source": "MCLatur (Govt)",
+    "title": "Corporation Initiatives",
+    "link": "https://mclatur.org/corporation-initiatives/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213108"
   },
   {
     "source": "Lokmat",
@@ -252,23 +212,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/declare-a-drought-farmers-block-the-road-with-a-bullock-cart-march-on-the-latur-zahirabad-highway-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.088154"
+    "timestamp": "2026-09-17T17:48:56.217690"
   },
   {
     "source": "Lokmat",
-    "title": "'यासाठी कोणालाही जबाबदार धरू नका, चौकशीही करू नका', शिक्षण संस्थाचालक संजीव सोनवणेंनी मृत्यूपूर्वी काय लिहिले, 'त्या' चिठ्ठीत काय? - Marathi News | 'Don't hold anyone responsible for my death, don't even investigate', what did Sanjeev Sonawane write before his death, what was in 'that' note? | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/dont-hold-anyone-responsible-for-my-death-dont-even-investigate-what-did-sanjeev-sonawane-write-before-his-death-what-was-in-that-note-a-a463-c571/",
+    "title": "वाळलेले सोयाबीन घेऊन लाडक्या बहिणी, शेतकऱ्यांचा आक्रोश! औसा तहसील कार्यालयावर माेर्चा - Marathi News | carrying dried soybeans, ladaki bahin and farmers' outcry! March on Ausa Tehsil office | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/carrying-dried-soybeans-ladaki-bahin-and-farmers-outcry-march-on-ausa-tehsil-office-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.087888"
+    "timestamp": "2026-09-17T17:48:56.217606"
   },
   {
-    "source": "MCLatur (Govt)",
-    "title": "Know Complaint escalation",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688766"
+    "source": "Lokmat",
+    "title": "निमंत्रण पत्रिका वाटल्या, तयारी झाली पण लातूर झेडपीचा शिक्षक पुरस्कारांचा मुहूर्त पुन्हा हुकला! - Marathi News | Latur Zilla Parishad Postpones District Teacher Awards Ceremony to September 17; Admin in Fix | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-zilla-parishad-postpones-district-teacher-awards-ceremony-to-september-17-admin-in-fix-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-17T17:48:56.217351"
   },
   {
     "source": "ABP Majha",
@@ -276,15 +236,7 @@ window.newsData = [
     "link": "https://marathi.abplive.com/news/latur/neet-ug-paper-leak-case-cbi-charge-sheet-filed-latur-class-connection-news-1433659",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.027863"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Ongoing projects/works",
-    "link": "https://mclatur.org/#",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-09-17T13:38:12.688726"
+    "timestamp": "2026-09-17T17:48:55.899070"
   },
   {
     "source": "Lokmat",
@@ -292,22 +244,70 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-massive-11-foot-crocodile-rescued-from-sugarcane-field-near-manjara-river-in-deoni-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.088209"
+    "timestamp": "2026-09-17T17:48:56.217773"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Pradhanmantri Awaas Yogna",
+    "link": "https://mclatur.org/wp-content/uploads/2023/06/10-PAMY-Ramai-Gharkul-Divyang-Kalyan.pdf",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213158"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Assembly Election 2024",
+    "link": "https://mclatur.org/assembly-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213128"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर मोठी बातमी! शाळेत अनधिकृत प्रवेश, अभिजीत दिपकेंसह 6 जणांवर गुन्हा; सीजेपीला स्कुल चलो अभियान भोवलं",
-    "link": "https://marathi.abplive.com/news/latur/a-case-has-been-registered-at-the-ausa-police-station-latur-against-six-individuals-including-cjp-abhijit-dipke-for-trespassing-into-a-zilla-parishad-school-1436434",
+    "title": "लातूर धर्मेंद्र प्रधानांच्या राजीनाम्यानंतर आता अभिजीत दिपकेंनी दादा भुसेंकडे मोर्चा वळवला, शाळांची अवस्था पाहून म्हटलं, 'नैतिक जबाबदारी स्वीकारून राजीनामा...'",
+    "link": "https://marathi.abplive.com/news/latur/education-minister-dada-bhuse-should-accept-moral-responsibility-and-resign-abhijeet-dipke-says-after-observing-the-condition-of-zilla-parishad-schools-latur-news-1436233",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.027370"
+    "timestamp": "2026-09-17T17:48:55.898507"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "RTI 2005 4 1 B Electrical dept.",
+    "link": "https://mclatur.org/rti-2005-4-1-b-electrical-dept/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213147"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Parliamentary Election-2024",
+    "link": "https://mclatur.org/parliamentary-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213122"
   },
   {
     "source": "ABP Majha",
-    "title": "लातूर 15 वर्षे बंद असलेला कारखाना सहकारातून पुनर्जीवित, शेतकऱ्यांच्या हितासाठी अपवादात्मक निर्णय; अभिमन्यू पवारांनी स्पष्टच सांगितलं",
-    "link": "https://marathi.abplive.com/news/latur/abhimanyu-pawar-nilkantheshwar-killari-sugar-factory-ncdc-loan-cabinet-decision-marathi-news-1435269",
+    "title": "लातूर पावसानं मारली दडी, पिकं वाचवण्यासाठी बळीराजाला पाणी विकत घेण्याची वेळ, लातूर जिल्ह्यातील शेतकऱ्याचा संघर्ष",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-due-to-the-lack-of-rainfall-farmers-in-latur-district-have-been-forced-to-purchase-water-to-save-their-crops-1432515",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-17T13:38:10.027622"
+    "timestamp": "2026-09-17T17:48:55.899181"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Ongoing projects/works",
+    "link": "https://mclatur.org/#",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213034"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Tourism specific information",
+    "link": "https://mclatur.org/#",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-17T17:48:59.213093"
   }
 ];
