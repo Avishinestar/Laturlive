@@ -1,83 +1,75 @@
 window.newsData = [
   {
     "source": "Punyanagari E-Paper",
-    "title": "Punyanagari E-Paper (2026-09-29)",
-    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-09-29/page/1",
+    "title": "Punyanagari E-Paper (2026-09-30)",
+    "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-09-30/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-29T22:44:59.135394"
+    "timestamp": "2026-09-30T01:43:34.199149"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 1 (29-09-2026)",
+    "title": "Latur Samachar - Page 1 (30-09-2026)",
     "link": "https://www.latursamachar.com/view/1386/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-09/page-1-1439765.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-29T22:44:59.753395"
+    "timestamp": "2026-09-30T01:43:34.861905"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 2 (29-09-2026)",
+    "title": "Latur Samachar - Page 2 (30-09-2026)",
     "link": "https://www.latursamachar.com/view/1386/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-09/page-2-4254082.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-29T22:44:59.753403"
+    "timestamp": "2026-09-30T01:43:34.861914"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 3 (29-09-2026)",
+    "title": "Latur Samachar - Page 3 (30-09-2026)",
     "link": "https://www.latursamachar.com/view/1386/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-09/page-3-2815661.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-29T22:44:59.753406"
+    "timestamp": "2026-09-30T01:43:34.861917"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 4 (29-09-2026)",
+    "title": "Latur Samachar - Page 4 (30-09-2026)",
     "link": "https://www.latursamachar.com/view/1386/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-09/page-4-1691801.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-29T22:44:59.753408"
+    "timestamp": "2026-09-30T01:43:34.861919"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 5 (29-09-2026)",
+    "title": "Latur Samachar - Page 5 (30-09-2026)",
     "link": "https://www.latursamachar.com/view/1386/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-09/page-5-1929597.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-29T22:44:59.753410"
+    "timestamp": "2026-09-30T01:43:34.861920"
   },
   {
     "source": "Latur Samachar",
-    "title": "Latur Samachar - Page 6 (29-09-2026)",
+    "title": "Latur Samachar - Page 6 (30-09-2026)",
     "link": "https://www.latursamachar.com/view/1386/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-09/page-6-1806241.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-09-29T22:44:59.753412"
+    "timestamp": "2026-09-30T01:43:34.861922"
   },
   {
     "source": "Lokmat",
-    "title": "कुंडलीतील दोषाचा बनाव रचून मुलीवर घरातच अत्याचार; लातुरात भोंदूबाबाचे धक्कादायक कृत्य! - Marathi News | Latur: Self-Styled Godman Rameshwar Maharaj Arrested Under POCSO for Sexually Assaulting Minor Girl by saying Kundali Dosh Remove | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-self-styled-godman-rameshwar-maharaj-arrested-under-pocso-for-sexually-assaulting-minor-girl-by-saying-kundali-dosh-remove-a-a320/",
+    "title": "पावसाच्या खंडाने पिकं गेलं; हतबल शेतकऱ्यांनी १२ एकर सोयाबीनमध्ये सोडल्या शेळ्या-मेंढ्या! - Marathi News | Latur Drought Crisis: Distressed Farmers Release Goats & Sheep Into 12 Acres Of Failed Soybean Crop In Kelgaon | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-drought-crisis-distressed-farmers-release-goats-sheep-into-12-acres-of-failed-soybean-crop-in-kelgaon-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.490694"
+    "timestamp": "2026-09-30T01:43:31.192507"
   },
   {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/23650/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-09-29T22:45:00.802296"
-  },
-  {
-    "source": "Lokmat",
-    "title": "तलावात फक्त गाळ, संतप्त गावकऱ्यांनी विसर्जनासाठी बाप्पाची मूर्ती नेली थेट तहसील कार्यालयात! - Marathi News | No Water in Lake to Immerse Bappa! In Renapur Villagers Bring Ganesh Idol to Tehsil Office for Immersion Amid Water Scarcity and Mud in Lake | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/no-water-in-lake-to-immerse-bappa-in-renapur-villagers-bring-ganesh-idol-to-tehsil-office-for-immersion-amid-water-scarcity-and-mud-in-lake-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.490357"
+    "source": "MCLatur (Govt)",
+    "title": "Tourism specific information",
+    "link": "https://mclatur.org/#",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.198010"
   },
   {
     "source": "Lokmat",
@@ -85,7 +77,23 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/tragic-triple-accident-on-latur-tembhurni-highway-37-year-old-dies-while-overtaking-truck-two-seriously-injured-a-a1012/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.489985"
+    "timestamp": "2026-09-30T01:43:31.192325"
+  },
+  {
+    "source": "Lokmat",
+    "title": "वाहनाला कट मारल्याच्या कारणावरून वाद, तरुणावर कोयत्याने हल्ला, दोघेजण गंभीर जखमी; आरोपींना अटक",
+    "link": "https://www.lokmat.com/latur/latur-crime-news-youth-attacked-with-machete-over-vehicle-cut-dispute-in-thackeray-chowk-four-detained-a-a1012/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/latur-crime-3_2026091792560.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-09-30T01:43:31.192031"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर2 एकर शेती, डोक्यावर 1.40 लाखांचं कर्ज; पिकाने साथ सोडली अन् लातूरच्या शेतकऱ्याने जीवनयात्रा संपवली",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-33-year-old-farmer-takes-extreme-step-due-to-drought-crop-damage-and-debt-1440209",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-30T01:43:31.134439"
   },
   {
     "source": "Lokmat",
@@ -93,23 +101,103 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-accident-tragic-twist-of-fate-youth-dies-in-bike-crash-days-after-engagement-grief-grips-yerol-village-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.490095"
+    "timestamp": "2026-09-30T01:43:31.192417"
   },
   {
     "source": "Lokmat",
-    "title": "विसर्जन मिरवणुकीत डीजेचा दणदणाट भोवला; मंडळ अध्यक्षासह DJ चालक- मालकावर गुन्हा - Marathi News | Police Crackdown on Loud DJ in Visarjan! Case Filed Against Ganesh Mandal President and DJ Owner-Driver for Excessive Noise in Ramegaon | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/police-crackdown-on-loud-dj-in-visarjan-case-filed-against-ganesh-mandal-president-and-dj-owner-driver-for-excessive-noise-in-ramegaon-a-a320/",
+    "title": "'१९७२ च्या दुष्काळापेक्षाही यंदा भीषण परिस्थिती'; औसा येथे राष्ट्रवादीचे(शप) रास्तारोको आंदोलन - Marathi News | 'This year's situation is worse than the 1972 drought'; NCP's roadblock protest in Ausa | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/this-years-situation-is-worse-than-the-1972-drought-ncps-roadblock-protest-in-ausa-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.490440"
+    "timestamp": "2026-09-30T01:43:31.192856"
   },
   {
     "source": "Lokmat",
-    "title": "आरी ग्रामपंचायतीत १७ लाखांचा अपहार; तत्कालीन सरपंच, ग्रामसेवकावर गुन्हा दाखल - Marathi News | Shirur Anantpal: Former Sarpanch and Gram Sevak Booked for Rs 17 Lakh Embezzlement in Ari Gram Panchayat | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/shirur-anantpal-former-sarpanch-and-gram-sevak-booked-for-rs-17-lakh-embezzlement-in-ari-gram-panchayat-a-a320/",
+    "title": "मनसेचे रेणापूरात दंडवत आंदोलन; दुष्काळी GRची होळी करत हेक्टरी १ लाखांच्या मदतीची मागणी - Marathi News | In Renapur MNS Farmers Wing Holds 'Dandavat Protest', Burns Drought GR Demanding Up To Rs 2 Lakh Per Hectare | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/in-renapur-mns-farmers-wing-holds-dandavat-protest-burns-drought-gr-demanding-up-to-rs-2-lakh-per-hectare-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.490609"
+    "timestamp": "2026-09-30T01:43:31.192234"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Pradhanmantri Awaas Yogna",
+    "link": "https://mclatur.org/wp-content/uploads/2023/06/10-PAMY-Ramai-Gharkul-Divyang-Kalyan.pdf",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.198073"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Ongoing projects/works",
+    "link": "https://mclatur.org/#",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.197932"
+  },
+  {
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/23650/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-09-30T01:43:35.731329"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर धर्मेंद्र प्रधानांच्या राजीनाम्यानंतर आता अभिजीत दिपकेंनी दादा भुसेंकडे मोर्चा वळवला, शाळांची अवस्था पाहून म्हटलं, 'नैतिक जबाबदारी स्वीकारून राजीनामा...'",
+    "link": "https://marathi.abplive.com/news/latur/education-minister-dada-bhuse-should-accept-moral-responsibility-and-resign-abhijeet-dipke-says-after-observing-the-condition-of-zilla-parishad-schools-latur-news-1436233",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-30T01:43:31.134831"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "General Election-2025",
+    "link": "https://mclatur.org/general-election-2025/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.197949"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोठी बातमी! शाळेत अनधिकृत प्रवेश, अभिजीत दिपकेंसह 6 जणांवर गुन्हा; सीजेपीला स्कुल चलो अभियान भोवलं",
+    "link": "https://marathi.abplive.com/news/latur/a-case-has-been-registered-at-the-ausa-police-station-latur-against-six-individuals-including-cjp-abhijit-dipke-for-trespassing-into-a-zilla-parishad-school-1436434",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-30T01:43:31.134718"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Register Your complaint",
+    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.197985"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Corporation Initiatives",
+    "link": "https://mclatur.org/corporation-initiatives/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.198024"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Know Complaint escalation",
+    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.197997"
+  },
+  {
+    "source": "Lokmat",
+    "title": "तलावात फक्त गाळ, संतप्त गावकऱ्यांनी विसर्जनासाठी बाप्पाची मूर्ती नेली थेट तहसील कार्यालयात! - Marathi News | No Water in Lake to Immerse Bappa! In Renapur Villagers Bring Ganesh Idol to Tehsil Office for Immersion Amid Water Scarcity and Mud in Lake | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/no-water-in-lake-to-immerse-bappa-in-renapur-villagers-bring-ganesh-idol-to-tehsil-office-for-immersion-amid-water-scarcity-and-mud-in-lake-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-30T01:43:31.192686"
   },
   {
     "source": "Lokmat",
@@ -117,7 +205,55 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/latur-33-year-old-farmer-dies-by-suicide-over-crop-failure-and-debt-in-shirur-anantpal-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.490270"
+    "timestamp": "2026-09-30T01:43:31.192600"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Assembly Election 2024",
+    "link": "https://mclatur.org/assembly-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.198044"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "RTI 2005 4 1 B Electrical dept.",
+    "link": "https://mclatur.org/rti-2005-4-1-b-electrical-dept/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.198062"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur Accident: भरधाव कार अन् दुचाकीमध्ये भीषण धडक; एक ठार, दोन जण गंभीर जखमी - Marathi News | Latur Road Accident: 26-Year-Old Youth Dies After Car-Bike Collision, Two Seriously Injured | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-road-accident-26-year-old-youth-dies-after-car-bike-collision-two-seriously-injured-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-30T01:43:31.192142"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर जबाबदारी ओळखा! झोपलेल्या आणि मोबाईलवर खेळणाऱ्या अधिकाऱ्यांना बडतर्फ करा, रोहित पवारांचा संताप, दुष्काळात होरपळणाऱ्या शेतकऱ्याला मदत देण्याची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/rohit-pawar-news-dismiss-officials-found-sleeping-or-playing-games-on-their-mobile-phones-rohit-pawar-expresses-outrage-and-demands-aid-for-drought-affected-farmers-1439725",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-30T01:43:31.134584"
+  },
+  {
+    "source": "Lokmat",
+    "title": "विसर्जन मिरवणुकीत डीजेचा दणदणाट भोवला; मंडळ अध्यक्षासह DJ चालक- मालकावर गुन्हा - Marathi News | Police Crackdown on Loud DJ in Visarjan! Case Filed Against Ganesh Mandal President and DJ Owner-Driver for Excessive Noise in Ramegaon | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/police-crackdown-on-loud-dj-in-visarjan-case-filed-against-ganesh-mandal-president-and-dj-owner-driver-for-excessive-noise-in-ramegaon-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-09-30T01:43:31.192771"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Parliamentary Election-2024",
+    "link": "https://mclatur.org/parliamentary-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-09-30T01:43:34.198038"
   },
   {
     "source": "Dainik Ekmat",
@@ -132,62 +268,6 @@ window.newsData = [
       "full_width": 2007.9999999999998
     },
     "time_str": "Short News",
-    "timestamp": "2026-09-29T22:45:01.123818"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर जबाबदारी ओळखा! झोपलेल्या आणि मोबाईलवर खेळणाऱ्या अधिकाऱ्यांना बडतर्फ करा, रोहित पवारांचा संताप, दुष्काळात होरपळणाऱ्या शेतकऱ्याला मदत देण्याची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/rohit-pawar-news-dismiss-officials-found-sleeping-or-playing-games-on-their-mobile-phones-rohit-pawar-expresses-outrage-and-demands-aid-for-drought-affected-farmers-1439725",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.173140"
-  },
-  {
-    "source": "Lokmat",
-    "title": "मनसेचे रेणापूरात दंडवत आंदोलन; दुष्काळी GRची होळी करत हेक्टरी १ लाखांच्या मदतीची मागणी",
-    "link": "https://www.lokmat.com/latur/in-renapur-mns-farmers-wing-holds-dandavat-protest-burns-drought-gr-demanding-up-to-rs-2-lakh-per-hectare-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/mns-renapur-latur-dandwat-agitation-fea_2026091792164.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.489874"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर मोठी बातमी! शाळेत अनधिकृत प्रवेश, अभिजीत दिपकेंसह 6 जणांवर गुन्हा; सीजेपीला स्कुल चलो अभियान भोवलं",
-    "link": "https://marathi.abplive.com/news/latur/a-case-has-been-registered-at-the-ausa-police-station-latur-against-six-individuals-including-cjp-abhijit-dipke-for-trespassing-into-a-zilla-parishad-school-1436434",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.173263"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर2 एकर शेती, डोक्यावर 1.40 लाखांचं कर्ज; पिकाने साथ सोडली अन् लातूरच्या शेतकऱ्याने जीवनयात्रा संपवली",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-33-year-old-farmer-takes-extreme-step-due-to-drought-crop-damage-and-debt-1440209",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.172978"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर धर्मेंद्र प्रधानांच्या राजीनाम्यानंतर आता अभिजीत दिपकेंनी दादा भुसेंकडे मोर्चा वळवला, शाळांची अवस्था पाहून म्हटलं, 'नैतिक जबाबदारी स्वीकारून राजीनामा...'",
-    "link": "https://marathi.abplive.com/news/latur/education-minister-dada-bhuse-should-accept-moral-responsibility-and-resign-abhijeet-dipke-says-after-observing-the-condition-of-zilla-parishad-schools-latur-news-1436233",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.173377"
-  },
-  {
-    "source": "Lokmat",
-    "title": "'१९७२ च्या दुष्काळापेक्षाही यंदा भीषण परिस्थिती'; औसा येथे राष्ट्रवादीचे(शप) रास्तारोको आंदोलन - Marathi News | 'This year's situation is worse than the 1972 drought'; NCP's roadblock protest in Ausa | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/this-years-situation-is-worse-than-the-1972-drought-ncps-roadblock-protest-in-ausa-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.490522"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पावसाच्या खंडाने पिकं गेलं; हतबल शेतकऱ्यांनी १२ एकर सोयाबीनमध्ये सोडल्या शेळ्या-मेंढ्या! - Marathi News | Latur Drought Crisis: Distressed Farmers Release Goats & Sheep Into 12 Acres Of Failed Soybean Crop In Kelgaon | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-drought-crisis-distressed-farmers-release-goats-sheep-into-12-acres-of-failed-soybean-crop-in-kelgaon-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-09-29T22:44:48.490186"
+    "timestamp": "2026-09-30T01:43:35.954371"
   }
 ];
