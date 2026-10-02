@@ -5,7 +5,7 @@ window.newsData = [
     "link": "https://epaper.punyanagari.in/edition/Latur/PNAGARI_LTR/date/2026-10-02/page/1",
     "image": "https://epaper.punyanagari.in/assets/images/logo.png",
     "time_str": "Today's Edition",
-    "timestamp": "2026-10-02T13:18:13.922669"
+    "timestamp": "2026-10-02T18:33:42.659829"
   },
   {
     "source": "Latur Samachar",
@@ -13,7 +13,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1392/latur-main/1",
     "image": "https://www.latursamachar.com/media/2026-10/page-1-6181990.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-10-02T13:18:14.734913"
+    "timestamp": "2026-10-02T18:33:43.501774"
   },
   {
     "source": "Latur Samachar",
@@ -21,7 +21,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1392/latur-main/2",
     "image": "https://www.latursamachar.com/media/2026-10/page-2-9157797.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-10-02T13:18:14.734921"
+    "timestamp": "2026-10-02T18:33:43.501782"
   },
   {
     "source": "Latur Samachar",
@@ -29,7 +29,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1392/latur-main/3",
     "image": "https://www.latursamachar.com/media/2026-10/page-3-7790919.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-10-02T13:18:14.734924"
+    "timestamp": "2026-10-02T18:33:43.501785"
   },
   {
     "source": "Latur Samachar",
@@ -37,7 +37,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1392/latur-main/4",
     "image": "https://www.latursamachar.com/media/2026-10/page-4-6945819.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-10-02T13:18:14.734926"
+    "timestamp": "2026-10-02T18:33:43.501787"
   },
   {
     "source": "Latur Samachar",
@@ -45,7 +45,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1392/latur-main/5",
     "image": "https://www.latursamachar.com/media/2026-10/page-5-7364237.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-10-02T13:18:14.734928"
+    "timestamp": "2026-10-02T18:33:43.501789"
   },
   {
     "source": "Latur Samachar",
@@ -53,119 +53,7 @@ window.newsData = [
     "link": "https://www.latursamachar.com/view/1392/latur-main/6",
     "image": "https://www.latursamachar.com/media/2026-10/page-6-2702121.jpg",
     "time_str": "Today's Edition",
-    "timestamp": "2026-10-02T13:18:14.734930"
-  },
-  {
-    "source": "Lokmat",
-    "title": "तलावात फक्त गाळ, संतप्त गावकऱ्यांनी विसर्जनासाठी बाप्पाची मूर्ती नेली थेट तहसील कार्यालयात! - Marathi News | No Water in Lake to Immerse Bappa! In Renapur Villagers Bring Ganesh Idol to Tehsil Office for Immersion Amid Water Scarcity and Mud in Lake | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/no-water-in-lake-to-immerse-bappa-in-renapur-villagers-bring-ganesh-idol-to-tehsil-office-for-immersion-amid-water-scarcity-and-mud-in-lake-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.091367"
-  },
-  {
-    "source": "Lokmat",
-    "title": "MahaDBTच्या 'जात वैधते' मुळे शिष्यवृत्तीला खीळ; लातूरच्या ३५ हजार विद्यार्थ्यांना फटका!",
-    "link": "https://www.lokmat.com/latur/latur-caste-validity-mandate-on-mahadbt-stalls-scholarship-applications-for-35000-non-professional-students-a-a320/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/mahadbt-scholarship-latur-education-fea_2026091792732.jpg",
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.090669"
-  },
-  {
-    "source": "Lokmat",
-    "title": "विसर्जन मिरवणुकीत डीजेचा दणदणाट भोवला; मंडळ अध्यक्षासह DJ चालक- मालकावर गुन्हा - Marathi News | Police Crackdown on Loud DJ in Visarjan! Case Filed Against Ganesh Mandal President and DJ Owner-Driver for Excessive Noise in Ramegaon | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/police-crackdown-on-loud-dj-in-visarjan-case-filed-against-ganesh-mandal-president-and-dj-owner-driver-for-excessive-noise-in-ramegaon-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.091477"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पावसाच्या खंडाने पिकं गेलं; हतबल शेतकऱ्यांनी १२ एकर सोयाबीनमध्ये सोडल्या शेळ्या-मेंढ्या! - Marathi News | Latur Drought Crisis: Distressed Farmers Release Goats & Sheep Into 12 Acres Of Failed Soybean Crop In Kelgaon | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-drought-crisis-distressed-farmers-release-goats-sheep-into-12-acres-of-failed-soybean-crop-in-kelgaon-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.091202"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Parliamentary Election-2024",
-    "link": "https://mclatur.org/parliamentary-election-2024/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921657"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर जबाबदारी ओळखा! झोपलेल्या आणि मोबाईलवर खेळणाऱ्या अधिकाऱ्यांना बडतर्फ करा, रोहित पवारांचा संताप, दुष्काळात होरपळणाऱ्या शेतकऱ्याला मदत देण्याची मागणी",
-    "link": "https://marathi.abplive.com/news/latur/rohit-pawar-news-dismiss-officials-found-sleeping-or-playing-games-on-their-mobile-phones-rohit-pawar-expresses-outrage-and-demands-aid-for-drought-affected-farmers-1439725",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:10.777810"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Assembly Election 2024",
-    "link": "https://mclatur.org/assembly-election-2024/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921663"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Pradhanmantri Awaas Yogna",
-    "link": "https://mclatur.org/wp-content/uploads/2023/06/10-PAMY-Ramai-Gharkul-Divyang-Kalyan.pdf",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921691"
-  },
-  {
-    "source": "Lokmat",
-    "title": "मनसेचे रेणापूरात दंडवत आंदोलन; दुष्काळी GRची होळी करत हेक्टरी १ लाखांच्या मदतीची मागणी - Marathi News | In Renapur MNS Farmers Wing Holds 'Dandavat Protest', Burns Drought GR Demanding Up To Rs 2 Lakh Per Hectare | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/in-renapur-mns-farmers-wing-holds-dandavat-protest-burns-drought-gr-demanding-up-to-rs-2-lakh-per-hectare-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.090951"
-  },
-  {
-    "source": "Lokmat",
-    "title": "पावसाने दगा दिला अन् बँकेचे कर्ज डोक्यावर! लातूरमध्ये तरुण शेतकऱ्याने संपवली जीवनयात्रा - Marathi News | Latur: 33-Year-Old Farmer Dies By Suicide Over Crop Failure And Debt In Shirur Anantpal | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-33-year-old-farmer-dies-by-suicide-over-crop-failure-and-debt-in-shirur-anantpal-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.091283"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "RTI 2005 4 1 B Electrical dept.",
-    "link": "https://mclatur.org/rti-2005-4-1-b-electrical-dept/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921681"
-  },
-  {
-    "source": "Lokmat",
-    "title": "Latur Accident: भरधाव कार अन् दुचाकीमध्ये भीषण धडक; एक ठार, दोन जण गंभीर जखमी - Marathi News | Latur Road Accident: 26-Year-Old Youth Dies After Car-Bike Collision, Two Seriously Injured | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-road-accident-26-year-old-youth-dies-after-car-bike-collision-two-seriously-injured-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.090861"
-  },
-  {
-    "source": "Lokmat",
-    "title": "साखरपुड्याचा आनंद हिरावला! लग्नाची तयारी सुरू असतानाच तरुणाचा अपघातात दुर्दैवी अंत - Marathi News | Latur Accident: Tragic Twist Of Fate! Youth Dies In Bike Crash Days After Engagement; Grief Grips Yerol Village | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-accident-tragic-twist-of-fate-youth-dies-in-bike-crash-days-after-engagement-grief-grips-yerol-village-a-a320/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.091121"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Know Complaint escalation",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921617"
+    "timestamp": "2026-10-02T18:33:43.501791"
   },
   {
     "source": "MCLatur (Govt)",
@@ -173,7 +61,31 @@ window.newsData = [
     "link": "https://mclatur.org/#",
     "image": "https://mclatur.org/images/logo.png",
     "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921573"
+    "timestamp": "2026-10-02T18:33:42.658766"
+  },
+  {
+    "source": "Lokmat",
+    "title": "पावसाने दगा दिला अन् बँकेचे कर्ज डोक्यावर! लातूरमध्ये तरुण शेतकऱ्याने संपवली जीवनयात्रा - Marathi News | Latur: 33-Year-Old Farmer Dies By Suicide Over Crop Failure And Debt In Shirur Anantpal | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-33-year-old-farmer-dies-by-suicide-over-crop-failure-and-debt-in-shirur-anantpal-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.609773"
+  },
+  {
+    "source": "Lokmat",
+    "title": "तलावात फक्त गाळ, संतप्त गावकऱ्यांनी विसर्जनासाठी बाप्पाची मूर्ती नेली थेट तहसील कार्यालयात! - Marathi News | No Water in Lake to Immerse Bappa! In Renapur Villagers Bring Ganesh Idol to Tehsil Office for Immersion Amid Water Scarcity and Mud in Lake | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/no-water-in-lake-to-immerse-bappa-in-renapur-villagers-bring-ganesh-idol-to-tehsil-office-for-immersion-amid-water-scarcity-and-mud-in-lake-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.609864"
+  },
+  {
+    "source": "Lokmat",
+    "title": "MahaDBTच्या 'जात वैधते' मुळे शिष्यवृत्तीला खीळ; लातूरच्या ३५ हजार विद्यार्थ्यांना फटका!",
+    "link": "https://www.lokmat.com/latur/latur-caste-validity-mandate-on-mahadbt-stalls-scholarship-applications-for-35000-non-professional-students-a-a320/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/420x315/mahadbt-scholarship-latur-education-fea_2026091792732.jpg",
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.609158"
   },
   {
     "source": "MCLatur (Govt)",
@@ -181,31 +93,7 @@ window.newsData = [
     "link": "https://mclatur.org/corporation-initiatives/",
     "image": "https://mclatur.org/images/logo.png",
     "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921644"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "Register Your complaint",
-    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921607"
-  },
-  {
-    "source": "ABP Majha",
-    "title": "लातूर2 एकर शेती, डोक्यावर 1.40 लाखांचं कर्ज; पिकाने साथ सोडली अन् लातूरच्या शेतकऱ्याने जीवनयात्रा संपवली",
-    "link": "https://marathi.abplive.com/news/latur/latur-news-33-year-old-farmer-takes-extreme-step-due-to-drought-crop-damage-and-debt-1440209",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:10.777674"
-  },
-  {
-    "source": "Dainik Ekmat",
-    "title": "Dainik Ekmat E-Paper (Main Edition)",
-    "link": "https://epaper.dainikekmat.com/edition/23666/latur",
-    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
-    "time_str": "Today's Edition",
-    "timestamp": "2026-10-02T13:18:15.817944"
+    "timestamp": "2026-10-02T18:33:42.658843"
   },
   {
     "source": "Lokmat",
@@ -213,31 +101,15 @@ window.newsData = [
     "link": "https://www.lokmat.com/latur/tragic-triple-accident-on-latur-tembhurni-highway-37-year-old-dies-while-overtaking-truck-two-seriously-injured-a-a1012/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.091037"
+    "timestamp": "2026-10-02T18:33:39.609524"
   },
   {
-    "source": "ABP Majha",
-    "title": "लातूर धर्मेंद्र प्रधानांच्या राजीनाम्यानंतर आता अभिजीत दिपकेंनी दादा भुसेंकडे मोर्चा वळवला, शाळांची अवस्था पाहून म्हटलं, 'नैतिक जबाबदारी स्वीकारून राजीनामा...'",
-    "link": "https://marathi.abplive.com/news/latur/education-minister-dada-bhuse-should-accept-moral-responsibility-and-resign-abhijeet-dipke-says-after-observing-the-condition-of-zilla-parishad-schools-latur-news-1436233",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:10.778044"
-  },
-  {
-    "source": "Lokmat",
-    "title": "वाहनाला कट मारल्याच्या कारणावरून वाद, तरुणावर कोयत्याने हल्ला, दोघेजण गंभीर जखमी; आरोपींना अटक - Marathi News | Latur Crime News: Youth Attacked with Machete Over Vehicle Cut Dispute in Thackeray Chowk, Four Detained | Latest latur News at Lokmat.com",
-    "link": "https://www.lokmat.com/latur/latur-crime-news-youth-attacked-with-machete-over-vehicle-cut-dispute-in-thackeray-chowk-four-detained-a-a1012/",
-    "image": null,
-    "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:11.090775"
-  },
-  {
-    "source": "MCLatur (Govt)",
-    "title": "General Election-2025",
-    "link": "https://mclatur.org/general-election-2025/",
-    "image": "https://mclatur.org/images/logo.png",
-    "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921589"
+    "source": "Dainik Ekmat",
+    "title": "Dainik Ekmat E-Paper (Main Edition)",
+    "link": "https://epaper.dainikekmat.com/edition/23666/latur",
+    "image": "https://epaper.dainikekmat.com/assets/images/logo.png",
+    "time_str": "Today's Edition",
+    "timestamp": "2026-10-02T18:33:44.402284"
   },
   {
     "source": "MCLatur (Govt)",
@@ -245,7 +117,135 @@ window.newsData = [
     "link": "https://mclatur.org/#",
     "image": "https://mclatur.org/images/logo.png",
     "time_str": "Official Update",
-    "timestamp": "2026-10-02T13:18:13.921630"
+    "timestamp": "2026-10-02T18:33:42.658826"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Pradhanmantri Awaas Yogna",
+    "link": "https://mclatur.org/wp-content/uploads/2023/06/10-PAMY-Ramai-Gharkul-Divyang-Kalyan.pdf",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-10-02T18:33:42.658887"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Know Complaint escalation",
+    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-10-02T18:33:42.658810"
+  },
+  {
+    "source": "Lokmat",
+    "title": "मनसेचे रेणापूरात दंडवत आंदोलन; दुष्काळी GRची होळी करत हेक्टरी १ लाखांच्या मदतीची मागणी - Marathi News | In Renapur MNS Farmers Wing Holds 'Dandavat Protest', Burns Drought GR Demanding Up To Rs 2 Lakh Per Hectare | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/in-renapur-mns-farmers-wing-holds-dandavat-protest-burns-drought-gr-demanding-up-to-rs-2-lakh-per-hectare-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.609438"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर मोठी बातमी! शाळेत अनधिकृत प्रवेश, अभिजीत दिपकेंसह 6 जणांवर गुन्हा; सीजेपीला स्कुल चलो अभियान भोवलं",
+    "link": "https://marathi.abplive.com/news/latur/a-case-has-been-registered-at-the-ausa-police-station-latur-against-six-individuals-including-cjp-abhijit-dipke-for-trespassing-into-a-zilla-parishad-school-1436434",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.546131"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Assembly Election 2024",
+    "link": "https://mclatur.org/assembly-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-10-02T18:33:42.658859"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर जबाबदारी ओळखा! झोपलेल्या आणि मोबाईलवर खेळणाऱ्या अधिकाऱ्यांना बडतर्फ करा, रोहित पवारांचा संताप, दुष्काळात होरपळणाऱ्या शेतकऱ्याला मदत देण्याची मागणी",
+    "link": "https://marathi.abplive.com/news/latur/rohit-pawar-news-dismiss-officials-found-sleeping-or-playing-games-on-their-mobile-phones-rohit-pawar-expresses-outrage-and-demands-aid-for-drought-affected-farmers-1439725",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.546010"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Parliamentary Election-2024",
+    "link": "https://mclatur.org/parliamentary-election-2024/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-10-02T18:33:42.658853"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "Register Your complaint",
+    "link": "https://nagarkaryavali.com/ANCL_RTS/App/frmLoginUser.aspx?@=6BFEDC1D566D6F2BBBF5E3735ADE3ED6",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-10-02T18:33:42.658800"
+  },
+  {
+    "source": "Lokmat",
+    "title": "वाहनाला कट मारल्याच्या कारणावरून वाद, तरुणावर कोयत्याने हल्ला, दोघेजण गंभीर जखमी; आरोपींना अटक - Marathi News | Latur Crime News: Youth Attacked with Machete Over Vehicle Cut Dispute in Thackeray Chowk, Four Detained | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-crime-news-youth-attacked-with-machete-over-vehicle-cut-dispute-in-thackeray-chowk-four-detained-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.609254"
+  },
+  {
+    "source": "Lokmat",
+    "title": "साखरपुड्याचा आनंद हिरावला! लग्नाची तयारी सुरू असतानाच तरुणाचा अपघातात दुर्दैवी अंत - Marathi News | Latur Accident: Tragic Twist Of Fate! Youth Dies In Bike Crash Days After Engagement; Grief Grips Yerol Village | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-accident-tragic-twist-of-fate-youth-dies-in-bike-crash-days-after-engagement-grief-grips-yerol-village-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.609607"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर धर्मेंद्र प्रधानांच्या राजीनाम्यानंतर आता अभिजीत दिपकेंनी दादा भुसेंकडे मोर्चा वळवला, शाळांची अवस्था पाहून म्हटलं, 'नैतिक जबाबदारी स्वीकारून राजीनामा...'",
+    "link": "https://marathi.abplive.com/news/latur/education-minister-dada-bhuse-should-accept-moral-responsibility-and-resign-abhijeet-dipke-says-after-observing-the-condition-of-zilla-parishad-schools-latur-news-1436233",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.546238"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "RTI 2005 4 1 B Electrical dept.",
+    "link": "https://mclatur.org/rti-2005-4-1-b-electrical-dept/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-10-02T18:33:42.658877"
+  },
+  {
+    "source": "MCLatur (Govt)",
+    "title": "General Election-2025",
+    "link": "https://mclatur.org/general-election-2025/",
+    "image": "https://mclatur.org/images/logo.png",
+    "time_str": "Official Update",
+    "timestamp": "2026-10-02T18:33:42.658781"
+  },
+  {
+    "source": "Lokmat",
+    "title": "विसर्जन मिरवणुकीत डीजेचा दणदणाट भोवला; मंडळ अध्यक्षासह DJ चालक- मालकावर गुन्हा - Marathi News | Police Crackdown on Loud DJ in Visarjan! Case Filed Against Ganesh Mandal President and DJ Owner-Driver for Excessive Noise in Ramegaon | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/police-crackdown-on-loud-dj-in-visarjan-case-filed-against-ganesh-mandal-president-and-dj-owner-driver-for-excessive-noise-in-ramegaon-a-a320/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.609951"
+  },
+  {
+    "source": "Lokmat",
+    "title": "Latur Accident: भरधाव कार अन् दुचाकीमध्ये भीषण धडक; एक ठार, दोन जण गंभीर जखमी - Marathi News | Latur Road Accident: 26-Year-Old Youth Dies After Car-Bike Collision, Two Seriously Injured | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-road-accident-26-year-old-youth-dies-after-car-bike-collision-two-seriously-injured-a-a1012/",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.609349"
+  },
+  {
+    "source": "ABP Majha",
+    "title": "लातूर2 एकर शेती, डोक्यावर 1.40 लाखांचं कर्ज; पिकाने साथ सोडली अन् लातूरच्या शेतकऱ्याने जीवनयात्रा संपवली",
+    "link": "https://marathi.abplive.com/news/latur/latur-news-33-year-old-farmer-takes-extreme-step-due-to-drought-crop-damage-and-debt-1440209",
+    "image": null,
+    "time_str": "Recent",
+    "timestamp": "2026-10-02T18:33:39.545869"
   },
   {
     "source": "Dainik Ekmat",
@@ -260,14 +260,14 @@ window.newsData = [
       "full_width": 2008.0000000000002
     },
     "time_str": "Short News",
-    "timestamp": "2026-10-02T13:18:16.037616"
+    "timestamp": "2026-10-02T18:33:44.677699"
   },
   {
-    "source": "ABP Majha",
-    "title": "लातूर मोठी बातमी! शाळेत अनधिकृत प्रवेश, अभिजीत दिपकेंसह 6 जणांवर गुन्हा; सीजेपीला स्कुल चलो अभियान भोवलं",
-    "link": "https://marathi.abplive.com/news/latur/a-case-has-been-registered-at-the-ausa-police-station-latur-against-six-individuals-including-cjp-abhijit-dipke-for-trespassing-into-a-zilla-parishad-school-1436434",
+    "source": "Lokmat",
+    "title": "पावसाच्या खंडाने पिकं गेलं; हतबल शेतकऱ्यांनी १२ एकर सोयाबीनमध्ये सोडल्या शेळ्या-मेंढ्या! - Marathi News | Latur Drought Crisis: Distressed Farmers Release Goats & Sheep Into 12 Acres Of Failed Soybean Crop In Kelgaon | Latest latur News at Lokmat.com",
+    "link": "https://www.lokmat.com/latur/latur-drought-crisis-distressed-farmers-release-goats-sheep-into-12-acres-of-failed-soybean-crop-in-kelgaon-a-a320/",
     "image": null,
     "time_str": "Recent",
-    "timestamp": "2026-10-02T13:18:10.777933"
+    "timestamp": "2026-10-02T18:33:39.609690"
   }
 ];
